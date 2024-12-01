@@ -95,9 +95,9 @@ When I was a child, one of my favorite toys was my marble run. My favorite piece
 
 Now imagine if you will, two particles with gravitational force in space heading towards each other - not exactly at each other, but just at the correct angle so that their graviational fields caused them to enter a state of falling orbit closer and closer together. In this thought experiment, also imagine that these particles do not have the traditionally understood property that they collide when they take up the same space. Given a precise condition, these two particles would continue to orbit each other at a faster and faster rate, with a limit of frequency approaching the infinite.
 
-Now imagine a large number of objects entering a state of multi-orbit that can seem to reach a state of equilibrium. These states of motion exhibit a complex frequency, that could potentially exist in many different forms.
+Now imagine a large number of objects entering a state of multi-orbit that can seem to reach a state of equilibrium. These states of motion exhibit a complex frequency, that could potentially exist in many different forms. Many of these forms may not have orbital accelleration vectors that approach the infinite, which would affect how they interact with other systems in various states of motion.
 
-In either of those cases, in this paper those patterns of motions are referred to as being in a state of *co-orbit*.
+For either of those examples, for the purpose of this paper those entities in those patterns of motions are referred to as being in a state of *co-orbit*.
 
 ### The Quest for a Unified Theory <a href="#the-quest-for-a-unified-theory"></a>
 
@@ -139,7 +139,7 @@ Light is traditionally understood as both a particle (photon) and a wave, exhibi
 - **Wave Behavior:** The wave-like properties of light arise from the oscillatory nature of its energy flow. When unobserved, this multidimensional resonance interacts with its surroundings, producing interference patterns and diffraction.
 - **Particle Behavior:** Upon observation, the resonance collapses into a localized energy state, appearing as a photon. This collapse is a stabilization of the oscillation, akin to pinning a vibrating string at a specific point. This can be compared to a 2-dimensional photograph of 3-dimensional space. Recording the moment as a photo, even though it was a 3-dimensional moment, collapses when recorded as a 2-dimensional photograph.
 
-This reinterpretation resolves the paradox of duality by framing both behaviors as projections of the same underlying hyperdimensional motion.
+This reinterpretation resolves the paradox of duality by framing both behaviors as projections of the same underlying hyperdimensional motion that are observed from different dimensional perspectives.
 
 #### Co-Orbital Systems and the Emergence of Mass <a href="#co-orbital-systems-and-the-emergence-of-mass"></a>
 - Light’s hyperdimensional oscillation allows for the formation of **co-orbital systems**, where multiple energy flows align into stable patterns. These systems represent the building blocks of what we observe as mass.
