@@ -97,7 +97,7 @@ Now imagine if you will, two particles with gravitational force in space heading
 
 Now imagine a large number of objects entering a state of multi-orbit that can seem to reach a state of equilibrium. These states of motion exhibit a complex frequency, that could potentially exist in many different forms. Many of these forms may not have orbital accelleration vectors that approach the infinite, which would affect how they interact with other systems in various states of motion.
 
-For either of those examples, for the purpose of this paper those entities in those patterns of motions are referred to as being in a state of *co-orbit*.
+Although in a certain sense this theory rejects the concept of a "particle", when describing either of those examples entities in those patterns of motions are referred to as being in a state of *co-orbit*.
 
 ### The Quest for a Unified Theory <a href="#the-quest-for-a-unified-theory"></a>
 
