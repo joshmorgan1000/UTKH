@@ -10,6 +10,7 @@ Beyond its theoretical implications, UTKH opens new pathways for technological a
 ## Table of Contents
 
 1. [Introduction](#introduction)
+    - [Background: The "Newton's Apple" of this Theory](#background-newtons-apple)
     - [The Quest for a Unified Theory](#the-quest-for-a-unified-theory)
     - [Motion and Harmonics as Foundational Principles](#motion-and-harmonics-as-foundational-principles)
     - [Overview of the Universal Theory of Kinetic Harmonics (UTKH)](#overview-of-the-universal-theory-of-kinetic-harmonics-utkh)
@@ -88,18 +89,28 @@ Beyond its theoretical implications, UTKH opens new pathways for technological a
 
 ## Introduction <a href="#introduction"></a>
 
+### Background: The "Newton's Apple" of this Theory <a href="#background-newtons-apple"></a>
+
+When I was a child, one of my favorite toys was my marble run. My favorite piece of that set was the vortex. As the marble entered the section, it would orbit the outer edge, and while descending the frequency of its orbit would increase in speed until it eventually fell through the hole.
+
+Now imagine if you will, two particles with gravitational force in space heading towards each other - not exactly at each other, but just at the correct angle so that their graviational fields caused them to enter a state of falling orbit closer and closer together. In this thought experiment, also imagine that these particles do not have the traditionally understood property that they collide when they take up the same space. Given a precise condition, these two particles would continue to orbit each other at a faster and faster rate, with a limit of frequency approaching the infinite.
+
+Now imagine a large number of objects entering a state of multi-orbit that can seem to reach a state of equilibrium. These states of motion exhibit a complex frequency, that could potentially exist in many different forms.
+
+In either of those cases, in this paper those patterns of motions are referred to as being in a state of *co-orbit*.
+
 ### The Quest for a Unified Theory <a href="#the-quest-for-a-unified-theory"></a>
 
 Throughout history, humanity has sought to uncover the fundamental principles that govern the universe. From Newton’s laws of motion to Einstein’s theory of relativity and the advent of quantum mechanics, each milestone has brought us closer to understanding the nature of reality. However, a unified theory that seamlessly connects these paradigms—a **"theory of everything"**—has remained elusive. 
 
-The Universal Theory of Kinetic Harmonics (UTKH) is an attempt to fill this gap by introducing a cohesive framework that explains all known phenomena as emergent properties of **motion** and **harmonics**. By positing that light, mass, energy, and even gravity are manifestations of multidimensional resonances, UTKH offers a bold new perspective on the fundamental workings of the cosmos.
+The Universal Theory of Kinetic Harmonics (UTKH) is an attempt to fill this gap by introducing a cohesive framework that explains all known phenomena as emergent properties of **motion** and **harmonics** due to the various potential patterns of co-orbit. By positing that light, mass, energy, and even gravity are manifestations of multidimensional resonances, UTKH offers a bold new perspective on the fundamental workings of the cosmos.
 
 ---
 
 ### Motion and Harmonics as Foundational Principles <a href="#motion-and-harmonics-as-foundational-principles"></a>
 
 At its core, UTKH is built on two foundational concepts:
-1. **Kinetic Motion:** Everything in the universe is, at its most fundamental level, a form of motion. Light, traditionally viewed as both a particle and a wave, is redefined as a **hyperdimensional oscillation** of energy flows.
+1. **Kinetic Motion:** Everything in the universe is, at its most fundamental level, a form of motion. Light, traditionally viewed as both a particle and a wave, is redefined as a **hyperdimensional oscillation** of energy flows from co-ortibal patterns.
 2. **Harmonics:** Stable structures emerge from these energy flows through the principle of resonance, forming co-orbital systems that stabilize into what we observe as mass, forces, and other phenomena.
 
 This framework reinterprets classical concepts like gravity and quantum behavior as natural consequences of resonance and motion, bridging the gap between macroscopic and microscopic physics.
@@ -114,7 +125,7 @@ UTKH introduces several groundbreaking ideas:
 - **Light as a Multidimensional Oscillation:** The wave-particle duality of light is explained as the projection of a higher-dimensional resonance into three-dimensional space.
 - **Unified Explanation of Phenomena:** From quantum superposition and entanglement to cosmological redshift and dark energy, UTKH provides a single, elegant framework to describe these seemingly disparate phenomena.
 
-Through this lens, UTKH not only unifies physics but also offers new testable predictions and avenues for technological advancement, from materials science to quantum computing and medicine.
+Through this lens, UTKH not only hypothetically unifies physics, but also offers new testable predictions and avenues for technological advancement, from materials science to quantum computing and medicine.
 
 ---
 
@@ -126,7 +137,7 @@ Light is traditionally understood as both a particle (photon) and a wave, exhibi
 
 #### Explaining Wave-Particle Duality <a href="#explaining-wave-particle-duality"></a>
 - **Wave Behavior:** The wave-like properties of light arise from the oscillatory nature of its energy flow. When unobserved, this multidimensional resonance interacts with its surroundings, producing interference patterns and diffraction.
-- **Particle Behavior:** Upon observation, the resonance collapses into a localized energy state, appearing as a photon. This collapse is a stabilization of the oscillation, akin to pinning a vibrating string at a specific point.
+- **Particle Behavior:** Upon observation, the resonance collapses into a localized energy state, appearing as a photon. This collapse is a stabilization of the oscillation, akin to pinning a vibrating string at a specific point. This can be compared to a 2-dimensional photograph of 3-dimensional space. Recording the moment as a photo, even though it was a 3-dimensional moment, collapses when recorded as a 2-dimensional photograph.
 
 This reinterpretation resolves the paradox of duality by framing both behaviors as projections of the same underlying hyperdimensional motion.
 
@@ -145,7 +156,7 @@ Nature favors configurations that minimize instability, a principle reflected in
 - Aligning energy flows into harmonic patterns.
 - Reducing destructive interference and energy dissipation.
 
-UTKH extends this principle universally, proposing that all stable systems—from atoms to galaxies—arise from resonance-driven minimization of instability.
+UTKH extends this principle universally, proposing that all stable systems — from atoms to galaxies — arise from resonance-driven minimization of instability.
 
 #### Symmetry and Harmonic Structures <a href="#symmetry-and-harmonic-structures"></a>
 Symmetry plays a critical role in resonance:
