@@ -52,6 +52,7 @@ Beyond its theoretical implications, UTKH opens new pathways for technological a
     - [Relativity and Cosmology](#relativity-and-cosmology)
         - [Revisiting the Speed of Light](#revisiting-the-speed-of-light)
         - [A Unified Explanation for Dark Matter and Dark Energy](#a-unified-explanation-for-dark-matter-and-dark-energy)
+        - [A New Understanding of Black Holes](#a-new-understanding-of-black-holes)
         - [Implications for Redshift](#implications-for-redshift)
     - [Atomic Elements and Resonance](#atomic-elements-and-resonance)
         - [How Resonance Creates Atomic Elements](#how-resonance-creates-atomic-elements)
@@ -259,8 +260,6 @@ Polarization studies can reveal the presence of higher-dimensional oscillations:
   - Whether the light induces or disrupts current flow.
   - Changes in the conductor's resistance or magnetic field.
 
-### Conclusion
-
 These experimental predictions offer concrete pathways for validating UTKH:
 1. **Prism Experiments:**
    - Detecting spectral anomalies and frequency shifts could reveal the harmonic nature of light’s interaction with matter.
@@ -321,10 +320,6 @@ Resonance-like behaviors also appear in biological systems:
   - Example: Starlings in murmurations create large, synchronized groups, adjusting to maintain stability and coherence.
 - **Implication:**
   - These behaviors suggest that harmonic alignment is a universal organizing principle, transcending traditional definitions of mass and gravity.
-
----
-
-### Conclusion
 
 These natural phenomena illustrate how systems in motion naturally stabilize through harmonic resonance:
 1. **Universality of Resonance:** 
@@ -422,17 +417,13 @@ where $z$ is the redshift factor (dimensionless), $\Delta I_L$ is the change in 
 
 This equation complements traditional Doppler and gravitational redshift models by introducing a resonance-driven mechanism for wavelength elongation.
 
----
-
-### Conclusion
-
-These equations provide a mathematical foundation for UTKH’s redefinition of light, mass, and redshift. By framing light as a flow of energy, UTKH connects fundamental physical principles to a unifying framework of motion and resonance. These relationships open new pathways for experimental validation and theoretical exploration.
+Together, these equations provide a mathematical foundation for UTKH’s redefinition of light, mass, and redshift. By framing light as a flow of energy, UTKH connects fundamental physical principles to a unifying framework of motion and resonance. These relationships open new pathways for experimental validation and theoretical exploration.
 
 ---
 
 ## Applications to Physics <a href="#applications-to-physics"></a>
 
-The Universal Theory of Kinetic Harmonics (UTKH) provides a novel lens to understand fundamental physical processes. By redefining phenomena like mass, energy, and gravity as emergent properties of resonance, UTKH bridges gaps between quantum mechanics, classical physics, and cosmology. It also provides a unified framework for understanding atomic elements, electrons, chemical bonds, and electricity. By redefining these phenomena as manifestations of light flows and harmonic resonance, UTKH bridges classical physics, chemistry, and electromagnetism as well as its implications for nuclear reactions, quantum mechanics, and large-scale cosmic phenomena under a single theoretical paradigm.
+The Universal Theory of Kinetic Harmonics (UTKH) provides a novel lens to understand fundamental physical processes. By redefining phenomena like mass, energy, and gravity as emergent properties of resonance, UTKH bridges gaps between quantum mechanics, classical physics, and cosmology. It also provides a unified framework for understanding atomic elements, electrons, chemical bonds, and electricity. If these phenomena are considered manifestations of light flows and harmonic resonance, the gaps close between classical physics, chemistry, and electromagnetism as well as its implications for nuclear reactions, quantum mechanics, and large-scale cosmic phenomena under a single theoretical paradigm.
 
 ---
 
@@ -472,6 +463,11 @@ The Universal Theory of Kinetic Harmonics (UTKH) provides a novel lens to unders
 #### A Unified Explanation for Dark Matter and Dark Energy <a href="#a-unified-explanation-for-dark-matter-and-dark-energy"></a>
 - **Dark Matter:** Resonant energy flows that do not emit detectable radiation may account for the gravitational effects attributed to dark matter.
 - **Dark Energy:** The universe's accelerating expansion could reflect the outward projection of large-scale harmonic energy flows.
+
+#### A New Understanding of Black Holes <a href="#a-new-understanding-of-black-holes"></a>
+- UTKH does not see black holes as singularities, but rather complex co-orbital systems whose outer layer consists of lower-frequency harmonics.
+  - An outer layer of co-orbitals of lower-frequency harmonics would absorb energy emitted from the core, resulting in the lack of emitted light
+  - The complexity of the interactions between the co-orbiting harmonics of the core along with the dynamic motion states in the outer layer could explain x-ray emissions.
 
 #### Implications for Redshift <a href="#implications-for-redshift"></a>
 - UTKH offers an alternative explanation for redshift:
