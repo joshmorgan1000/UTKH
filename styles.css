@@ -1,0 +1,79 @@
+/* styles.css */
+
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Fira Code', monospace;
+  background-color: #000000; /* Black background */
+}
+
+#canvasContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+#backgroundImage {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  opacity: 0.5; /* Adjust opacity for fading effect */
+  z-index: 0;
+}
+
+#markdownContent {
+  font-family: 'Fira Code', monospace;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  overflow-y: auto;
+  max-height: 100vh;
+}
+
+#markdownContent h1,
+#markdownContent h2,
+#markdownContent h3,
+#markdownContent p {
+  color: #ffffff;
+}
+
+#markdownContent a {
+  color: #00ccff;
+  text-decoration: none;
+}
+
+#markdownContent a:hover {
+  text-decoration: underline;
+}
+
+#markdownContent pre {
+  background-color: #1e1e1e;
+  padding: 10px;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+
+#markdownContent code {
+  background-color: #1e1e1e;
+  padding: 2px 4px;
+  border-radius: 4px;
+  color: #00ccff;
+}
+
+#markdownContent .katex {
+  font-size: 1em;
+}
