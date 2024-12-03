@@ -6,7 +6,7 @@ import katex from 'katex';
 // Load Google Fonts
 const fontLink = document.createElement('link');
 fontLink.rel = 'stylesheet';
-fontLink.href = 'https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap';
+fontLink.href = 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap';
 document.head.appendChild(fontLink);
 
 const fontLink2 = document.createElement('link');
@@ -52,7 +52,7 @@ document.body.appendChild(canvas);
 // Markdown Div
 const markdownDiv = document.createElement('div');
 Object.assign(markdownDiv.style, {
-    fontFamily: '"PT Serif", serif',
+    fontFamily: '"Fira Code", monospace',
     color: '#3FE620',
     backgroundColor: 'rgba(0, 0, 0, 0.6)',
     width: 'calc(100% - 40px)',
