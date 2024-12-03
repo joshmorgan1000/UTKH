@@ -55,7 +55,7 @@ Object.assign(markdownDiv.style, {
     fontFamily: '"PT Serif", serif',
     color: '#3FE620',
     backgroundColor: 'rgba(0, 0, 0, 0.6)',
-    width: 'calc(100% - 80px)',
+    width: 'calc(100% - 40px)',
     maxWidth: '800px',
     padding: '20px',
     position: 'absolute',
@@ -66,7 +66,7 @@ Object.assign(markdownDiv.style, {
     overflowY: 'auto',
     maxHeight: '100vh',
     boxSizing: 'border-box',
-    margin: '0 40 0 40px'
+    margin: '0 20 0 20px'
 });
 document.body.appendChild(markdownDiv);
 
