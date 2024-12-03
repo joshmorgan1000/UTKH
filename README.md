@@ -1,23 +1,28 @@
-# Universal Theory of Kinetic Harmonics
+## Universal Theory of Kinetic Harmonics
 
-The **Universal Theory of Kinetic Harmonics** posits that mass and fundamental forces arise from orbital light patterns exhibiting resonance and harmonics. Using quantum gravity, general relativity, and modern physics, the configuration requires an infinitesimal equation to estimate. This theory however posits that such a condition is not only possible, but is the very genesis of what we percieve to be mass.
+The ***Universal Theory of Kinetic Harmonics*** posits that mass and fundamental forces arise from orbital light patterns exhibiting resonance and harmonics. Using quantum gravity, general relativity, and modern physics, the configuration requires an infinitesimal equation to estimate. This theory however posits that such a condition is not only possible, but is the very genesis of what we percieve to be mass.
 
-By redefining mass as a specific state of light and/or kinetic energy, KH aims to unify physical phenomena across scales, providing explanations for gravity, atomic structures, nuclear forces, and chemical bonds within a single framework. This theory addresses gaps in current models and **offers testable predictions** that could reshape our understanding of the universe.
+By redefining mass as a specific state of light and/or kinetic energy, KH aims to unify physical phenomena across scales, providing explanations for gravity, atomic structures, nuclear forces, and chemical bonds within a single framework. This theory addresses gaps in current models and ***offers testable predictions*** that could reshape our understanding of the universe.
 
 ---
 
 ### If You Want to Build and Host
 
-Please give credit where credit is due.
+It would be cool if you did, shoot me a line if you do! I'd be interested to hear about it. Otherwise, please give credit where credit is due.
 
-Requirements: npm, node
+Requirements: npm, node, npx
 
 ```
 npm install
-npm build
+npm run build
+npx serve dist
 ```
 
 Otherwise you can find it hosted [here](http://sonicpoets.com/).
+
+### Contributing
+
+Contributions are always welcome. The `toc_generate.py` python script can be used to rebuild the table of contents.
 
 ---
 
