@@ -53,7 +53,7 @@ document.body.appendChild(canvas);
 const markdownDiv = document.createElement('div');
 Object.assign(markdownDiv.style, {
     fontFamily: '"Fira Code", monospace',
-    color: '#3FE620',
+    color: '#6FE650',
     backgroundColor: 'rgba(0, 0, 0, 0.6)',
     width: 'calc(100% - 40px)',
     maxWidth: '800px',
@@ -107,23 +107,18 @@ const light = new BABYLON.HemisphericLight(
     scene
 );
 
-// Create gravitationally attracted spheres
 const spheres = [];
-const numSpheres = 7;
-const colors = [
-    new BABYLON.Color3(0.8, 0.1, 0.1),
-    new BABYLON.Color3(0.7, 0.7, 0.9),
-    new BABYLON.Color3(0.1, 0.2, 0.8),
-    new BABYLON.Color3(0.6, 0.2, 0.1),
-    new BABYLON.Color3(0.7, 0.7, 0.7),
-    new BABYLON.Color3(0.3, 0.3, 0.8),
-    new BABYLON.Color3(0.7, 0.7, 0.7),
-];
+const explosions = [];
+let explosionCounter = 0;
+const numSpheres = 20;
 
 for (let i = 0; i < numSpheres; i++) {
     const sphere = BABYLON.MeshBuilder.CreateSphere(`sphere${i}`, { diameter: Math.random() * 0.4 + 0.4 }, scene);
     sphere.material = new BABYLON.StandardMaterial(`material${i}`, scene);
-    sphere.material.diffuseColor = colors[i];
+    const r = Math.random() * 0.7;
+    const b = Math.random() * (1.3 - r);
+    const g = 1.3 - r - b;
+    sphere.material.diffuseColor = new BABYLON.Color3(r, g, b);
     sphere.position = new BABYLON.Vector3(
         Math.random() * 10 - 5,
         Math.random() * 10 - 5,
@@ -138,10 +133,38 @@ scene.registerBeforeRender(() => {
         for (let j = 0; j < spheres.length; j++) {
             if (i !== j) {
                 const dir = spheres[j].position.subtract(spheres[i].position);
-                const distance = Math.max(dir.length(), 0.001); // Prevent division by zero
-                const force = dir.normalize().scale(0.05 / (distance * distance));
+                const distance = Math.max(dir.length(), 0.07); // Prevent division by zero
+                const force = dir.normalize().scale(0.1 / (distance * distance));
+                if (distance <= 0.07 || force > 20) {
+                    spheres[i].position = new BABYLON.Vector3(
+                        Math.random() * 10 - 5,
+                        Math.random() * 10 - 5,
+                        Math.random() * 10 - 5,
+                    );
+                    spheres[j].position = new BABYLON.Vector3(
+                        Math.random() * 10 - 5,
+                        Math.random() * 10 - 5,
+                        Math.random() * 10 - 5,
+                    );
+                    const explosion = BABYLON.MeshBuilder.CreateSphere(`explosion${explosionCounter}`, { diameter: 0.1 }, scene);
+                    explosion.material = new BABYLON.StandardMaterial(`explosionMaterial${explosionCounter}`, scene);
+                    explosion.material.diffuseColor = new BABYLON.Color3(1, 1, 1);
+                    explosion.position = spheres[i].position.clone();
+                    explosions.push(explosion);
+                    explosionCounter++;
+                }
                 spheres[i].position.addInPlace(force);
             }
+        }
+    }
+    for (let i = 0; i < explosions.length; i++) {
+        // Make the explosion grow in size exponentially
+        explosions[i].scaling = explosions[i].scaling.add(new BABYLON.Vector3(1, 1, 1).scale(0.1));
+        // Make the explosion become slightly more transparent
+        explosions[i].material.alpha *= explosions[i].scaling.length() / 20;
+        if (explosions[i].scaling.length() > 20) {
+            explosions[i].dispose();
+            explosions.splice(i, 1);
         }
     }
 });

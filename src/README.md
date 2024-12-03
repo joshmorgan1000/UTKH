@@ -1,27 +1,29 @@
 # Kinetic Harmonics: A Universal Theory of Motion and Resonance <a href="#top"></a>
 
-The **Universal Theory of Kinetic Harmonics (UTKH)** is a theory of physics that unifies all phenomena of the known universe into a single framework. While it remains speculative, its principles connect with and expand upon several established ideas in classical and modern physics and bridges the gap between general relativity, quantum mechanics, and other emerging theories. It fundamendally both redefines and aligns with current models, providing new insights and reshaping our understanding of the universe.
+The **Universal Theory of Kinetic Harmonics (UTKH)** is a theory of physics that unifies all phenomena of the known universe into a single framework. While it remains speculative, its principles connect with and expand upon several established ideas in classical and modern physics, and bridges the gap between general relativity, quantum mechanics, and other emerging theories. It fundamendally both redefines and aligns with current models, providing new insights and reshaping our understanding of the universe.
 
 The implications of this theory are vast. My goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models as well as ***unique testable predictions***. I will also provide anectdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
 
 ## Introduction <a href="#introduction"></a>
 
-UTKH posits that all fundamental properties of the universe arise from stable patterns or orbital light that exhibit and respond to resonance and harmonics. This condition could be described in modern physics as a variation of a photon sphere (Schwarzschild, Thorne, et al) consisting exclusively of kinetic energy. It introduces the concept of a **kuton**, or a self-contained pair of photons in mutual descending orbit of each other, resulting in a fractal-like progression towards infinitesimal angular velocity until an event horizon is reached. UTKH proposes that this state of motion at the kutonic event horizon stabilizes and resonates, thus becoming the genesis of what we percieve as mass, atomic structures, nuclear forces, chemical bonds, and gravity.
+UTKH posits that all fundamental properties of the universe arise from stable patterns of orbital light that exhibit and respond to resonance and harmonics. This condition could be described in modern physics as a variation of a photon sphere (Schwarzschild, Thorne, et al) consisting exclusively of kinetic energy. It introduces the concept of a **kuton**, or a self-contained pair of photons in mutual descending orbit of each other, resulting in a fractal-like progression towards infinitesimal angular velocity until an event horizon is reached at the angular speed of light. UTKH proposes that this state of motion at the kutonic event horizon stabilizes and resonates, thus becoming the genesis of what we percieve as mass, atomic structures, nuclear forces, chemical bonds, and gravity.
 
-In general, UTKH rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy, manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they in essence have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems. These harmonic interactions cause phenomena such as gravity and magnetism.
+In general, UTKH rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy, manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they in essence have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems.
+
+This is a work in progress, and researce is ongoing against publically available experimental data.
 
 ### Foundational Principles <a href="#motion-and-harmonics-as-foundational-principles"></a>
 
 1. **Kinetic Motion:** UTKH views everything in the universe as kinetic energy. Light, traditionally understood as both particle and wave, is reframed as the primordial form of a flow of energy in motion.
-2. **Light as Hyperdimensional Oscillations:** The wave-particle duality of light is explained as the projection of a higher-dimensional oscillation into three-dimensional space. This hyperdimensional oscillation is an intrinsic property of light, likely defined by general relativity.
-3. **Kutons:** In the right conditions, kinetic motion patterns vortex into specific states of stable oscillation UTKH refers to as **kutons.** These patterns give rise to what we observe to be mass, as well as other properties. UTKH recognizes that kutonic flows may be multi-dimensional, such as triangular orbital patterns or more complex equalibrium states as described by Lagrangian systems.
-4. **Resonant Effects:** The oscillation frequencies of kutons resonate with other kutonic systems in harmonic ratios. This harmonic resonation results in phenomena such as gravity, magnetism, and dark energy.
+2. **Light as Hyperdimensional Oscillations:** Similar to String Theory, UTKH views wave-particle duality of light as the projection of a higher-dimensional oscillation into three-dimensional space. This hyperdimensional oscillation is an intrinsic property of light, fundamental to its role in spacetime, and likely defined by general relativity.
+3. **Kutons:** In the right conditions, kinetic motion patterns vortex into specific states of stable oscillation UTKH refers to as **kutons.** These patterns give rise to what we observe to be mass, define as particles, or exhibit emerging effects. UTKH recognizes that kutonic flows may be multi-dimensional, such as triangular orbital patterns or more complex equalibrium states as described by Lagrangian systems.
+4. **Resonant Effects:** The oscillation frequencies of kutons and kutonic systems resonate with other kutonic systems in harmonic ratios. This harmonic resonation results in phenomena such as gravity, magnetism, and dark energy.
 
 ---
 
 ## Theoretical Foundations <a href="#theoretical-foundations"></a>
 
-It is well established by general relativity that energy, mass, and gravity are related. At microscopic scales, however, quantum mechanics must take over as the principles of general relativity break down when it comes to phenomena such as wave-particle duality, uncertainty, and superposition. UTKH bridges this gap with a new perspective that redefines many concepts while aligning with preestablished models in both domains.
+It is well established by general relativity that energy, mass, and gravity are related. At microscopic scales, however, the principles of general relativity break down and quantum mechanics takes over when it comes to phenomena such as wave-particle duality, uncertainty, and superposition. UTKH bridges this gap with a new perspective that redefines many concepts while aligning with preestablished models in both domains.
 
 ### Waves and Oscillations <a href="#waves-and-oscillations-a-href"></a>
 
@@ -29,11 +31,11 @@ Imagine a system of a two-dimensional plane measuring time and position. This ca
 
 In theory this concept can be superimposed on to three dimensions, such that an object orbiting at a specific frequency can have an effect on other orbital systems that match the same harmonics. This can be observed in planetary systems such as the moons of Jupiter Io, Europa, and Ganymede, which maintain a 1:2:4 resonance ratio.
 
-By extrapolating the forces into a third dimension, we now end up with ortibal spheres with associated harmonics. This aligns with the behavior of electron orbitals in the elements. Such properties could hypothetically be projected into 4th, 5th, 6th dimensions an so-on, but for the purposes of UTKH such is not necessary. I only make the assumption of higher-dimensional oscillations, as I believe it is the properties of resonance and harmonics that create the condition of gravity.  **This allows the opportunity of a testable condition for this theory.**
+By extrapolating the forces into a third dimension, we now end up with ortibal spheres with associated harmonics. This aligns with the behavior of electron orbitals in the elements. Such properties could hypothetically be projected into 4th, 5th, 6th dimensions an so-on, but for the purposes of UTKH such is not necessary. I only make the assumption of higher-dimensional oscillations, as I believe it is the properties of resonance and harmonics that create the condition of forces such as gravity.  **This allows the opportunity of a testable condition for this theory.**
 
 ### Hyperdimensional Oscillatory Nature of Light <a href="#the-nature-of-light-as-a-hyperdimensional-oscillation"></a>
 
-Light is traditionally understood as both a particle (photon) and a wave, exhibiting behaviors that confound classical explanations. UTKH redefines light as a **hyperdimensional oscillation**—a hyperdimensional, kinetic energy flow. Observation in lower-dimensional space collapses the conditions of light into a lower-dimensional space, giving the illusion of a particle. UTKH's perspective is **similar to string theory**, the difference being that it provides a less-complex, testable framework.
+Light is traditionally understood as both a particle and a wave, exhibiting behaviors that confound classical explanations. UTKH redefines light as a **hyperdimensional oscillation**—a hyperdimensional, kinetic energy flow. Observation collapses the conditions of light into a lower-dimensional space, giving the illusion of a particle. UTKH's perspective is **similar to string theory**, the difference being that it provides a less-complex, testable framework.
 
 #### Explaining Wave-Particle Duality <a href="#explaining-wave-particle-duality"></a>
 
@@ -42,14 +44,14 @@ Light is traditionally understood as both a particle (photon) and a wave, exhibi
 
 ### Kutons and Kutonic Systems <a href="#kutonic-systems-a-href"></a>
 
-A **kuton** is described as two photons in perpetual descending orbit of each other, resulting in an infinitesimal equation that reaches stability at a constant frequency. This can be described mathematically:
+A **kuton** is described as two photons in perpetual descending orbit of each other, resulting in an infinitesimal equation that reaches stability at a constant oscillation frequency. This can be described mathematically:
 1. **Angular Velocity:**
    
    $\lambda = \frac{c}{r}$
 
    Where $\lambda$ is the angular velocity (frequency of orbital motion), $c$ is the speed of light ($\approx 3 \times 10^8 \, \text{m/s}$), and $r$ is the infinitesimal orbital radius.
 
-2. **Frequency in Full Orbit:**
+2. **Frequency in Light-Speed Orbit:**
    
    $\nu_\lambda = \frac{2\pi c}{r}$
    
@@ -64,9 +66,9 @@ A **kuton** is described as two photons in perpetual descending orbit of each ot
 - $r \to 0$: As the orbital radius approaches zero, $\lambda$ and $\nu_\lambda$ approach infinity.
 - $r$: Can be expressed as a scaled infinitesimal $r = \epsilon \cdot r_0$, where $r_0$ is a characteristic scale (e.g., Planck length $\ell_p$) and $\epsilon \to 0$.
 
-Mathematically, this shows that two photons can create a "mass-like" curvature of spacetime, even though the system is entirely energetic.
+Mathematically through general relativity, this shows that two photons can create a "mass-like" curvature of spacetime, even though the system is entirely energetic.
 
-A **kutonic system** describes a similar situation that is applied to multiple bodies of orbit, akin to Lagrangian points.
+A **Kutonic System** describes a similar situation that is applied to multiple bodies of orbit, akin to Lagrangian points.
 
 ### Kutonic Systems and the Emergence of Mass <a href="#co-orbital-systems-and-the-emergence-of-mass"></a>
 
@@ -79,7 +81,7 @@ A **kutonic system** describes a similar situation that is applied to multiple b
 
 - **Gyroscopic Dynamics:** In kutonic systems, gyroscopic effects anchor the stability of co-orbital photons. As their angular momentum translates into a form of rotational inertia, these forces act as a stabilizing framework that reinforces harmonic resonance. This gyroscopic contribution is crucial to the energy's transformation into what we observe as rest mass.
 
-- **Harmonic Gravity:** The resonance inherent in these flows generates a self-organizing structure that reflects gravity on a quantum scale. UTKH redifines gravity is not just the warping of spacetime, but rather the emergent pull of aligned energy flows in a stable system.
+- **Harmonic Gravity:** The resonance inherent in these flows generates a self-organizing structure that reflects gravity on a quantum scale. UTKH redifines gravity as the emergent pull of aligned energy flows in a stable system.
 
 - **Building Blocks of Reality:** In this framework, particles like electrons, protons, and neutrons are not discrete "objects" but distinct resonant configurations of kutonic systems. Each configuration embodies a unique balance of kinetic motion, inertia, gyroscopic stability, and resonance. These systems exert a harmonic force that resonates with other systems according to their specific configuration and frequencies.
 
@@ -113,8 +115,16 @@ In fluid dynamics, vortices exhibit behaviors that resemble the co-orbital attra
 
 Celestial mechanics provides clear examples of resonance-driven attraction:
 - **Orbital Resonances:**
-  - Moons and planets often lock into stable harmonic relationships, such as Jupiter’s moons Io, Europa, and Ganymede, which maintain a 1:2:4 resonance ratio.
   - The Kirkwood gaps in the asteroid belt result from harmonic interactions with Jupiter, demonstrating how resonance governs stability in large-scale systems.
+  - Pluto and Neptune are locked in a 3:2 resonance, preventing close encounters and stabilizing their orbits despite overlapping paths in the Solar System.
+- **Lagrange Points:**
+  - Stable points in a two-body system, such as the Earth-Sun system, allow smaller objects to co-orbit in harmonic balance (e.g., the Trojan asteroids near Jupiter). These points exemplify how resonance-driven dynamics create equilibrium zones in gravitational fields.
+- **Tidal Locking:**
+  - The Moon is tidally locked to Earth, meaning one hemisphere always faces the planet. This resonance arises from energy dissipation and gravitational interactions that stabilize rotational and orbital dynamics over time.
+- **Ring Systems:**
+  - The gaps in Saturn’s rings (e.g., the Cassini Division) are caused by resonances with its moons, where orbital interactions eject particles from unstable zones, leaving well-defined gaps.
+- **Mean-Motion Resonances in Exoplanets:**
+  - Exoplanetary systems often exhibit resonances where planets orbit their stars in harmonic ratios, such as 2:1 or 3:2. These resonances enhance orbital stability and are observed in systems like Kepler-223.
 - **Implication:**
   - These phenomena suggest that energy flows between orbiting systems naturally stabilize into predictable, resonant patterns.
 
@@ -143,7 +153,7 @@ These natural phenomena illustrate how systems in motion naturally stabilize thr
 
 ### Parallels with Emergent Theories <a href="#parallels-with-emergent-theories"></a>
 
-UTKH redefines gravity as a harmonic interaction between kinetic systems, eschewing the need for force-carrying particles like gravitons, and lends to new theories about deep space. While lending new theories to questions previously unanswered, it simultaneously coincides with existing known phenomena and emergent theories, some of which UTKH gives a better explanation than the original authors' hypothesis:
+UTKH redefines gravity as a harmonic interaction between kinetic systems, eschewing the need for force-carrying particles like gravitons, and lends to new theories from the subatomic to deep space. While lending new theories to questions previously unanswered, it simultaneously coincides with existing known phenomena and emergent theories, some of which UTKH gives new hypotheses:
 
 - **Quantum Gravity:** Mass and energy are sources of spacetime curvature, yet photons contribute to this curvature even though they are massless due to their energy and momentum.
 - **Higgs Fields:** UTKH allows situations that give mass to properties, explained by harmonic resonation or direct angular energy transfer.
@@ -160,10 +170,6 @@ UTKH redefines gravity as a harmonic interaction between kinetic systems, eschew
 - **Superposition:** UTKH posits that particles exist in superposition because their resonances span multiple harmonic states until observed.
 - **Zero-Point Energy:** Ever-present resonances maintaining a baseline "vibrational state" seemlessly link the Casimir Effect and quantum fluctuations to the kutonic framework. This perspective suggests that zero-point energy is not merely a quantum artifact but a manifestation of underlying harmonic dynamics inherent to the universe.
 
-#### It All Seems to Fit <a href="#it-all-seems-to-fit-a-href"></a>
-
-I am continuing to research existing and emergent theories, none yet have been a contraindication to the validity of UTKH. This will require ongoing research and help from the scientific community.
-
 ### Bridging Microscopic and Macroscopic Physics <a href="#bridging-microscopic-and-macroscopic-physics"></a>
 
 The principles of KH bridge the divide between quantum mechanics and classical physics:
@@ -172,9 +178,178 @@ The principles of KH bridge the divide between quantum mechanics and classical p
 
 ---
 
+## Mathematical Formulation <a href="#mathematical-formulation"></a>
+
+To provide more mathematical rigor, we attempt to model fundamental particles as kutonic systems—dynamic configurations of co-orbital photons, and introduce hypothetical relativities. These attempt to provide an alternative perspective to traditional particle physics and delve deeper into potential mathematical connections, particularly focusing on multi-body dynamics and mass differences between protons and neutrons.
+
+### Kinetic Harmonic Resonance <a href="#kinetic-harmonic-resonance"></a>
+
+In theory, when two or more systems interact, their frequencies may not match exactly. However, if they share a common harmonic relationship (i.e., their frequencies are related by simple ratios), energy transfer between them becomes more efficient. This is reflected in the KHR ratio, which can be used to predict the degree of resonance and energy exchange.
+
+Let's define the kinetic harmonic resonance (KHR) as:
+
+$$\Psi = \frac{\Omega}{\omega} = \frac{2\pi f}{\omega_0}$$
+
+where $\Psi$ is the KHR ratio, $\Omega$ is the angular frequency of the system, $f$ is the frequency, and $\omega_0$ is the fundamental frequency.
+
+The KHR ratio, $\Psi$, is introduced as a measure of the alignment between the angular frequency of a system ($\Omega$) and its fundamental frequency ($\omega_0$). This ratio can be seen as an extension of the traditional harmonic series, where $\Psi = 1$ represents perfect resonance.
+
+### Harmonic Entanglement <a href="#harmonic-entanglement"></a>
+
+In theory, when $\Upsilon = 1$, the systems are perfectly entangled, and energy transfer becomes highly efficient. Conversely, as $\Upsilon$ approaches zero, the systems become less correlated, and energy transfer decreases.
+
+The harmonic entanglement (HE) can be described by:
+
+$$\Upsilon = \frac{\Psi}{\sqrt{1 - \Psi^2}}$$
+
+where $\Upsilon$ represents the degree of harmonic entanglement between two or more systems.
+
+The HE equation introduces the concept of entanglement between systems, where $\Upsilon$ represents the degree of correlation between their harmonic structures. In essence, this equation attempts to quantify the extent to which two or more systems become "tuned" to each other's frequencies.
+
+### Energy Flow Alignment <a href="#energy-flow-alignment"></a>
+
+In theory, when $\Theta = 0$, the energy flow is perfectly aligned with the harmonic structure, allowing for maximum energy transfer efficiency. As $\Theta$ increases, the alignment decreases, and energy transfer becomes less efficient.
+
+The energy flow alignment (EFA) can be calculated using:
+
+$$\Theta = \arctan\left(\frac{\Upsilon}{\Psi}\right)$$
+
+where $\Theta$ is the angle of energy flow alignment.
+
+The EFA equation describes the alignment of energy flow between interacting systems. The angle $\Theta$ represents the degree to which the energy flow is aligned with the harmonic structure of the systems involved.
+
+### Deriving the Kutonic Electron's Orbital Radius ($ r_e $)
+
+1. **Objective**
+   
+   - **Determine the orbital radius ($ r_e $)** of a kutonic electron such that the energy associated with its harmonic frequency equals the electron's rest mass energy.
+
+2. **Key Equations and Concepts**
+   
+   - **Frequency in Light-Speed Orbit ($ \nu_\lambda $)**
+     
+     $\nu_\lambda = \frac{2\pi c}{r_e}$
+     
+     - $ \nu_\lambda $: Frequency of the kuton in full orbit.
+     - $ c $: Speed of light ($ \approx 2.998 \times 10^8 \ \text{m/s} $).
+     - $ r_e $: Orbital radius of the kutonic electron.
+   
+   - **Energy-Frequency Relationship**
+     
+     $E = h \nu_\lambda$
+     
+     - $ E $: Energy of the kutonic system.
+     - $ h $: Planck's constant ($ 6.626 \times 10^{-34} \ \text{J} \cdot \text{s} $).
+   
+   - **Mass-Energy Equivalence**
+     
+     $E = m_e c^2$
+     
+     - $ m_e $: Rest mass of the electron ($ 9.109 \times 10^{-31} \ \text{kg} $).
+     - $ c $: Speed of light.
+
+3. **Derivation Steps**
+   
+   - **Step 1: Equate Kuton Energy to Electron Rest Mass Energy**
+     
+     $h \nu_\lambda = m_e c^2$
+   
+   - **Step 2: Substitute Frequency Expression**
+     
+     $h \left( \frac{2\pi c}{r_e} \right) = m_e c^2$
+   
+   - **Step 3: Solve for Orbital Radius ($ r_e $)**
+     
+     $\frac{2\pi h c}{r_e} = m_e c^2$
+     
+     $r_e = \frac{2\pi h}{m_e c}$
+   
+4. **Numerical Calculation**
+   
+   - **Constants Used:**
+     
+     - Planck's Constant ($ h $): $ 6.626 \times 10^{-34} \ \text{J} \cdot \text{s} $
+     - Electron Mass ($ m_e $): $ 9.109 \times 10^{-31} \ \text{kg} $
+     - Speed of Light ($ c $): $ 2.998 \times 10^8 \ \text{m/s} $
+   
+   - **Compute $ r_e $:**
+     
+     $r_e = \frac{2\pi \times 6.626 \times 10^{-34}}{9.109 \times 10^{-31} \times 2.998 \times 10^8} \approx 1.513 \times 10^{-11} \ \text{meters}$
+   
+5. **Interpretation**
+   
+   - The calculated orbital radius ($ r_e $) for the kutonic electron is approximately:
+     
+     $r_e \approx 1.51 \times 10^{-11} \ \text{meters}$
+   
+   - **Comparison to Known Constants:**
+     
+     - **Bohr Radius ($ a_0 $)**:
+       
+       $a_0 \approx 5.291772 \times 10^{-11} \ \text{meters}$
+       
+       - The kutonic electron's radius is roughly **one-third** of the Bohr radius.
+     
+     - **Compton Wavelength of the Electron ($ \lambda_C $)**:
+       
+       $\lambda_C = \frac{h}{m_e c} \approx 2.426 \times 10^{-12} \ \text{meters}$
+       
+       - The kutonic electron's radius is significantly larger than the Compton wavelength.
+   
+   - **Physical Implications:**
+     
+     - The orbital radius aligns with atomic scales, suggesting a possible harmonic relationship between kutonic configurations and atomic properties.
+     
+     - This alignment supports the UTKH perspective that electrons are manifestations of kinetic harmonics rather than traditional particles.
+
+### Deriving Harmonic Relationships Between Orbital Radius Ratios and Mass Ratios <a href="#deriving-harmonic-relationships-between-orbital-radius-ratios-and-mass-ratios-a-href"></a>
+
+1. **Define the Kutonic Electron's Orbital Radius ($ r_e $)**
+   
+   $r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}$
+   
+   - **Constants Used:**
+     - Planck's Constant ($ h $): $ 6.626 \times 10^{-34} \ \text{J} \cdot \text{s} $
+     - Electron Mass ($ m_e $): $ 9.109 \times 10^{-31} \ \text{kg} $
+     - Speed of Light ($ c $): $ 2.998 \times 10^8 \ \text{m/s} $
+
+2. **Calculate the Orbital Radius for the Mass Difference Kuton ($ r_{\Delta m} $)**
+   
+   $r_{\Delta m} = \frac{2\pi h c}{\Delta m}$
+   
+   - **Mass Difference ($ \Delta m $) Between Neutron and Proton:**
+     
+     $\Delta m = m_n - m_p \approx 2.305 \times 10^{-30} \ \text{kg}$
+   
+   - **Calculation:**
+     
+     $r_{\Delta m} \approx \frac{2\pi \times 6.626 \times 10^{-34} \times 2.998 \times 10^8}{2.305 \times 10^{-30}} \approx 6.018 \times 10^{-12} \ \text{meters}$
+
+3. **Determine the Ratio of Orbital Radii**
+   
+   $\frac{r_e}{r_{\Delta m}} = \frac{1.513 \times 10^{-11}}{6.018 \times 10^{-12}} \approx 2.515$
+   
+   - **Interpretation:** The orbital radius of the kutonic electron is approximately **2.515** times larger than that of the mass difference kuton.
+
+4. **Compare with the Mass Ratio**
+   
+   $\frac{m_e}{\Delta m} = \frac{9.109 \times 10^{-31}}{2.305 \times 10^{-30}} \approx 0.395$
+   
+   - **Observation:** The ratio of orbital radii ($ \approx 2.515 $) is **inversely proportional** to the mass ratio ($ \approx 0.395 $), **indicating a harmonic relationship.**
+
+5. **Establishing Harmonic Relationships**
+   
+   - The proportionality between the orbital radii and the inverse of the mass ratios suggests that:
+     
+     $r \propto \frac{1}{m}$
+     
+   - **Implication:** This alignment indicates that in the UTKH framework, the harmonic configurations of kutonic systems inherently relate to the mass properties of fundamental particles.
+
+---
+
 ## Experimental Predictions <a href="#experimental-predictions"></a>
 
-The Universal Theory of Kinetic Harmonics (UTKH) offers testable predictions that span diverse domains of physics. These experiments aim to validate the theory’s core principles, including resonance-driven attraction, photon-photon sphere stabilization, and the role of hyperdimensional oscillations.
+UTKH offers testable predictions that span diverse domains of physics. These experiments aim to validate the theory’s core principles, including resonance-driven attraction, photon-photon sphere stabilization, and the role of hyperdimensional oscillations.
 
 ### Gravitational Effects of Resonating Tuning Forks <a href="#gravitational-effects-of-resonating-tuning-forks-a-href"></a>
 
@@ -241,93 +416,6 @@ Polarization studies can reveal the presence of higher-dimensional oscillations:
 - Use polarized light to illuminate a conductor and measure:
   - Whether the light induces or disrupts current flow.
   - Changes in the conductor's resistance or magnetic field.
-
----
-
-## Mathematical Formulation <a href="#mathematical-formulation"></a>
-
-To provide more mathematical rigor, we introduce the following equations:
-
-### Kinetic Harmonic Resonance <a href="#kinetic-harmonic-resonance"></a>
-
-In theory, when two or more systems interact, their frequencies may not match exactly. However, if they share a common harmonic relationship (i.e., their frequencies are related by simple ratios), energy transfer between them becomes more efficient. This is reflected in the KHR ratio, which can be used to predict the degree of resonance and energy exchange.
-
-Let's define the kinetic harmonic resonance (KHR) as:
-
-$$\Psi = \frac{\Omega}{\omega} = \frac{2\pi f}{\omega_0}$$
-
-where $\Psi$ is the KHR ratio, $\Omega$ is the angular frequency of the system, $f$ is the frequency, and $\omega_0$ is the fundamental frequency.
-
-The KHR ratio, $\Psi$, is introduced as a measure of the alignment between the angular frequency of a system ($\Omega$) and its fundamental frequency ($\omega_0$). This ratio can be seen as an extension of the traditional harmonic series, where $\Psi = 1$ represents perfect resonance.
-
-### Harmonic Entanglement <a href="#harmonic-entanglement"></a>
-
-In theory, when $\Upsilon = 1$, the systems are perfectly entangled, and energy transfer becomes highly efficient. Conversely, as $\Upsilon$ approaches zero, the systems become less correlated, and energy transfer decreases.
-
-The harmonic entanglement (HE) can be described by:
-
-$$\Upsilon = \frac{\Psi}{\sqrt{1 - \Psi^2}}$$
-
-where $\Upsilon$ represents the degree of harmonic entanglement between two or more systems.
-
-The HE equation introduces the concept of entanglement between systems, where $\Upsilon$ represents the degree of correlation between their harmonic structures. In essence, this equation attempts to quantify the extent to which two or more systems become "tuned" to each other's frequencies.
-
-### Energy Flow Alignment <a href="#energy-flow-alignment"></a>
-
-In theory, when $\Theta = 0$, the energy flow is perfectly aligned with the harmonic structure, allowing for maximum energy transfer efficiency. As $\Theta$ increases, the alignment decreases, and energy transfer becomes less efficient.
-
-The energy flow alignment (EFA) can be calculated using:
-
-$$\Theta = \arctan\left(\frac{\Upsilon}{\Psi}\right)$$
-
-where $\Theta$ is the angle of energy flow alignment.
-
-The EFA equation describes the alignment of energy flow between interacting systems. The angle $\Theta$ represents the degree to which the energy flow is aligned with the harmonic structure of the systems involved.
-
-### Defining Light as a Flow <a href="#defining-light-as-a-flow"></a>
-
-In UTKH, light is conceptualized as a flow of energy, similar to the flow of electric charge in amperage. The equation for the flow of light energy $I_L$ is expressed as:
-
-$$I_L = \frac{P}{c}$$
-
-where $I_L$ is the light amperage (flow of light energy), $P$ is the power of the light source (in watts), and $c$: Speed of light (in meters per second).
-
-This equation highlights the direct proportionality between the energy emitted by a light source and the flow rate of that energy.
-
-### Relating Light Amperage to Mass <a href="#relating-light-amperage-to-mass"></a>
-
-By framing mass as a product of energy flows stabilized into co-orbital resonances, the relationship between light amperage and mass $m$ can be expressed as:
-
-$$m = \frac{I_L}{c^2}$$
-
-where $m$ is the mass equivalent of light energy (in kilograms), $I_L$ is the light amperage (in joules per second per meter per second), and $c$ is the speed of light.
-
-This equation reflects Einstein’s energy-mass equivalence ($E = mc^2$) but extends it to incorporate the concept of light as a flow.
-
-### Relating Light Amperage to Molar Mass <a href="#relating-light-amperage-to-molar-mass"></a>
-
-Expanding this concept to chemical systems, the relationship between light amperage and molar mass ($M$) of a substance can be expressed as:
-
-$$M = N_A \cdot \frac{I_L}{c^2}$$
-
-where $M$ is the molar mass (in grams per mole), $N_A$ is Avogadro’s number ($6.022 \times 10^{23}$ particles per mole), $I_L$ is light amperage (in joules per second per meter per second), and $c$ is the speed of light.
-
-This equation bridges the microscopic world of atoms and molecules with the macroscopic understanding of light as a flow.
-
-### Redshift as a Flow Interaction <a href="#redshift-as-a-flow-interaction"></a>
-
-In UTKH, redshift is reinterpreted as a resonance-driven interaction between light and cosmic structures. As light travels vast distances, its energy flow interacts with resonant fields in space, resulting in a gradual wavelength elongation. This relationship can be expressed as:
-
-$$z = \frac{\Delta I_L}{I_L}$$
-
-Where:
-- $z$: Redshift factor (dimensionless)
-- $\Delta I_L$: Change in light amperage due to interaction
-- $I_L$: Initial light amperage before interaction
-
-This model complements traditional redshift explanations (e.g., Doppler and gravitational redshift) by introducing a resonance-based mechanism.
-
-Together, these equations provide a mathematical foundation for UTKH’s redefinition of light, mass, and redshift. By framing light as a flow of energy, UTKH connects fundamental physical principles to a unifying framework of motion and resonance. These relationships open new pathways for experimental validation and theoretical exploration.
 
 ---
 
@@ -638,7 +726,7 @@ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+FROM, OUT OF OR IN CONNECTION WITH THE THEORY OR THE USE OR
+OTHER DEALINGS IN THE THEORY.
 
 ---
