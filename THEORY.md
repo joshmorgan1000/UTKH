@@ -212,30 +212,30 @@ To provide mathematical rigor, I've attempted to model fundamental particles as 
 
 2. **Key Equations and Concepts**
    
-    - **Frequency in Light-Speed Orbit ($ \nu_\lambda $)**
+    - **Frequency in Light-Speed Orbit ($\nu_\lambda$)**
      
       $$\nu_\lambda = \frac{2\pi c}{r_e}$$
      
       - Where:
-        - $ \nu_\lambda $: Frequency of the kuton in full orbit.
-        - $ c $: Speed of light ($ \approx 2.998 \times 10^8 \ \text{m/s} $).
-        - $ r_e $: Orbital radius of the kutonic electron.
+        - $\nu_\lambda$: Frequency of the kuton in full orbit.
+        - $c$: Speed of light ($\approx 2.998 \times 10^8 \ \text{m/s}$).
+        - $r_e$: Orbital radius of the kutonic electron.
    
     - **Energy-Frequency Relationship**
      
       $$E = h \nu_\lambda$$
      
       - Where:
-        - $ E $: Energy of the kutonic system.
-        - $ h $: Planck's constant ($ 6.626 \times 10^{-34} \ \text{J} \cdot \text{s} $).
+        - $E$: Energy of the kutonic system.
+        - $h$: Planck's constant ($6.626 \times 10^{-34} \ \text{J} \cdot \text{s}$).
    
    - **Mass-Energy Equivalence**
      
       $$E = m_e c^2$$
      
      - Where:
-       - $ m_e $: Rest mass of the electron ($ 9.109 \times 10^{-31} \ \text{kg} $).
-       - $ c $: Speed of light.
+       - $m_e$: Rest mass of the electron ($9.109 \times 10^{-31} \ \text{kg}$).
+       - $c$: Speed of light.
 
 3. **Derivation Steps**
    
@@ -257,9 +257,9 @@ To provide mathematical rigor, I've attempted to model fundamental particles as 
    
    - **Constants Used:**
      
-     - Planck's Constant ($ h $): $ 6.626 \times 10^{-34} \ \text{J} \cdot \text{s} $
-     - Electron Mass ($ m_e $): $ 9.109 \times 10^{-31} \ \text{kg} $
-     - Speed of Light ($ c $): $ 2.998 \times 10^8 \ \text{m/s} $
+     - Planck's Constant ($h$): $ 6.626 \times 10^{-34} \ \text{J} \cdot \text{s}$
+     - Electron Mass ($m_e$): $ 9.109 \times 10^{-31} \ \text{kg}$
+     - Speed of Light ($c$): $ 2.998 \times 10^8 \ \text{m/s}$
    
    - **Compute $ r_e $:**
      
@@ -267,7 +267,7 @@ To provide mathematical rigor, I've attempted to model fundamental particles as 
    
 5. **Interpretation**
    
-   - The calculated orbital radius ($ r_e $) for the kutonic electron is approximately:
+   - The calculated orbital radius ($r_e$) for the kutonic electron is approximately:
      
      $r_e \approx 1.51 \times 10^{-11} \ \text{meters}$
    
@@ -326,7 +326,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
    
    $\frac{m_e}{\Delta m} = \frac{9.109 \times 10^{-31}}{2.305 \times 10^{-30}} \approx 0.395$
    
-   - **Observation:** The ratio of orbital radii ($ \approx 2.515 $) is **inversely proportional** to the mass ratio ($ \approx 0.395 $), **indicating a harmonic relationship.**
+   - **Observation:** The ratio of orbital radii ($\approx 2.515$) is **inversely proportional** to the mass ratio ($\approx 0.395$), **indicating a harmonic relationship.**
 
 5. **Establishing Harmonic Relationships**
    
