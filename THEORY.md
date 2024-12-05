@@ -2,13 +2,13 @@
 
 The **Universal Theory of Kinetic Harmonics (UTKH)** is a unified field theory of physics that ties all phenomena of the known universe into a single framework. Its principles connect with and expand upon several established ideas in classical and modern physics, bridging the gap between general relativity, quantum mechanics, and other emergent theories. It fundamendally both redefines and aligns with current models, providing new insights and reshaping our understanding of the universe.
 
-Even though it remains speculative, foundational theoretical math seems to confirm its validity. While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, as most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
+Even though it remains speculative, foundational theoretical math seems to confirm its validity. While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, and most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
 
 ## Introduction <a href="#introduction"></a>
 
 UTKH posits that all fundamental properties of the universe arise from stable patterns of orbital light that exhibit and respond to resonant and harmonic frequencies. The most basic quantative state in this framework is similar to what is referred to a photon sphere, with the exception that it extends the theoretical configuration beyond black holes. UTKH introduces the concept of a **kuton**, or a self-contained pair of photons in mutual descending orbit of each other, resulting in a fractal-like progression towards infinitesimal angular velocity until an event horizon is reached at the angular speed of light. UTKH proposes that this state of motion at the kutonic event horizon stabilizes and resonates, thus becoming the genesis of what we percieve as particles, atomic structures, and other emergent properties.
 
-UTKH rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy, manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they fundamentally have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems, which result in emergent properties such as electron orbitals, unique behaviors of different elements, and forces such as magnetism and gravity.
+UTKH generally rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy, manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they fundamentally have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems, which result in emergent properties such as electron orbitals, unique behaviors of different elements, and forces such as magnetism and gravity.
 
 ### Foundational Principles <a href="#motion-and-harmonics-as-foundational-principles"></a>
 
@@ -166,7 +166,7 @@ UTKH redefines gravity as a harmonic interaction between kinetic systems, giving
 
 - **Higgs Fields:** UTKH allows situations that give mass to properties, explained by harmonic resonation or direct angular energy transfer.
 
-- **Entropic Gravity:** (Verlinde) UTKH agrees that gravity is an emergent force, explaining that it arises from kutonic systems.
+- **Entropic Gravity:** UTKH agrees that gravity is an emergent force, explaining that it arises from kutonic systems.
 
 - **Photon Gas:** In a high-energy photon gas (e.g., early universe), the energy density contributes to gravity as if it were massive.
 
@@ -204,7 +204,7 @@ The principles of UTKH bridge the divide between quantum mechanics and classical
 
 To provide mathematical rigor, I've attempted to model fundamental particles as kutonic systems — dynamic configurations of co-orbital photons, and introduce hypothetical relativities. These attempt to provide an alternative perspective to traditional particle physics and delve deeper into potential mathematical connections, particularly focusing on multi-body dynamics and mass differences between protons and neutrons.
 
-### Deriving the Kutonic Electron's Orbital Radius ($r_e$) <a href="#deriving-the-kutonic-electron"></a>
+### Deriving the Kutonic Electron's Orbital Radius <a href="#deriving-the-kutonic-electron"></a>
 
 1. **Objective**
    
@@ -303,11 +303,6 @@ $$r_e = \frac{2\pi h}{m_e c}$$
 1. **Define the Kutonic Electron's Orbital Radius ($ r_e $)**
    
    $r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}$
-   
-   - **Constants Used:**
-     - Planck's Constant ($ h $): $ 6.626 \times 10^{-34} \ \text{J} \cdot \text{s} $
-     - Electron Mass ($ m_e $): $ 9.109 \times 10^{-31} \ \text{kg} $
-     - Speed of Light ($ c $): $ 2.998 \times 10^8 \ \text{m/s} $
 
 2. **Calculate the Orbital Radius for the Mass Difference Kuton ($ r_{\Delta m} $)**
    

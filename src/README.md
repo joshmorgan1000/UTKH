@@ -4,19 +4,17 @@ It would be cool if you did, shoot me a line if you do! I'd be interested to hea
 
 Requirements: npm, node
 
+From the root directory of this project:
 ```
 npm install
 npm run build
 ```
-
-Simply copy the index.html, bundle.js, and background.jpg to your web directory.
+Artifacts will be produced in the `dist/` directory. Simply copy the index.html, bundle.js, and background.jpg to your web directory.
 
 Alternatively, you can just run:
-
 ```
 npx serve dist
 ```
-
 And view the "magic" locally.
 
 Eventually computer simulations will be built in to the code.

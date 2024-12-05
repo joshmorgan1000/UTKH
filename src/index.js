@@ -172,12 +172,9 @@ scene.registerBeforeRender(() => {
         explosion.scale *= 1.05;
         explosion.mesh.scaling = new BABYLON.Vector3(explosion.scale, explosion.scale, explosion.scale);
 
-        // Make the explosion fade out
         explosion.alpha = explosion.alpha * 0.97;
         explosion.material.alpha = explosion.alpha;
         explosion.material.opacity = explosion.alpha;
-        //explosion.mesh.opacity = explosion.alpha;
-        //explosion.mesh.alpha = explosion.alpha;
 
         console.log('Scale: ' + explosion.scale + ' Position: ' + explosion.mesh.position + ' Alpha: ' + explosion.alpha);
 
