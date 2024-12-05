@@ -173,7 +173,7 @@ The principles of UTKH bridge the divide between quantum mechanics and classical
 
 To provide mathematical rigor, I've attempted to model fundamental particles as kutonic systems — dynamic configurations of co-orbital photons, and introduce hypothetical relativities. These attempt to provide an alternative perspective to traditional particle physics and delve deeper into potential mathematical connections, particularly focusing on multi-body dynamics and mass differences between protons and neutrons.
 
-### Deriving the Kutonic Electron's Orbital Radius ($ r_e $)
+### Deriving the Kutonic Electron's Orbital Radius ($ r_e $) <a href="#deriving-the-kutonic-electron"></a>
 
 1. **Objective**
    
@@ -240,7 +240,7 @@ To provide mathematical rigor, I've attempted to model fundamental particles as 
      
      $r_e \approx 1.51 \times 10^{-11} \ \text{meters}$
    
-### Confirmation of Theory by Compton Wavelength
+### Confirmation of Theory by Compton Wavelength <a href="#confirmation-of-theory-by-compton-wavelength-a-href"></a>
 
 - We know the **Compton Wavelength** to be:
 $$\lambda_C = \frac{h}{m_e c}$$
@@ -310,7 +310,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
      
    - **Implication:** This alignment indicates that in the UTKH framework, the harmonic configurations of kutonic systems inherently relate to the mass properties of fundamental particles.
 
-## Theoretical Mathematical Hypotheses
+## Theoretical Mathematical Hypotheses <a href="#mathematical-theory"></a>
 
 While this theory is still under development, I present some ideas as to how to calculate the specific nature of kutons and kutonic systems, which could help align this theory with observable events.
 
