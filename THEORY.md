@@ -247,7 +247,7 @@ To provide mathematical rigor, I've attempted to model fundamental particles as 
      
      $h \left( \frac{2\pi c}{r_e} \right) = m_e c^2$
    
-   - **Step 3: Solve for Orbital Radius ($ r_e $)**
+   - **Step 3: Solve for Orbital Radius ($r_e$)**
      
      $\frac{2\pi h c}{r_e} = m_e c^2$
      
@@ -300,7 +300,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
 
 ### Deriving Harmonic Relationships Between Orbital Radius Ratios and Mass Ratios <a href="#deriving-harmonic-relationships-between-orbital-radius-ratios-and-mass-ratios-a-href"></a>
 
-1. **Define the Kutonic Electron's Orbital Radius ($ r_e $)**
+1. **Define the Kutonic Electron's Orbital Radius ($r_e$)**
    
    $r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}$
 
@@ -308,7 +308,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
    
    $r_{\Delta m} = \frac{2\pi h c}{\Delta m}$
    
-   - **Mass Difference ($ \Delta m $) Between Neutron and Proton:**
+   - **Mass Difference ($\Delta m$) Between Neutron and Proton:**
      
      $\Delta m = m_n - m_p \approx 2.305 \times 10^{-30} \ \text{kg}$
    
