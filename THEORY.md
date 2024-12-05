@@ -173,11 +173,11 @@ The principles of UTKH bridge the divide between quantum mechanics and classical
 
 To provide mathematical rigor, I've attempted to model fundamental particles as kutonic systems — dynamic configurations of co-orbital photons, and introduce hypothetical relativities. These attempt to provide an alternative perspective to traditional particle physics and delve deeper into potential mathematical connections, particularly focusing on multi-body dynamics and mass differences between protons and neutrons.
 
-### Deriving the Kutonic Electron's Orbital Radius ($ r_e $) <a href="#deriving-the-kutonic-electron"></a>
+### Deriving the Kutonic Electron's Orbital Radius ($r_e$) <a href="#deriving-the-kutonic-electron"></a>
 
 1. **Objective**
    
-   - **Determine the orbital radius ($ r_e $)** of a kutonic electron such that the energy associated with its harmonic frequency equals the electron's rest mass energy.
+   - **Determine the orbital radius ($r_e$)** of a kutonic electron such that the energy associated with its harmonic frequency equals the electron's rest mass energy.
 
 2. **Key Equations and Concepts**
    
@@ -248,9 +248,9 @@ $$\lambda_C = \frac{h}{m_e c}$$
 - From earlier derivation, the radius of a kutonic electron is:
 $$r_e = \frac{2\pi h}{m_e c}$$
 
-- Notice that: $r_e = 2\pi\lambda_C$ (!!)
+- Notice that: $r_e = 2\pi\lambda_C$
 
-  - This means that the kutonic electron's orbital radius is **exactly $2\pi$ times the Compton wavelength.** This is significant because:
+  - This means that the kutonic electron's photon orbital radius is **exactly $2\pi$ times the Compton wavelength.** This is significant because:
     - The Compton wavelength represents the quantum limit at which relativistic and quantum effects dominate. It effectively marks the scale below which quantum mechanical effects become significant for an electron.
     - The factor of $2\pi$ suggests that $r_e$ represents the circumference of a circular resonance, where the wavelength of the photon matches the full orbital path of the kutonic system.
     - The relationship $r_e = 2\pi\lambda_C$ suggests that the kutonic electron's resonant structure is intrinsically tied to its Compton wavelength, with the orbital radius being the geometric realization of this quantum scale in circular motion.
@@ -310,7 +310,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
      
    - **Implication:** This alignment indicates that in the UTKH framework, the harmonic configurations of kutonic systems inherently relate to the mass properties of fundamental particles.
 
-## Theoretical Mathematical Hypotheses <a href="#mathematical-theory"></a>
+## Proposed Mathematical Frameworks <a href="#mathematical-theory"></a>
 
 While this theory is still under development, I present some ideas as to how to calculate the specific nature of kutons and kutonic systems, which could help align this theory with observable events.
 
@@ -527,7 +527,7 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ## Applications to Technology <a href="#applications-to-technology"></a>
 
-The Universal Theory of Kinetic Harmonics (UTKH) has far-reaching implications for technology, providing new insights into materials science, medicine, and quantum computing. By understanding the role of harmonic resonance in energy systems, UTKH offers innovative approaches to designing and optimizing technological systems.
+UTKH has far-reaching implications for technology, providing new insights into materials science, medicine, and quantum computing. By understanding the role of harmonic resonance in energy systems, UTKH offers innovative approaches to designing and optimizing technological systems.
 
 ### Resonance-Based Materials Science <a href="#resonance-based-materials-science"></a>
 
@@ -710,29 +710,22 @@ Contact the author: [GitHub](https://github.com/joshmorgan1000/UTKH) or [Email](
 
 ---
 
-#### Shared under the MIT License (MIT)
+### Shared under the MIT License (MIT)
 
-Copyright © 2024 Josh Morgan
+<sub>Copyright © 2024 Josh Morgan</sub>
 
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this document and associated software artifact
-files (the "Theory"), to deal in the Theory without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Theory, and to permit persons to whom the
-Theory is furnished to do so, subject to the following
-conditions:
+<sub>Permission is hereby granted, free of charge, to any person obtaining a copy of this document and associated artifacts (the "Theory"), to deal in the Theory without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Theory, and to permit persons to whom the Theory is furnished to do so, subject to the following conditions:</sub>
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Theory.
+**The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Theory.**
 
-THE THEORY IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+<sub>THE THEORY IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
 OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE THEORY OR THE USE OR
-OTHER DEALINGS IN THE THEORY.
+OTHER DEALINGS IN THE THEORY.</sub>
 
 ---
