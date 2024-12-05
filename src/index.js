@@ -1,4 +1,4 @@
-import { Engine, Scene, ArcRotateCamera, HemisphericLight, MeshBuilder, Vector3, Color3 } from 'babylonjs';
+import { Engine, Scene, ArcRotateCamera, HemisphericLight, MeshBuilder, Vector3, Color3, Color4, StandardMaterial } from 'babylonjs';
 import backgroundImage from './background.jpg';
 import { marked } from 'marked';
 import katex from 'katex';
@@ -66,12 +66,12 @@ Object.assign(markdownDiv.style, {
     overflowY: 'auto',
     maxHeight: '100vh',
     boxSizing: 'border-box',
-    margin: '0 20 0 20px'
+    margin: '0 20px 0 20px'
 });
 document.body.appendChild(markdownDiv);
 
 // Dynamically Load README.md
-fetch('README.md')
+fetch('https://raw.githubusercontent.com/joshmorgan1000/UTKH/refs/heads/main/THEORY.md')
     .then((response) => response.text())
     .then((markdown) => {
         // Process Markdown with marked and render math with KaTeX
@@ -89,12 +89,14 @@ fetch('README.md')
 // Babylon.js Scene with Gravitationally Attracted Spheres
 const engine = new BABYLON.Engine(canvas, true);
 const scene = new BABYLON.Scene(engine);
+
+// Set clear color to transparent
 scene.clearColor = new BABYLON.Color4(0, 0, 0, 0); // Transparent canvas
 
 const camera = new BABYLON.ArcRotateCamera(
     'camera',
-    0,
-    0,
+    Math.PI / 2,
+    Math.PI / 4,
     15,
     BABYLON.Vector3.Zero(),
     scene
@@ -117,7 +119,7 @@ for (let i = 0; i < numSpheres; i++) {
     sphere.material = new BABYLON.StandardMaterial(`material${i}`, scene);
     const r = Math.random() * 0.7;
     const b = Math.random() * (1.3 - r);
-    const g = 1.3 - r - b;
+    const g = 1.1 - r - b;
     sphere.material.diffuseColor = new BABYLON.Color3(r, g, b);
     sphere.position = new BABYLON.Vector3(
         Math.random() * 10 - 5,
@@ -135,7 +137,8 @@ scene.registerBeforeRender(() => {
                 const dir = spheres[j].position.subtract(spheres[i].position);
                 const distance = Math.max(dir.length(), 0.07); // Prevent division by zero
                 const force = dir.normalize().scale(0.1 / (distance * distance));
-                if (distance <= 0.07 || force > 20) {
+                const originalIPosition = spheres[i].position.clone();
+                if (distance <= 0.07 || force.length() > 20) {
                     spheres[i].position = new BABYLON.Vector3(
                         Math.random() * 10 - 5,
                         Math.random() * 10 - 5,
@@ -146,26 +149,47 @@ scene.registerBeforeRender(() => {
                         Math.random() * 10 - 5,
                         Math.random() * 10 - 5,
                     );
-                    const explosion = BABYLON.MeshBuilder.CreateSphere(`explosion${explosionCounter}`, { diameter: 0.1 }, scene);
+
+                    // Create explosion sphere
+                    const explosion = BABYLON.MeshBuilder.CreateSphere(`explosion${explosionCounter}`, { diameter: 0.3, updatable: true }, scene);
                     explosion.material = new BABYLON.StandardMaterial(`explosionMaterial${explosionCounter}`, scene);
-                    explosion.material.diffuseColor = new BABYLON.Color3(1, 1, 1);
-                    explosion.position = spheres[i].position.clone();
-                    explosions.push(explosion);
+                    explosion.material.diffuseColor = new BABYLON.Color3(0.5, 0.6, 0.6);
+                    explosion.position = originalIPosition;
+                    explosions.push({ mesh: explosion, material: explosion.material, scale: 0.4, alpha: 1 });
                     explosionCounter++;
                 }
                 spheres[i].position.addInPlace(force);
             }
         }
     }
+
+    const toRemove = [];
+
+    // Update explosions
     for (let i = 0; i < explosions.length; i++) {
+        const explosion = explosions[i];
         // Make the explosion grow in size exponentially
-        explosions[i].scaling = explosions[i].scaling.add(new BABYLON.Vector3(1, 1, 1).scale(0.1));
-        // Make the explosion become slightly more transparent
-        explosions[i].material.alpha *= explosions[i].scaling.length() / 20;
-        if (explosions[i].scaling.length() > 20) {
-            explosions[i].dispose();
-            explosions.splice(i, 1);
+        explosion.scale *= 1.05;
+        explosion.mesh.scaling = new BABYLON.Vector3(explosion.scale, explosion.scale, explosion.scale);
+
+        // Make the explosion fade out
+        explosion.alpha = explosion.alpha * 0.97;
+        explosion.material.alpha = explosion.alpha;
+        explosion.material.opacity = explosion.alpha;
+        //explosion.mesh.opacity = explosion.alpha;
+        //explosion.mesh.alpha = explosion.alpha;
+
+        console.log('Scale: ' + explosion.scale + ' Position: ' + explosion.mesh.position + ' Alpha: ' + explosion.alpha);
+
+        if (explosion.scale > 400) {
+            toRemove.push(i);
         }
+    }
+
+    // Remove finished explosions
+    for (let i = toRemove.length - 1; i >= 0; i--) {
+        explosions[toRemove[i]].mesh.dispose();
+        explosions.splice(explosions.indexOf(explosions[toRemove[i]]), 1);
     }
 });
 
