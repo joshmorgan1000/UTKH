@@ -257,11 +257,11 @@ To provide mathematical rigor, I've attempted to model fundamental particles as 
    
    - **Constants Used:**
      
-     - Planck's Constant ($h$): $ 6.626 \times 10^{-34} \ \text{J} \cdot \text{s}$
-     - Electron Mass ($m_e$): $ 9.109 \times 10^{-31} \ \text{kg}$
-     - Speed of Light ($c$): $ 2.998 \times 10^8 \ \text{m/s}$
+     - Planck's Constant ($h$): $6.626 \times 10^{-34} \ \text{J} \cdot \text{s}$
+     - Electron Mass ($m_e$): $9.109 \times 10^{-31} \ \text{kg}$
+     - Speed of Light ($c$): $2.998 \times 10^8 \ \text{m/s}$
    
-   - **Compute $ r_e $:**
+   - **Compute $r_e$:**
      
      $r_e = \frac{2\pi \times 6.626 \times 10^{-34}}{9.109 \times 10^{-31} \times 2.998 \times 10^8} \approx 1.513 \times 10^{-11} \ \text{meters}$
    
@@ -286,7 +286,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
     - The factor of $2\pi$ suggests that $r_e$ represents the circumference of a circular resonance, where the wavelength of the photon matches the full orbital path of the kutonic system.
     - The relationship $r_e = 2\pi\lambda_C$ suggests that the kutonic electron's resonant structure is intrinsically tied to its Compton wavelength, with the orbital radius being the geometric realization of this quantum scale in circular motion.
      
-### Bohr Radius ($ a_0 $)
+### Bohr Radius ($a_0$)
   - We know the Bohr radius as:
 
     $a_0 = \frac{4\pi \epsilon_0 \hbar^2}{m_e e^2}$
@@ -304,7 +304,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
    
    $r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}$
 
-2. **Calculate the Orbital Radius for the Mass Difference Kuton ($ r_{\Delta m} $)**
+2. **Calculate the Orbital Radius for the Mass Difference Kuton ($r_{\Delta m}$)**
    
    $r_{\Delta m} = \frac{2\pi h c}{\Delta m}$
    

@@ -4,7 +4,7 @@ You can find this hosted [here](http://sonicpoets.com/).
 
 The **Universal Theory of Kinetic Harmonics (UTKH)** is a unified field theory of physics that ties all phenomena of the known universe into a single framework. Its principles connect with and expand upon several established ideas in classical and modern physics, bridging the gap between general relativity, quantum mechanics, and other emergent theories. It fundamendally both redefines and aligns with current models, providing new insights and reshaping our understanding of the universe.
 
-Even though it remains speculative, foundational theoretical math seems to confirm its validity. While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, as most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
+Even though it remains speculative, foundational theoretical math seems to confirm its validity. While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, and most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
 
 ## Table of Contents
 - [Introduction](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#introduction-)
@@ -25,7 +25,7 @@ Even though it remains speculative, foundational theoretical math seems to confi
   - [Parallels with Emergent Theories](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#parallels-with-emergent-theories-)
   - [Bridging Microscopic and Macroscopic Physics](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#bridging-microscopic-and-macroscopic-physics-)
 - [Mathematical Formulation](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#mathematical-formulation-)
-  - [Deriving the Kutonic Electron's Orbital Radius ($r_e$)](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#deriving-the-kutonic-electron-)
+  - [Deriving the Kutonic Electron's Orbital Radius](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#deriving-the-kutonic-electron-)
   - [Confirmation of Theory by Compton Wavelength](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#confirmation-of-theory-by-compton-wavelength-a-href-)
   - [Deriving Harmonic Relationships Between Orbital Radius Ratios and Mass Ratios](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#deriving-harmonic-relationships-between-orbital-radius-ratios-and-mass-ratios-a-href-)
 - [Proposed Mathematical Frameworks](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#mathematical-theory-)
