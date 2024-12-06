@@ -10,7 +10,7 @@ UTKH posits that all fundamental properties of the universe arise from stable pa
 
 UTKH generally rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy, manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they fundamentally have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems, which result in emergent properties such as electron orbitals, unique behaviors of different elements, and forces such as magnetism and gravity.
 
-Note to the physics community: please note that while some basic equations have been demonstrated and proposed, this is a continuous work in progress, I am not a physics professor, and the target audience for this extends beyond the domain of post-graduate reading levels. If you are a physics professor, you may want to skip the sections ***Parallels with Well Known Physical Properties***, ***Applications to Physics***, and ***Philosophical and Metaphysical Implications*** to save yourself some time. Pointing out inconsistencies/mistakes in the math, or providing examples of existing observational data that contradicts this theory would be most helpful. Additionally, I understand that many facets of General Relativity and Quantum Mechanics provide predictions and frameworks for these types of things. UTKH does not intend to compete with these but rather enhance them (with perhaps one or two exceptions). The implications of this theory are far too vast to cover everything in a single publication, so do not expect to find all the "answers" here. If you happened to miss it, there is a [table of contents](https://github.com/joshmorgan1000/UTKH/blob/main/README.md) in the README.md file.
+**Note to the physics community:** *While some basic equations have been demonstrated and proposed, this is a continuous work in progress. I am not a physics professor, and the target audience for this extends beyond the domain of post-graduate reading levels. If you happen to be physics professor, you may want to skip the sections ***Parallels with Well Known Physical Properties***, ***Applications to Physics***, ***Applications to Technology***, and ***Philosophical and Metaphysical Implications*** to save yourself some time. If you happened to miss it, there is a [table of contents in the README.md file](https://github.com/joshmorgan1000/UTKH/blob/main/README.md) so you can skip to the mathematical foundations or proposed experiments/predicted observations. **Pointing out inconsistencies/mistakes in the math, or providing examples of existing observational data that contradicts this theory would be most helpful.** Additionally, I understand that many facets of General Relativity and Quantum Mechanics provide predictions and frameworks for these types of things. UTKH intends to enhance these models with a deeper understanding, not compete with them (with perhaps one or two exceptions). **The implications of this theory are far too vast to cover everything in a single publication**, so do not expect to find all the "answers" here.*
 
 ### Foundational Principles <a href="#motion-and-harmonics-as-foundational-principles"></a>
 
@@ -28,7 +28,7 @@ Note to the physics community: please note that while some basic equations have 
 
 ## Theoretical Foundations <a href="#theoretical-foundations"></a>
 
-It is well established by general relativity that energy, mass, and gravity are related. At microscopic scales, however, the principles of general relativity break down when it comes to phenomena such as wave-particle duality, uncertainty, and superposition, necessitating a "different" state of rules in quantum mechanics. UTKH bridges this gap with a new perspective that redefines many concepts while aligning with preestablished models in both domains.
+It is well established by general relativity and experimental data that energy, mass, and gravity are related. At microscopic scales, however, the principles of general relativity break down when it comes to phenomena such as wave-particle duality, uncertainty, and superposition, necessitating a "different" state of rules in quantum mechanics. UTKH attempts to bridge this gap with a new perspective that redefines a few concepts while aligning with preestablished models in both domains.
 
 ### Waves and Oscillations <a href="#waves-and-oscillations-a-href"></a>
 
@@ -72,135 +72,21 @@ A **kuton** is described as two photons in perpetual descending orbit of each ot
 
 Mathematically through general relativity, this shows that two photons can create a "mass-like" curvature of spacetime, even though the system is entirely energetic. A **Kutonic System** describes a similar situation that is applied to multiple photons of orbit, e.g. Lagrangian points.
 
-### Kutonic Systems and the Emergence of Mass <a href="#co-orbital-systems-and-the-emergence-of-mass"></a>
+The novelty of UTKH is that is proposes that these systems of light/kinetic motion occur, they "transform" into what we percieve as particles and other various states. Or, perhaps it is better stated that what we observe to be particles, are actually these patterns of stable configurations of kinetic energy, which UTKH refers to as a kuton or a kutonic system.
 
-- **Mass as Resonance:** Mass arises when energy flows stabilize into self-sustaining, resonant patterns that resist dissipation due to the equalibrium state of orbital patterns, gyroscopic forces, and the resonant harmonic effects on surrounding systems.
+### Kutonic Systems and the Emergence of Particles <a href="#co-orbital-systems-and-the-emergence-of-mass"></a>
 
-- **Near-Infinitesimal Inertia:** Allows infinitesimally small, unmeasurable properties (such as the theoretical mass of a photon or gravitons) to exist in a state consistent with conservation of energy and mass-energy equivalence.
+- **Mass as a Kutonic System:** The properties of particles (or other emergent properties) arise when energy flows stabilize into self-sustaining, resonant patterns that resist dissipation due to the equalibrium state of orbital patterns, gyroscopic forces, and the resonant harmonic effects on surrounding systems. The unique oscillation frequencies resonantes harmonically with surrounding systems, which is what gives rise to emergent behaviors.
+
+- **Near-Infinitesimal Inertia:** Allows infinitesimally small, unmeasurable properties (such as the theoretical mass of a photon or gravitons) to exist in a state consistent with conservation of energy and mass-energy equivalence. Mass-energy equivalence has been observed and confirmed with experimental data, but the specific states described by UTKH have not been considered.
 
 - **Gyroscopic Dynamics:** In kutonic systems, gyroscopic effects also anchor the stability of co-orbital photons. As their angular momentum translates into a form of rotational inertia, these forces act as a stabilizing framework that reinforces harmonic resonance. This gyroscopic contribution is crucial to the properties of nuclear forces and energy's transformation into what we observe as rest mass.
 
 - **Harmonic Gravity:** The resonance inherent in these flows generates a self-organizing structure that reflects gravity at both quantum and cosmic scales. Rather than viewing gravity as a curvature of spacetime, UTKH positions it as the emergent pull of aligned energy flows in stable systems.
 
+- **Interactions Between Kutonic Systems:** Opposing symmetries or destructive interference in these harmonics result in things like positive or negative charges or dispersement of the systems into smaller kutonic systems and/or free energy.
+
 - **Building Blocks of Reality:** In this framework, particles like electrons, protons, and neutrons are not discrete "objects" but distinct resonant configurations of kutonic systems. Each configuration embodies a unique balance of kinetic motion, inertia, gyroscopic stability, and resonance. These systems exert a harmonic force that resonates with other systems according to their specific configuration and frequencies.
-
-## Observable Parallels in Nature <a href="#minimizing-energy-instability"></a>
-
-Nature favors configurations that minimize instability, a principle reflected in phenomena ranging from atomic orbitals to planetary systems. Resonance achieves this by:
-- Aligning energy flows into harmonic patterns.
-- Reducing destructive interference and energy dissipation.
-KH extends this principle universally, proposing that all stable systems — from atoms to galaxies — arise from resonance-driven minimization of instability.
-
-### Symmetry and Harmonic Structures <a href="#symmetry-and-harmonic-structures"></a>
-
-Symmetry plays a critical role in resonance:
-- Harmonic systems naturally align with the symmetries of their environment, leading to the formation of predictable patterns (e.g., atomic structures, crystalline lattices).
-- This aligns with the mathematical foundations of physics, where solutions to wave equations inherently reflect symmetry and stability of the wave equation.
-
-### Parallels with Well Known Physical Properties <a href="#applications-to-well-known-properties"></a>
-
-UTKH proposes that resonance-based attraction underpins phenomena traditionally attributed to mass and gravity. Several natural systems demonstrate behaviors that align with this principle, suggesting that kuton resonance plays a universal role in stabilizing dynamic systems.
-
-#### Vortex Behavior in Fluid Dynamics <a href="#vortex-behavior-in-fluid-dynamics"></a>
-
-In fluid dynamics, vortices exhibit behaviors that resemble the co-orbital attraction described in UTKH:
-- **Mutual Attraction and Merging:**
-  - Adjacent vortices, such as tornadoes or whirlpools, can spiral toward one another, eventually merging into a single, more stable vortex.
-  - This behavior mirrors how co-orbital systems align into stable harmonic patterns.
-- **Example:**
-  - Atmospheric vortices, like those seen in hurricanes or water whirlpools, often interact dynamically, stabilizing through energy redistribution.
-
-#### Orbital Resonances in Celestial Systems <a href="#orbital-resonances-in-celestial-systems"></a>
-
-Celestial mechanics provides clear examples of resonance-driven attraction:
-
-- **Orbital Resonances:**
-  - The Kirkwood gaps in the asteroid belt result from harmonic interactions with Jupiter, demonstrating how resonance governs stability in large-scale systems.
-  - Pluto and Neptune are locked in a 3:2 resonance, preventing close encounters and stabilizing their orbits despite overlapping paths in the Solar System.
-
-- **Lagrange Points:**
-  - Stable points in a two-body system, such as the Earth-Sun system, allow smaller objects to co-orbit in harmonic balance (e.g., the Trojan asteroids near Jupiter). These points exemplify how resonance-driven dynamics create equilibrium zones in gravitational fields.
-
-- **Tidal Locking:**
-  - The Moon is tidally locked to Earth, meaning one hemisphere always faces the planet. This resonance arises from energy dissipation and gravitational interactions that stabilize rotational and orbital dynamics over time.
-
-- **Ring Systems:**
-  - The gaps in Saturn's rings (e.g., the Cassini Division) are caused by resonances with its moons, where orbital interactions eject particles from unstable zones, leaving well-defined gaps.
-
-- **Mean-Motion Resonances in Exoplanets:**
-  - Exoplanetary systems often exhibit resonances where planets orbit their stars in harmonic ratios, such as 2:1 or 3:2. These resonances enhance orbital stability and are observed in systems like Kepler-223.
-
-- **Implication:**
-  - These phenomena suggest that energy flows between orbiting systems naturally stabilize into predictable, resonant patterns.
-
-#### Electromagnetic Dipole Interactions <a href="#electromagnetic-dipole-interactions"></a>
-
-Electromagnetic systems exhibit behaviors consistent with harmonic resonance:
-
-- **Magnetic Field Coupling:**
-  - Rotating charged particles generate magnetic fields that interact dynamically, forming stable systems under certain conditions.
-
-- **Dipole-Dipole Interactions:**
-  - Magnetic dipoles attract or repel depending on their alignment, resembling the dynamic alignment seen in co-orbital resonance.
-
-#### Biological Swarming and Collective Behaviors <a href="#biological-swarming-and-collective-behaviors"></a>
-
-Resonance-like behaviors also appear in biological systems:
-
-- **Swarming and Alignment:**
-  - Groups of animals, such as birds in flocks or fish in schools, exhibit collective behaviors where individual motions align dynamically to form stable group patterns.
-  - Example: Starlings in murmurations create large, synchronized groups, adjusting to maintain stability and coherence.
-
-- **Implication:**
-  - These behaviors suggest that harmonic alignment is a universal organizing principle, transcending traditional definitions of mass and gravity.
-
-These natural phenomena illustrate how systems in motion naturally stabilize through harmonic resonance:
-
-1. **Universality of Resonance:** 
-   - The observed behaviors in fluids, celestial mechanics, and electromagnetic systems reinforce UTKH's claim that resonance-based attraction is fundamental to the universe.
-
-2. **Dynamic Stabilization:**
-   - Systems in motion align and stabilize into predictable patterns, minimizing energy dissipation and maximizing stability.
-
-### Parallels with Emergent Theories <a href="#parallels-with-emergent-theories"></a>
-
-UTKH redefines gravity as a harmonic interaction between kinetic systems, giving a predictable and/or measurable framework for gravitons, and lends to new theories from the subatomic to deep space. It provides new theories to questions previously unanswered, it simultaneously coincides with existing known phenomena and emergent theories, some of which UTKH gives new hypotheses:
-
-- **Quantum Gravity:** Mass and energy are sources of spacetime curvature, yet photons contribute to this curvature even though they are massless due to their energy and momentum.
-
-- **Higgs Fields:** UTKH allows situations that give mass to properties, explained by harmonic resonation or direct angular energy transfer.
-
-- **Entropic Gravity:** UTKH agrees that gravity is an emergent force, explaining that it arises from kutonic systems.
-
-- **Photon Gas:** In a high-energy photon gas (e.g., early universe), the energy density contributes to gravity as if it were massive.
-
-- **Quantum Electrodynamics:** Photons interact via virtual particles (e.g., electron-positron pairs), which can create transient effective mass.
-
-- **Loop Quantum Gravity (LQG):** In LQG, spacetime is quantized into discrete loops of energy. Photons in a coesiting photon sphere might localize energy into a quantized "node" or form a stable configuration forming mass.
-
-- **String Theory:** A kutonic system could create resonance conditions for certain vibrational states, or manifest mass as an emergent property of confined energy.
-
-- **Holographic Principle:** UTKH's core principle is that photons approaching infinitesimal orbits exhibit mass-like behavior, much like a "hologram". The Holographic Principle may actually be indicating a microcosm of how mass arises in larger-scale structures.
-
-- **Spacetime Resonance:** Spacetime itself can be viewed as a large-scale harmonic field, where curvature reflects energy flows aligned into resonant patterns.
-
-- **Quantum Entanglement:** UTKH suggests that harmonic resonance could underpin entanglement. Photons in co-orbital patterns may maintain phase relationships analogous to entangled states, implying that resonance is a deeper, unifying principle behind quantum correlations.
-
-- **Causal Sets:** In causal set theory, spacetime is a discrete structure made of fundamental events. UTKH proposes that kutonic systems form the "threads" connecting these events, harmonizing energy transfer across causal links and potentially defining spacetime at its most fundamental level.
-
-- **Tensor Networks:** Tensor networks, used in quantum information and holography, represent entanglement structures. UTKH suggests that the harmonic interactions of kutons could map naturally onto tensor networks, where resonance defines the connectivity and geometry of the quantum system.
-
-- **Superposition:** UTKH posits that particles exist in superposition because their resonances span multiple harmonic states until observed.
-
-- **Zero-Point Energy:** Ever-present resonances maintaining a baseline "vibrational state" seemlessly link the Casimir Effect and quantum fluctuations to the kutonic framework. This perspective suggests that zero-point energy is not merely a quantum artifact but a manifestation of underlying harmonic dynamics inherent to the universe.
-
-### Bridging Microscopic and Macroscopic Physics <a href="#bridging-microscopic-and-macroscopic-physics"></a>
-
-The principles of UTKH bridge the divide between quantum mechanics and classical physics:
-
-- **Quantum Scale:** Resonance explains phenomena like superposition and entanglement as interactions of multidimensional oscillations.
-
-- **Cosmic Scale:** Gravity and large-scale structures are emergent properties of harmonic stability across vast kutonic systems.
 
 ---
 
@@ -469,7 +355,7 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ## Applications to Physics <a href="#applications-to-physics"></a>
 
-Below are just a few implications as to how this theory may be applied to modern systems:
+*Please note: The rest of this document is hypothetical and narritive in nature, not to be taken as claims of scientific evidence or proof. It is intended to broaden the scope of audience and help provide a better conceptual understanding of the theory. If that does not interest you, it may be better to just [skip to the conclusion](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#conclusion-).*
 
 ### Relativity and Cosmology <a href="#relativity-and-cosmology"></a>
 
@@ -626,6 +512,126 @@ UTKH expects to face questions and challenges, particularly around three key are
 
 3. **Limitations of UTKH**
     - Current experimental tools may lack the precision to detect subtle harmonic effects. Incremental testing and theoretical refinement may be necessary for broader acceptance.
+
+---
+
+## Observable Parallels in Nature <a href="#minimizing-energy-instability"></a>
+
+Nature favors configurations that minimize instability, a principle reflected in phenomena ranging from atomic orbitals to planetary systems. Resonance achieves this by:
+- Aligning energy flows into harmonic patterns.
+- Reducing destructive interference and energy dissipation.
+KH extends this principle universally, proposing that all stable systems — from atoms to galaxies — arise from resonance-driven minimization of instability.
+
+### Symmetry and Harmonic Structures <a href="#symmetry-and-harmonic-structures"></a>
+
+Symmetry plays a critical role in resonance:
+- Harmonic systems naturally align with the symmetries of their environment, leading to the formation of predictable patterns (e.g., atomic structures, crystalline lattices).
+- This aligns with the mathematical foundations of physics, where solutions to wave equations inherently reflect symmetry and stability of the wave equation.
+
+### Parallels with Well Known Physical Properties <a href="#applications-to-well-known-properties"></a>
+
+UTKH proposes that resonance-based attraction underpins phenomena traditionally attributed to mass and gravity. Several natural systems demonstrate behaviors that align with this principle, suggesting that kuton resonance plays a universal role in stabilizing dynamic systems.
+
+#### Vortex Behavior in Fluid Dynamics <a href="#vortex-behavior-in-fluid-dynamics"></a>
+
+In fluid dynamics, vortices exhibit behaviors that resemble the co-orbital attraction described in UTKH:
+- **Mutual Attraction and Merging:**
+  - Adjacent vortices, such as tornadoes or whirlpools, can spiral toward one another, eventually merging into a single, more stable vortex.
+  - This behavior mirrors how co-orbital systems align into stable harmonic patterns.
+- **Example:**
+  - Atmospheric vortices, like those seen in hurricanes or water whirlpools, often interact dynamically, stabilizing through energy redistribution.
+
+#### Orbital Resonances in Celestial Systems <a href="#orbital-resonances-in-celestial-systems"></a>
+
+Celestial mechanics provides clear examples of resonance-driven attraction:
+
+- **Orbital Resonances:**
+  - The Kirkwood gaps in the asteroid belt result from harmonic interactions with Jupiter, demonstrating how resonance governs stability in large-scale systems.
+  - Pluto and Neptune are locked in a 3:2 resonance, preventing close encounters and stabilizing their orbits despite overlapping paths in the Solar System.
+
+- **Lagrange Points:**
+  - Stable points in a two-body system, such as the Earth-Sun system, allow smaller objects to co-orbit in harmonic balance (e.g., the Trojan asteroids near Jupiter). These points exemplify how resonance-driven dynamics create equilibrium zones in gravitational fields.
+
+- **Tidal Locking:**
+  - The Moon is tidally locked to Earth, meaning one hemisphere always faces the planet. This resonance arises from energy dissipation and gravitational interactions that stabilize rotational and orbital dynamics over time.
+
+- **Ring Systems:**
+  - The gaps in Saturn's rings (e.g., the Cassini Division) are caused by resonances with its moons, where orbital interactions eject particles from unstable zones, leaving well-defined gaps.
+
+- **Mean-Motion Resonances in Exoplanets:**
+  - Exoplanetary systems often exhibit resonances where planets orbit their stars in harmonic ratios, such as 2:1 or 3:2. These resonances enhance orbital stability and are observed in systems like Kepler-223.
+
+- **Implication:**
+  - These phenomena suggest that energy flows between orbiting systems naturally stabilize into predictable, resonant patterns.
+
+#### Electromagnetic Dipole Interactions <a href="#electromagnetic-dipole-interactions"></a>
+
+Electromagnetic systems exhibit behaviors consistent with harmonic resonance:
+
+- **Magnetic Field Coupling:**
+  - Rotating charged particles generate magnetic fields that interact dynamically, forming stable systems under certain conditions.
+
+- **Dipole-Dipole Interactions:**
+  - Magnetic dipoles attract or repel depending on their alignment, resembling the dynamic alignment seen in co-orbital resonance.
+
+#### Biological Swarming and Collective Behaviors <a href="#biological-swarming-and-collective-behaviors"></a>
+
+Resonance-like behaviors also appear in biological systems:
+
+- **Swarming and Alignment:**
+  - Groups of animals, such as birds in flocks or fish in schools, exhibit collective behaviors where individual motions align dynamically to form stable group patterns.
+  - Example: Starlings in murmurations create large, synchronized groups, adjusting to maintain stability and coherence.
+
+- **Implication:**
+  - These behaviors suggest that harmonic alignment is a universal organizing principle, transcending traditional definitions of mass and gravity.
+
+These natural phenomena illustrate how systems in motion naturally stabilize through harmonic resonance:
+
+1. **Universality of Resonance:** 
+   - The observed behaviors in fluids, celestial mechanics, and electromagnetic systems reinforce UTKH's claim that resonance-based attraction is fundamental to the universe.
+
+2. **Dynamic Stabilization:**
+   - Systems in motion align and stabilize into predictable patterns, minimizing energy dissipation and maximizing stability.
+
+### Parallels with Emergent Theories <a href="#parallels-with-emergent-theories"></a>
+
+UTKH redefines gravity as a harmonic interaction between kinetic systems, giving a predictable and/or measurable framework for gravitons, and lends to new theories from the subatomic to deep space. It provides new theories to questions previously unanswered, it simultaneously coincides with existing known phenomena and emergent theories, some of which UTKH gives new hypotheses:
+
+- **Quantum Gravity:** Mass and energy are sources of spacetime curvature, yet photons contribute to this curvature even though they are massless due to their energy and momentum.
+
+- **Higgs Fields:** UTKH allows situations that give mass to properties, explained by harmonic resonation or direct angular energy transfer.
+
+- **Entropic Gravity:** UTKH agrees that gravity is an emergent force, explaining that it arises from kutonic systems.
+
+- **Photon Gas:** In a high-energy photon gas (e.g., early universe), the energy density contributes to gravity as if it were massive.
+
+- **Quantum Electrodynamics:** Photons interact via virtual particles (e.g., electron-positron pairs), which can create transient effective mass.
+
+- **Loop Quantum Gravity (LQG):** In LQG, spacetime is quantized into discrete loops of energy. Photons in a coesiting photon sphere might localize energy into a quantized "node" or form a stable configuration forming mass.
+
+- **String Theory:** A kutonic system could create resonance conditions for certain vibrational states, or manifest mass as an emergent property of confined energy.
+
+- **Holographic Principle:** UTKH's core principle is that photons approaching infinitesimal orbits exhibit mass-like behavior, much like a "hologram". The Holographic Principle may actually be indicating a microcosm of how mass arises in larger-scale structures.
+
+- **Spacetime Resonance:** Spacetime itself can be viewed as a large-scale harmonic field, where curvature reflects energy flows aligned into resonant patterns.
+
+- **Quantum Entanglement:** UTKH suggests that harmonic resonance could underpin entanglement. Photons in co-orbital patterns may maintain phase relationships analogous to entangled states, implying that resonance is a deeper, unifying principle behind quantum correlations.
+
+- **Causal Sets:** In causal set theory, spacetime is a discrete structure made of fundamental events. UTKH proposes that kutonic systems form the "threads" connecting these events, harmonizing energy transfer across causal links and potentially defining spacetime at its most fundamental level.
+
+- **Tensor Networks:** Tensor networks, used in quantum information and holography, represent entanglement structures. UTKH suggests that the harmonic interactions of kutons could map naturally onto tensor networks, where resonance defines the connectivity and geometry of the quantum system.
+
+- **Superposition:** UTKH posits that particles exist in superposition because their resonances span multiple harmonic states until observed.
+
+- **Zero-Point Energy:** Ever-present resonances maintaining a baseline "vibrational state" seemlessly link the Casimir Effect and quantum fluctuations to the kutonic framework. This perspective suggests that zero-point energy is not merely a quantum artifact but a manifestation of underlying harmonic dynamics inherent to the universe.
+
+### Bridging Microscopic and Macroscopic Physics <a href="#bridging-microscopic-and-macroscopic-physics"></a>
+
+The principles of UTKH bridge the divide between quantum mechanics and classical physics:
+
+- **Quantum Scale:** Resonance explains phenomena like superposition and entanglement as interactions of multidimensional oscillations.
+
+- **Cosmic Scale:** Gravity and large-scale structures are emergent properties of harmonic stability across vast kutonic systems.
 
 ---
 
