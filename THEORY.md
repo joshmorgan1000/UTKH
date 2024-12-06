@@ -10,13 +10,17 @@ UTKH posits that all fundamental properties of the universe arise from stable pa
 
 UTKH generally rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy, manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they fundamentally have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems, which result in emergent properties such as electron orbitals, unique behaviors of different elements, and forces such as magnetism and gravity.
 
+Note to the physics community: please note that while some basic equations have been demonstrated and proposed, this is a continuous work in progress, I am not a physics professor, and the target audience for this extends beyond the domain of post-graduate reading levels. If you are a physics professor, you may want to skip the sections ***Parallels with Well Known Physical Properties***, ***Applications to Physics***, and ***Philosophical and Metaphysical Implications*** to save yourself some time. Pointing out inconsistencies/mistakes in the math, or providing examples of existing observational data that contradicts this theory would be most helpful. Additionally, I understand that many facets of General Relativity and Quantum Mechanics provide predictions and frameworks for these types of things. UTKH does not intend to compete with these but rather enhance them (with perhaps one or two exceptions). The implications of this theory are far too vast to cover everything in a single publication, so do not expect to see all the "answers" here.
+
 ### Foundational Principles <a href="#motion-and-harmonics-as-foundational-principles"></a>
 
 1. **Kinetic Motion:** UTKH views everything in the universe as kinetic energy. Light, traditionally understood as both particle and wave, is reframed as the primordial form of a flow of energy in motion. Particles are not discrete "building blocks" but rather **dynamic systems of energy resonance.** This aligns with modern physics' understanding of particles as excitations of fields rather than solid objects, and provides an elegant explanation for the **mass-energy equivalence** ($E = m_e c^2$) by relating mass to the orital energy of photons within these systems.
 
-2. **Light as Hyperdimensional Oscillations:** UTKH views wave-particle duality of light as the projection of a higher-dimensional orbital patterns into three-dimensional space. These patterns are an intrinsic property of light, fundamental to its role in spacetime and gravity, and consistent with general relativity as well as quantum mechanics. The oscillatory nature of these patterns echo the spirit of **string theory**, while being conceptually simpler and more geometrically intuitive.
+2. **Light as Hyperdimensional Oscillations:** UTKH views wave-particle duality of light as the projection of a higher-dimensional orbital patterns into three-dimensional space. I understand that this is not a novel idea. However, these patterns are an intrinsic property of light, fundamental to its role in spacetime and gravity, and consistent with general relativity as well as quantum mechanics. The reason they are fundamental is because if we are to assume that light is capable of orbit, and gravity is an emergent property of resonation with oscillating frequencies, then it is intrinsic that light must also have these properties.
+ - It is understood that the oscillatory nature of these patterns echo the spirit of **string theory** (and others), while being conceptually simpler and more geometrically intuitive.
+ - The novelty of the UTKH foundational framework is that these oscillations is what results in observable emergent effects such as gravity, nuclear force, and others. The reason these effects vary is due to the fundamentally different frequencies and harmonics of these systems.
 
-3. **Kutons:** In the right conditions, kinetic motion patterns vortex into specific states of stable orbital patterns UTKH refers to as **kutons** or **kutonic systems.** These patterns give rise to what we observe to be mass, define as particles, or exhibit emerging effects. UTKH recognizes that kutonic flows may be multi-dimensional, such as triangular orbital patterns or more complex equalibrium states as described by Lagrangian systems. Quantifying these states into kutons provides a framework for calculating **harmonic frequencies** and **stable orbits** of photon systems, explains why certain elements have unique electron configurations, and why atomic and molecular systems exhibit their chemical behavior.
+3. **Kutons:** In the right conditions, kinetic motion patterns vortex into specific states of stable orbital patterns UTKH refers to as **kutons** or **kutonic systems.** These patterns give rise to more complex emergent properties, which include what we observe to be mass, define as particles, or exhibit emerging effects. UTKH recognizes that kutonic flows may be multi-dimensional, such as triangular orbital patterns or more complex equalibrium states as described by Lagrangian systems. Quantifying these states into kutons provides a framework for calculating **harmonic frequencies** and **stable orbits** of photon systems, explains why certain elements have unique electron configurations, and why atomic and molecular systems exhibit their chemical behavior.
 
 4. **Resonant Effects:** The oscillation frequencies of kutons and kutonic systems resonate with other kutonic systems in harmonic ratios. It naturally explains phenomena such as wave-particle duality and quantized enery levels, and scales to all levels from the subatomic to the cosmic.
 
@@ -80,14 +84,14 @@ Mathematically through general relativity, this shows that two photons can creat
 
 - **Building Blocks of Reality:** In this framework, particles like electrons, protons, and neutrons are not discrete "objects" but distinct resonant configurations of kutonic systems. Each configuration embodies a unique balance of kinetic motion, inertia, gyroscopic stability, and resonance. These systems exert a harmonic force that resonates with other systems according to their specific configuration and frequencies.
 
-### Observable Parallels in Nature <a href="#minimizing-energy-instability"></a>
+## Observable Parallels in Nature <a href="#minimizing-energy-instability"></a>
 
 Nature favors configurations that minimize instability, a principle reflected in phenomena ranging from atomic orbitals to planetary systems. Resonance achieves this by:
 - Aligning energy flows into harmonic patterns.
 - Reducing destructive interference and energy dissipation.
 KH extends this principle universally, proposing that all stable systems — from atoms to galaxies — arise from resonance-driven minimization of instability.
 
-#### Symmetry and Harmonic Structures <a href="#symmetry-and-harmonic-structures"></a>
+### Symmetry and Harmonic Structures <a href="#symmetry-and-harmonic-structures"></a>
 
 Symmetry plays a critical role in resonance:
 - Harmonic systems naturally align with the symmetries of their environment, leading to the formation of predictable patterns (e.g., atomic structures, crystalline lattices).
@@ -121,7 +125,7 @@ Celestial mechanics provides clear examples of resonance-driven attraction:
   - The Moon is tidally locked to Earth, meaning one hemisphere always faces the planet. This resonance arises from energy dissipation and gravitational interactions that stabilize rotational and orbital dynamics over time.
 
 - **Ring Systems:**
-  - The gaps in Saturn’s rings (e.g., the Cassini Division) are caused by resonances with its moons, where orbital interactions eject particles from unstable zones, leaving well-defined gaps.
+  - The gaps in Saturn's rings (e.g., the Cassini Division) are caused by resonances with its moons, where orbital interactions eject particles from unstable zones, leaving well-defined gaps.
 
 - **Mean-Motion Resonances in Exoplanets:**
   - Exoplanetary systems often exhibit resonances where planets orbit their stars in harmonic ratios, such as 2:1 or 3:2. These resonances enhance orbital stability and are observed in systems like Kepler-223.
@@ -153,7 +157,7 @@ Resonance-like behaviors also appear in biological systems:
 These natural phenomena illustrate how systems in motion naturally stabilize through harmonic resonance:
 
 1. **Universality of Resonance:** 
-   - The observed behaviors in fluids, celestial mechanics, and electromagnetic systems reinforce UTKH’s claim that resonance-based attraction is fundamental to the universe.
+   - The observed behaviors in fluids, celestial mechanics, and electromagnetic systems reinforce UTKH's claim that resonance-based attraction is fundamental to the universe.
 
 2. **Dynamic Stabilization:**
    - Systems in motion align and stabilize into predictable patterns, minimizing energy dissipation and maximizing stability.
@@ -270,6 +274,8 @@ To provide mathematical rigor, I've attempted to model fundamental particles as 
    - The calculated orbital radius ($r_e$) for the kutonic electron is approximately:
      
      $r_e \approx 1.51 \times 10^{-11} \ \text{meters}$
+
+   - Note: this does not mean to indicate the actual "size" of an electron. Since UTKH rejects the notion of particles, but rather as fields of state (much like many modern interpretations) this number may be incorrect, or more importantly insignificant.
    
 ### Confirmation of Theory by Compton Wavelength <a href="#confirmation-of-theory-by-compton-wavelength-a-href"></a>
 
@@ -280,11 +286,13 @@ $$\lambda_C = \frac{h}{m_e c}$$
 $$r_e = \frac{2\pi h}{m_e c}$$
 
 - Notice that: $r_e = 2\pi\lambda_C$
-
   - This means that the kutonic electron's photon orbital radius is **exactly $2\pi$ times the Compton wavelength.** This is significant because:
     - The Compton wavelength represents the quantum limit at which relativistic and quantum effects dominate. It effectively marks the scale below which quantum mechanical effects become significant for an electron.
     - The factor of $2\pi$ suggests that $r_e$ represents the circumference of a circular resonance, where the wavelength of the photon matches the full orbital path of the kutonic system.
     - The relationship $r_e = 2\pi\lambda_C$ suggests that the kutonic electron's resonant structure is intrinsically tied to its Compton wavelength, with the orbital radius being the geometric realization of this quantum scale in circular motion.
+  - Note: the actual mass of an electron (or any other particle) is irrelevant to this conclusion, as it is cancelled out in the equation. This merely shows a relationship between the hypothetical radius of photon orbitals and the Compton Wavelength.
+  - Due to the basic assumptions of UTKH, there is likely a relationship between the Compton Wavelength and the "curvature of spacetime", which UTKH redefines as complex harmonic fields.
+    - While it does "redefine" the curvature of spacetime, it does not introduce or propose any sort of difference in effects of spacetime curvature, but rather provides an explanation for the conditions.
      
 ### Bohr Radius ($a_0$)
   - We know the Bohr radius as:
@@ -295,7 +303,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
 
     $r_e \approx \frac{1}{3}a_0$
 
-  - The kutonic orbital radius is smaller than the Bohr radius, which reflects the intrinsic resonant scale of the electron itself rather than the electron’s spatial configuration in an atom.
+  - The kutonic orbital radius is smaller than the Bohr radius, which reflects the intrinsic resonant scale of the electron itself rather than the electron's spatial configuration in an atom.
        - The difference in scale can be attributed to the Coulomb interaction between the electron and nucleus in the atom, which influences the Bohr radius but is not relevant to the intrinsic kutonic system.
 
 ### Deriving Harmonic Relationships Between Orbital Radius Ratios and Mass Ratios <a href="#deriving-harmonic-relationships-between-orbital-radius-ratios-and-mass-ratios-a-href"></a>
@@ -338,7 +346,7 @@ $$r_e = \frac{2\pi h}{m_e c}$$
 
 ## Proposed Mathematical Frameworks <a href="#mathematical-theory"></a>
 
-While this theory is still under development, I present some ideas as to how to calculate the specific nature of kutons and kutonic systems, which could help align this theory with observable events.
+While this theory is still under development, I present some ideas as to how to calculate the specific nature of kutons and kutonic systems, which could help align this theory with observable events. Please note that these are merely hypothetical and do not yet attempt to provide quantized predictions, however it does hope to do so in the future.
 
 ### Kinetic Harmonic Resonance <a href="#kinetic-harmonic-resonance"></a>
 
@@ -380,7 +388,7 @@ The EFA equation describes the alignment of energy flow between interacting syst
 
 ## Experimental Predictions <a href="#experimental-predictions"></a>
 
-UTKH offers testable predictions that span diverse domains of physics. These experiments aim to validate the theory’s core principles, including resonance-driven attraction, photon-photon sphere stabilization, and the role of hyperdimensional oscillations.
+UTKH offers testable predictions that span diverse domains of physics. These experiments aim to validate the theory's core principles, including resonance-driven attraction, photon-photon sphere stabilization, and the role of hyperdimensional oscillations.
 
 ### Gravitational Effects of Resonating Tuning Forks <a href="#gravitational-effects-of-resonating-tuning-forks-a-href"></a>
 
@@ -556,7 +564,7 @@ Electricity is traditionally defined as the flow of electrons through a conducto
   - Light nuclei, when fused, achieve greater resonance stability, releasing vast amounts of energy.
 
 #### The Role of Resonance in Measurement and Collapse <a href="#the-role-of-resonance-in-measurement-and-collapse"></a>
-- Measurement disrupts a system’s resonance, forcing it to stabilize into a specific harmonic state. This explains the collapse of the wavefunction in quantum mechanics as a natural outcome of resonance stabilization.
+- Measurement disrupts a system's resonance, forcing it to stabilize into a specific harmonic state. This explains the collapse of the wavefunction in quantum mechanics as a natural outcome of resonance stabilization.
 
 ---
 
@@ -588,7 +596,7 @@ UTKH has far-reaching implications for technology, providing new insights into m
 
 #### Impacts on Protein Folding and Cellular Communication <a href="#impacts-on-protein-folding-and-cellular-communication"></a>
 - **Protein Folding:**
-  - Misfolded proteins (associated with diseases like Alzheimer’s) could be understood as disruptions in harmonic alignment. Correcting these disruptions might restore proper function.
+  - Misfolded proteins (associated with diseases like Alzheimer's) could be understood as disruptions in harmonic alignment. Correcting these disruptions might restore proper function.
 - **Cellular Communication:**
   - Cellular signaling (e.g., ion channel activity, neurotransmitter release) could be optimized by targeting their underlying resonance states, leading to breakthroughs in treating neurological disorders.
 
@@ -625,7 +633,7 @@ UTKH expects to face questions and challenges, particularly around three key are
 
 The Universal Theory of Kinetic Harmonics (UTKH) extends beyond the physical sciences, inviting profound philosophical and metaphysical questions. By positioning resonance and motion as the universe's fundamental principles, UTKH reshapes our understanding of the nature of existence and our place within it.
 
-### Resonance as the Universe’s Organizing Principle <a href="#resonance-as-the-universes-organizing-principle"></a>
+### Resonance as the Universe's Organizing Principle <a href="#resonance-as-the-universes-organizing-principle"></a>
 
 UTKH proposes that resonance is the primary organizing principle of the universe:
 - **From Chaos to Order:**
@@ -674,32 +682,32 @@ However, since it introduces a framework where light serves as the foundational 
    - UTKH begins with light as the primordial form of energy, consistent with the Biblical declaration in Genesis 1:3. This light, directed into motion, becomes the substrate for all creation, and the formation of stable co-orbital systems parallels the "separations" and "gatherings" described in Genesis.
 
 4. **The Tao and Wuji:**
-   - In Taoist philosophy, the Tao is the underlying principle of the universe, often described as the "way" or flow of energy that governs all things. The concept of **Wuji** (the limitless or primordial state) resonates with UTKH’s notion of light as a hyperdimensional oscillation emerging from an initial undifferentiated energy state.
+   - In Taoist philosophy, the Tao is the underlying principle of the universe, often described as the "way" or flow of energy that governs all things. The concept of **Wuji** (the limitless or primordial state) resonates with UTKH's notion of light as a hyperdimensional oscillation emerging from an initial undifferentiated energy state.
    - The transition from Wuji to Taiji (the dynamic interplay of opposites) aligns with the emergence of motion and resonance in UTKH.
 
 5. **Hindu Cosmology:**
-   - Hindu texts describe creation beginning with a divine sound or vibration (often referred to as "Om"). This resonates with UTKH’s idea of hyperdimensional oscillations forming the universe's foundation. The cyclical nature of creation and dissolution in Hindu cosmology also parallels the oscillatory nature of energy flows in UTKH.
+   - Hindu texts describe creation beginning with a divine sound or vibration (often referred to as "Om"). This resonates with UTKH's idea of hyperdimensional oscillations forming the universe's foundation. The cyclical nature of creation and dissolution in Hindu cosmology also parallels the oscillatory nature of energy flows in UTKH.
 
 6. **Zoroastrianism's Cosmic Light:**
-   - Zoroastrianism emphasizes the significance of light as a manifestation of Ahura Mazda's (the Wise Lord's) creative power. UTKH's view of light as the seed of all energy aligns with this narrative, offering a scientific framework for light’s role as the origin of creation.
+   - Zoroastrianism emphasizes the significance of light as a manifestation of Ahura Mazda's (the Wise Lord's) creative power. UTKH's view of light as the seed of all energy aligns with this narrative, offering a scientific framework for light's role as the origin of creation.
 
 7. **Kabbalistic Ein Sof:**
-   - In Jewish mysticism, creation begins with **Ein Sof**, the infinite divine essence, which emanates light to form the universe. UTKH’s concept of hyperdimensional oscillations parallels the idea of light as the initial creative force emanating from a boundless source.
+   - In Jewish mysticism, creation begins with **Ein Sof**, the infinite divine essence, which emanates light to form the universe. UTKH's concept of hyperdimensional oscillations parallels the idea of light as the initial creative force emanating from a boundless source.
 
 8. **Norse Mythology and Ginnungagap:**
-   - In Norse cosmology, creation begins in the void of **Ginnungagap**, flanked by realms of fire and ice. UTKH’s description of light oscillating into stable resonances parallels the interplay of opposites leading to creation in Norse myths.
+   - In Norse cosmology, creation begins in the void of **Ginnungagap**, flanked by realms of fire and ice. UTKH's description of light oscillating into stable resonances parallels the interplay of opposites leading to creation in Norse myths.
 
 9. **Native American Creation Stories:**
     - Many Native American traditions speak of the universe emerging from a "spark" or light. For example, the Lakota tell of **Inyan**, the first being, who spread himself to form the universe, reminiscent of light extending into co-orbital systems in UTKH.
 
 10. **Modern Multiverse Theories:**
-    - Some multiverse theories suggest that our universe is one of many birthed from quantum fluctuations in a primordial energy field. UTKH’s hyperdimensional oscillations could offer a mechanistic explanation for these fluctuations, connecting them to resonance and motion.
+    - Some multiverse theories suggest that our universe is one of many birthed from quantum fluctuations in a primordial energy field. UTKH's hyperdimensional oscillations could offer a mechanistic explanation for these fluctuations, connecting them to resonance and motion.
 
 #### **Philosophical Reflection**
 
 1. **Universal Metaphor:**
    - The idea of light as both the origin and substrate of the universe resonates across scientific, philosophical, and spiritual domains.
-   - Light’s role in UTKH as the precursor to mass and forces reflects quantum field theory’s view of energy manifesting as particles based on vibrational modes. This scientific perspective harmonizes with metaphysical interpretations of light as the essence of creation.
+   - Light's role in UTKH as the precursor to mass and forces reflects quantum field theory's view of energy manifesting as particles based on vibrational modes. This scientific perspective harmonizes with metaphysical interpretations of light as the essence of creation.
 
 ---
 
@@ -709,7 +717,7 @@ UTKH is built on two core principles:
 1. **Kinetic Motion:** Everything in the universe arises from light, which is the primordial form of kinetic energy. All other phenomena in the universe are manifestations of this energy in different patterns of motion.
 2. **Harmonic Resonance:** Stable systems form through resonance, where energy flows align into stable harmonic patterns, giving rise to phenomena such as gravity, mass, and quantum behavior.
 
-The theory’s key contributions include:
+The theory's key contributions include:
 - Reinterpreting light as a hyperdimensional oscillation.
 - Defining mass as a stable resonance of photon spheres labeled as kutons or kutonic systems.
 - Explaining gravity as a harmonic interaction rather than a force mediated by particles.
@@ -719,11 +727,11 @@ The theory’s key contributions include:
 
 The path forward for UTKH lies in rigorous testing, collaboration, and refinement:
 1. **Experimental Validation:**
-   - Conduct experiments such as prism-based light studies, fusion and fission harmonic analysis, and polarization studies to test UTKH’s predictions.
+   - Conduct experiments such as prism-based light studies, fusion and fission harmonic analysis, and polarization studies to test UTKH's predictions.
    - Leverage high-precision instrumentation to detect subtle harmonic effects and multidimensional influences.
 
 2. **Theoretical Development:**
-   - Collaborate with physicists, mathematicians, and engineers to refine UTKH’s mathematical underpinnings and integrate it with existing frameworks.
+   - Collaborate with physicists, mathematicians, and engineers to refine UTKH's mathematical underpinnings and integrate it with existing frameworks.
 
 3. **Interdisciplinary Exploration:**
    - Engage researchers from diverse fields, including materials science, biology, and computer science, to explore the practical applications of UTKH.
