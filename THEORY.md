@@ -4,13 +4,13 @@ The **Universal Theory of Kinetic Harmonics (UTKH)** is a unified field theory o
 
 Even though it remains speculative, foundational theoretical math seems to confirm its validity. While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, and most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
 
+**Note to the physics community:** *While some basic equations have been demonstrated and proposed, this is a continuous work in progress. I am not a physics professor, and the target audience for this extends beyond the domain of post-graduate reading levels. If you happen to be physics professor, you may want to skip the sections ***Parallels with Well Known Physical Properties***, ***Applications to Physics***, ***Applications to Technology***, and ***Philosophical and Metaphysical Implications*** to save yourself some time. If you happened to miss it, there is a [table of contents in the README.md file](https://github.com/joshmorgan1000/UTKH/blob/main/README.md) so you can skip to the mathematical foundations or proposed experiments/predicted observations. **Pointing out inconsistencies/mistakes in the math, or providing examples of existing observational data that contradicts this theory would be most helpful.** Additionally, I understand that many facets of General Relativity and Quantum Mechanics provide predictions and frameworks for these types of things. UTKH intends to enhance these models with a deeper understanding, not compete with them (with perhaps one or two exceptions). **The implications of this theory are far too vast to cover everything in a single publication**, so do not expect to find all the "answers" here.*
+
 ## Introduction <a href="#introduction"></a>
 
 UTKH posits that all fundamental properties of the universe arise from stable patterns of orbital light that exhibit and respond to resonant and harmonic frequencies. The most basic quantative state in this framework is similar to what is referred to a photon sphere, with the exception that it extends the theoretical configuration beyond black holes. UTKH introduces the concept of a **kuton**, or a self-contained pair of photons in mutual descending orbit of each other, resulting in a fractal-like progression towards infinitesimal angular velocity until an event horizon is reached at the angular speed of light. UTKH proposes that this state of motion at the kutonic event horizon stabilizes and resonates, thus becoming the genesis of what we percieve as particles, atomic structures, and other emergent properties.
 
 UTKH generally rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy, manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they fundamentally have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems, which result in emergent properties such as electron orbitals, unique behaviors of different elements, and forces such as magnetism and gravity.
-
-**Note to the physics community:** *While some basic equations have been demonstrated and proposed, this is a continuous work in progress. I am not a physics professor, and the target audience for this extends beyond the domain of post-graduate reading levels. If you happen to be physics professor, you may want to skip the sections ***Parallels with Well Known Physical Properties***, ***Applications to Physics***, ***Applications to Technology***, and ***Philosophical and Metaphysical Implications*** to save yourself some time. If you happened to miss it, there is a [table of contents in the README.md file](https://github.com/joshmorgan1000/UTKH/blob/main/README.md) so you can skip to the mathematical foundations or proposed experiments/predicted observations. **Pointing out inconsistencies/mistakes in the math, or providing examples of existing observational data that contradicts this theory would be most helpful.** Additionally, I understand that many facets of General Relativity and Quantum Mechanics provide predictions and frameworks for these types of things. UTKH intends to enhance these models with a deeper understanding, not compete with them (with perhaps one or two exceptions). **The implications of this theory are far too vast to cover everything in a single publication**, so do not expect to find all the "answers" here.*
 
 ### Foundational Principles <a href="#motion-and-harmonics-as-foundational-principles"></a>
 
@@ -276,6 +276,8 @@ The EFA equation describes the alignment of energy flow between interacting syst
 
 UTKH offers testable predictions that span diverse domains of physics. These experiments aim to validate the theory's core principles, including resonance-driven attraction, photon-photon sphere stabilization, and the role of hyperdimensional oscillations.
 
+*These experiments are ordered by complexity and risk of danger from "Maybe I can try this at home" to "Nobody, under any circumstances, should try this at home". If you are unsure where the distinction lies, then consider all them to fall in the second category.*
+
 ### Gravitational Effects of Resonating Tuning Forks <a href="#gravitational-effects-of-resonating-tuning-forks-a-href"></a>
 
 If UTKH is in fact universal, a pair of vibrating objects should exhibit a small force of attraction to each other:
@@ -304,19 +306,6 @@ Prisms provide a unique opportunity to study the resonance effects of light:
   - Shine monochromatic light through a prism made of materials with varying molecular resonances.
   - Use highly sensitive spectrometers to detect anomalous dispersion or additional spectral features.
 
-### Extreme Light-Matter Interactions <a href="#extreme-light-matter-interactions"></a>
-
-High-intensity laser experiments can probe the resonance-driven behaviors of light and matter:
-
-- **Predicted Observation:**
-  - When two high-power lasers intersect in a vacuum, the resulting interaction should:
-    - Create transient harmonic structures resembling localized mass or dark matter.
-    - Potentially emit low-energy gravitational waves or other detectable resonant artifacts.
-
-- **Experimental Setup:**
-  - Use two ultra-high-intensity lasers (e.g., petawatt lasers) focused on a single point in a controlled vacuum chamber.
-  - Deploy gravitational wave detectors or sensitive instruments to measure anomalies in the surrounding energy field.
-
 ### Polarization and Higher-Dimensional Effects <a href="#polarization-and-higher-dimensional-effects"></a>
 
 Polarization studies can reveal the presence of higher-dimensional oscillations:
@@ -329,16 +318,38 @@ Polarization studies can reveal the presence of higher-dimensional oscillations:
   - Pass polarized light through multiple polarizers at varying angles.
   - Measure phase shifts and intensity changes using interferometers to detect higher-dimensional effects.
 
+### Light and Conductors <a href="#electricity-experiment-light-and-conductors"></a>
+- Use polarized light to illuminate a conductor and measure:
+  - Whether the light induces or disrupts current flow.
+  - Changes in the conductor's resistance or magnetic field.
+
+### Extreme Light-Matter Interactions <a href="#extreme-light-matter-interactions"></a>
+
+High-intensity laser experiments, or current data from existing experiments can probe the resonance-driven behaviors of light and matter:
+
+- **Predicted Observation:**
+  - When two high-power lasers intersect in a vacuum, the resulting interaction should:
+    - Create transient harmonic structures resembling localized mass or dark matter.
+    - Potentially emit low-energy gravitational waves or other detectable resonant artifacts.
+
+- **Experimental Setup:**
+  - Use two ultra-high-intensity lasers (e.g., petawatt lasers) focused on a single point in a controlled vacuum chamber.
+  - Deploy gravitational wave detectors or sensitive instruments to measure anomalies in the surrounding energy field.
+
+### High-Intensity Optical Vortex-Matter Interactions <a href="#high-intensity-optical-vortex-matter-interactions"></a>
+
+Ongoing experiments with high-intensity optical vortices could probe the possibility/validity of UTKH:
+
+- **Predicted Observations:**
+  - Photon-photon vortices resulting in electron-positron pairs should provide evidence of the natural frequencies of these particles.
+  - Vortex photon interaction with nuclei and other particles should help provide the natural frequency of different particles and sub-particles.
+  - By tuning the light frequency and vortex patterns to match the harmonics of specific particles, we should be able to create specific particles more consistently, and even perhaps complex elements such as hydrogen or helium atoms
+
 ### Resonance in Atomic Systems <a href="#chemistry-experiment-resonance-in-atomic-systems"></a>
 
 - Shine specific frequencies of light (e.g., lasers) onto molecules or atomic gases and observe:
   - Changes in chemical bonds (e.g., breaking or strengthening).
   - Absorption/emission spectra revealing specific harmonic interactions.
-
-### Light and Conductors <a href="#electricity-experiment-light-and-conductors"></a>
-- Use polarized light to illuminate a conductor and measure:
-  - Whether the light induces or disrupts current flow.
-  - Changes in the conductor's resistance or magnetic field.
 
 ### Fusion and Fission Harmonic Analysis <a href="#fusion-and-fission-harmonic-analysis"></a>
 
