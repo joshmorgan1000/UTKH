@@ -165,28 +165,21 @@ $$r_k = \frac{2\pi h}{m_k c}$$
 
     - Resting mass ($m_n$):** $1.6724927×10^{27}$ kilograms.
 
-   
-5. **Interpretation**
-   
-   - The calculated orbital radius ($r_e$) for the kutonic electron is approximately:
-     
-     $r_e \approx 1.51 \times 10^{-11} \ \text{meters}$
-
-   - Note: this does not mean to indicate the actual "size" of an electron. Since UTKH rejects the notion of particles, but rather as fields of state (much like many modern interpretations) this number may be incorrect, or more importantly insignificant.
+   *to be continued...*
    
 ### Confirmation of Theory by Compton Wavelength <a href="#confirmation-of-theory-by-compton-wavelength-a-href"></a>
 
 - We know the **Compton Wavelength** to be:
 $$\lambda_C = \frac{h}{m_e c}$$
 
-- From earlier derivation, the radius of a kutonic electron is:
-$$r_e = \frac{2\pi h}{m_e c}$$
+- From earlier derivation, the radius of a kuton is:
+$$r_k = \frac{2\pi h}{m_e c}$$
 
-- Notice that: $r_e = 2\pi\lambda_C$
+- Notice that: $r_k = 2\pi\lambda_C$
   - This means that the kutonic electron's photon orbital radius is **exactly $2\pi$ times the Compton wavelength.** This is significant because:
     - The Compton wavelength represents the quantum limit at which relativistic and quantum effects dominate. It effectively marks the scale below which quantum mechanical effects become significant for an electron.
     - The factor of $2\pi$ suggests that $r_e$ represents the circumference of a circular resonance, where the wavelength of the photon matches the full orbital path of the kutonic system.
-    - The relationship $r_e = 2\pi\lambda_C$ suggests that the kutonic electron's resonant structure is intrinsically tied to its Compton wavelength, with the orbital radius being the geometric realization of this quantum scale in circular motion.
+    - The relationship $r_k = 2\pi\lambda_C$ suggests that the kutonic electron's resonant structure is intrinsically tied to its Compton wavelength, with the orbital radius being the geometric realization of this quantum scale in circular motion.
   - Note: the actual mass of an electron (or any other particle) is irrelevant to this conclusion, as it is cancelled out in the equation. This merely shows a relationship between the hypothetical radius of photon orbitals and the Compton Wavelength.
   - Due to the basic assumptions of UTKH, there is likely a relationship between the Compton Wavelength and the "curvature of spacetime", which UTKH redefines as complex harmonic fields.
     - While it does "redefine" the curvature of spacetime, it does not introduce or propose any sort of difference in effects of spacetime curvature, but rather provides an explanation for the conditions.
@@ -287,11 +280,11 @@ The EFA equation describes the alignment of energy flow between interacting syst
 
 UTKH offers testable predictions that span diverse domains of physics. These experiments aim to validate the theory's core principles, including resonance-driven attraction, photon-photon sphere stabilization, and the role of hyperdimensional oscillations.
 
-*These experiments are ordered by complexity and risk of danger from "Maybe I can try this at home" to "Nobody, under any circumstances, should try this at home". If you are unsure where the distinction lies, then consider all them to fall in the second category.*
-
 ### Gravitational Effects of Resonating Tuning Forks <a href="#gravitational-effects-of-resonating-tuning-forks-a-href"></a>
 
 If UTKH is in fact universal, a pair of vibrating objects should exhibit a small force of attraction to each other:
+
+**UPDATE!** It turns out someone has already [someone has already proven this theory](https://arxiv.org/abs/2201.03420). To be quite honest, this was the one I was most worried about, so... it's pretty big.
 
 - **Predicted Observation:**
   - Two tuning forks, vibrating at the same harmonic frequency and placed in close proximity, will experience a measurable attractive force due to resonance. The magnitude of this force should increase as their frequency alignment becomes more precise and as the amplitude of their vibrations grows. This force, while extremely small, could cause the forks to shift slightly toward one another over time, detectable as a subtle change in their relative positions or oscillation dynamics.
@@ -736,6 +729,12 @@ However, since it introduces a framework where light serves as the foundational 
 1. **Universal Metaphor:**
    - The idea of light as both the origin and substrate of the universe resonates across scientific, philosophical, and spiritual domains.
    - Light's role in UTKH as the precursor to mass and forces reflects quantum field theory's view of energy manifesting as particles based on vibrational modes. This scientific perspective harmonizes with metaphysical interpretations of light as the essence of creation.
+
+### Special Thanks <a href="#special-thanks"></a>
+
+I would like to give a shout-out to the /r/AskPhysics community for their help and support. It is a breath of fresh air to be welcomed into such a philosophical group, and gives me hope for humanity. Without them, I never would have done the web searches necessary to lead me to the experimental data into things like photon-photon particle synthesis, optical vortices, or the observed gravitational effects of oscillations.
+
+![smooth-brained](src/imposter-syndrome.png)
 
 ---
 
