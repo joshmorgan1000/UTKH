@@ -3,7 +3,6 @@ import backgroundImage from './background.jpg';
 import { marked } from 'marked';
 import katex from 'katex';
 
-/*
 // Load Google Fonts
 const fontLink = document.createElement('link');
 fontLink.rel = 'stylesheet';
@@ -14,7 +13,7 @@ const fontLink2 = document.createElement('link');
 fontLink2.rel = 'stylesheet';
 fontLink2.href = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css';
 document.head.appendChild(fontLink2);
-*/
+
 // Set body styles
 document.body.style.margin = '0';
 document.body.style.padding = '0';
@@ -50,7 +49,6 @@ Object.assign(canvas.style, {
 canvas.id = 'renderCanvas';
 document.body.appendChild(canvas);
 
-/*
 // Markdown Div
 const markdownDiv = document.createElement('div');
 Object.assign(markdownDiv.style, {
@@ -66,6 +64,7 @@ Object.assign(markdownDiv.style, {
     transform: 'translateX(-50%)',
     zIndex: '2',
     overflowY: 'auto',
+    overflowX: 'hidden',
     maxHeight: '100vh',
     boxSizing: 'border-box',
     margin: '0 20px 0 20px'
@@ -87,7 +86,7 @@ fetch('https://raw.githubusercontent.com/joshmorgan1000/UTKH/refs/heads/main/THE
         markdownDiv.innerHTML = htmlContent;
     })
     .catch((error) => console.error('Error loading README.md:', error));
-*/
+
 // Babylon.js Scene with Gravitationally Attracted Spheres
 const engine = new BABYLON.Engine(canvas, true);
 const scene = new BABYLON.Scene(engine);
@@ -113,7 +112,6 @@ const light = new BABYLON.HemisphericLight(
 
 const spheres = [];
 
-/*
 const explosions = [];
 let explosionCounter = 0;
 const numSpheres = 20;
@@ -193,8 +191,8 @@ scene.registerBeforeRender(() => {
         explosions.splice(explosions.indexOf(explosions[toRemove[i]]), 1);
     }
 });
-*/
 
+/*
 let num = 3;
 
 // Every 1 second, send a request to localhost:5000 to get the sphere positions
@@ -224,6 +222,7 @@ scene.registerBeforeRender(() => {
         })
         .catch((error) => {});
 });
+*/
 
 // Start the engine
 engine.runRenderLoop(() => {
