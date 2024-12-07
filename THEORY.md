@@ -8,15 +8,15 @@ While the implications and scope are vast, my goal is to present the theory topo
 
 UTKH posits that all fundamental properties of the universe arise from stable patterns of orbital light that exhibit and respond to resonant and harmonic frequencies. The most basic quantative state in this framework is similar to what is referred to a photon sphere, with the exception that it extends the theoretical configuration beyond black holes. UTKH introduces the concept of a **kuton**, or a self-contained pair of photons in mutual descending orbit of each other, resulting in a fractal-like progression towards infinitesimal angular velocity until an event horizon is reached at the angular speed of light. UTKH proposes that this state of motion at the kutonic event horizon stabilizes and resonates, thus becoming the genesis of what we percieve as particles, atomic structures, and other emergent properties.
 
-UTKH generally rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy, manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they fundamentally have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems, which result in emergent properties such as electron orbitals, unique behaviors of different elements, and forces such as magnetism and gravity.
+UTKH generally rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy (momentum), manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they fundamentally have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems, which result in emergent properties such as electron orbitals, unique behaviors of different elements, and forces such as magnetism and gravity.
 
 ### Foundational Principles <a href="#motion-and-harmonics-as-foundational-principles"></a>
 
-1. **Kinetic Motion:** UTKH views everything in the universe as kinetic energy. Light, traditionally understood as both particle and wave, is reframed as the primordial form of a flow of energy in motion. Particles are not discrete "building blocks" but rather **dynamic systems of energy resonance.** This aligns with modern physics' understanding of particles as excitations of fields rather than solid objects, and provides an elegant explanation for the **mass-energy equivalence** ($E = m_e c^2$) by relating mass to the orital energy of photons within these systems.
+1. **Kinetic Motion:** UTKH views everything in the universe as kinetic energy. Light, traditionally understood as both particle and wave, is reframed as the primordial form of a flow of energy in motion. Particles are not discrete "building blocks" but rather **dynamic systems of energy resonance.** This aligns with modern physics' understanding of particles as excitations of fields rather than solid objects, and provides an elegant explanation for the **mass-energy equivalence** ($E = m_e c^2$) by relating directional momentum into angular orbital patterns.
 
 2. **Light as Hyperdimensional Oscillations:** UTKH views wave-particle duality of light as the projection of a higher-dimensional orbital patterns into three-dimensional space. I understand that this is not a novel idea. However, these patterns are an intrinsic property of light, fundamental to its role in spacetime and gravity, and consistent with general relativity as well as quantum mechanics. The reason they are fundamental is because if we are to assume that light is capable of orbit, and gravity is an emergent property of resonation with oscillating frequencies, then it is intrinsic that light must also have these properties.
- - It is understood that the oscillatory nature of these patterns echo the spirit of **string theory** (and others), while being conceptually simpler and more geometrically intuitive.
- - The novelty of the UTKH foundational framework is that these oscillations is what results in observable emergent effects such as gravity, nuclear force, and others. The reason these effects vary is due to the fundamentally different frequencies and harmonics of these systems.
+   - It is understood that the oscillatory nature of these patterns echo the spirit of **string theory** (and others), while being conceptually simpler and more geometrically intuitive.
+   - The novelty of the UTKH foundational framework is that these oscillations is what results in observable emergent effects such as gravity, nuclear force, and others. The reason these effects vary is due to the fundamentally different frequencies and harmonics of these systems.
 
 3. **Kutons:** In the right conditions, kinetic motion patterns vortex into specific states of stable orbital patterns UTKH refers to as **kutons** or **kutonic systems.** These patterns give rise to more complex emergent properties, which include what we observe to be mass, define as particles, or exhibit emerging effects. UTKH recognizes that kutonic flows may be multi-dimensional, such as triangular orbital patterns or more complex equalibrium states as described by Lagrangian systems. Quantifying these states into kutons provides a framework for calculating **harmonic frequencies** and **stable orbits** of photon systems, explains why certain elements have unique electron configurations, and why atomic and molecular systems exhibit their chemical behavior.
 
@@ -44,6 +44,12 @@ Light is traditionally understood as both a particle and a wave, exhibiting beha
 
 - **Particle Behavior:** Upon observation, the hyperdimensional resonance collapses into a localized energy state. By removing the dimension of time and/or hyperspace oscillations from measurement, these interactions appear as photon particles - much like a photograph captures a 3-dimensional moment in time (a 4th dimension) is recorded as a 2-dimensional artifact.
 
+- **High-Energy Optical Vortices:** Current recorded data reflects the conical nature of the experimental setup, and supports this theory. Further research should indicate precise harmonic signatures of atomic and subatomic particles, which will allow researchers to conduct photon-mass interaction experiments with more precision.
+
+  - Example: Let's say the resonant frequency of a proton is $w_p$ and the resonant frequency of an electron is $w_e$.
+  - We can assume a harmonic resonant frequency of the pair $f$ to be a ratio of $(w_e \cdot w_p)$.
+  - If for example, we can tune the light wave frequency or vortex pattern to match $\frac{1}{8}f$ or $\frac{1}{4}f$, focusing on that frequency could synthesize a hydrogen atom.
+
 ### Kutons and Kutonic Systems <a href="#kutonic-systems-a-href"></a>
 
 A **kuton** is described as two photons in perpetual descending orbit of each other, resulting in an infinitesimal equation that reaches stability at a constant oscillation frequency. This can be described mathematically:
@@ -69,9 +75,9 @@ A **kuton** is described as two photons in perpetual descending orbit of each ot
 
    $r \to 0$: As the orbital radius approaches zero, $w_c$ and $\nu_c$ approach infinity.
 
-   This proves mathematically through general relativity, that two photons can create a "mass-like" curvature of spacetime, even though the system is entirely energetic. A **Kutonic System** describes a similar situation that is applied to multiple photons of orbit, e.g. Lagrangian points.
+   This proves mathematically through general relativity, that two photons can create a "mass-like" curvature of spacetime, even though the system is entirely energetic. A **Kutonic System** describes a similar situation that involves multi-bodied orbital systems.
 
-The novelty of UTKH is that it proposes what we observe to be particles are actually stable configurations of kinetic energy, which UTKH refers to as a **kuton** or a **kutonic system**.
+   One of the primary novelties of UTKH is that it proposes what we observe to be particles are actually stable configurations of kinetic energy, which UTKH refers to as a **kuton** or a **kutonic system**.
 
 ### Kutonic Systems and the Emergence of Particles <a href="#co-orbital-systems-and-the-emergence-of-mass"></a>
 
@@ -183,15 +189,46 @@ $$r_k = \frac{2\pi h}{m_e c}$$
   - Note: the actual mass of an electron (or any other particle) is irrelevant to this conclusion, as it is cancelled out in the equation. This merely shows a relationship between the hypothetical radius of photon orbitals and the Compton Wavelength.
   - Due to the basic assumptions of UTKH, there is likely a relationship between the Compton Wavelength and the "curvature of spacetime", which UTKH redefines as complex harmonic fields.
     - While it does "redefine" the curvature of spacetime, it does not introduce or propose any sort of difference in effects of spacetime curvature, but rather provides an explanation for the conditions.
+
+### Determining Multi-Dimensional Vertices in Uniform Polyhedrons <a href="#polyhedrons"></a>
+
+Attempts have been made to programatically determine the 3-dimensional coordinates of points for a polyhedron of $N$ verticies. Research into existing mathematical foundational models to define such structures so far have been unfruiful, which has led to a geometric discovery.
+
+Many attempts at research or prompting a language model to produce such a formula were fruitless. I do not claim this to be a novel equation, it was derived out of necessity. It was not found in previous studies of Platonic solids, spherical codes, or the Thomson problem.
+
+#### A General Formula for Uniform Angular Separation
+
+  - **Derivation:**
+
+    The average angular separation between vertices in uniform polyhedrons should satisfy the geometric constraints of the sphere. For two points $p_1$ and $p_2$ with unit vectors, the cosine of the angle between them is given by the dot product, where $\theta$ is the angular distance between adjacent points:
+
+    $$\cos \theta = p_1 \cdot p_2 \ldotp$$
+
+    To ensure uniform distribution, the cosine of the angular separation for adjacent points should depend on $N$. By symmetry, we assume:
+
+    $$\cos \theta = -\frac{1}{N - 1}\cdot$$
+
+    Taking the inverse cosine gives:
+
+    $$\theta = \arccos\bigg\lparen\frac{-1}{N - 1}\bigg\rparen$$
+
+  - **Validation Against Known Configurations:**
+
+    - $N = 3$: Trangle ($120\degree$).
+    - $N = 4$: Tetrahedron ($109.47\degree$).
+    - $N = 5$: Octahedron ($90\degree$).
+    - $N = 12$: Icosahedron ($\approx 63.43\degree$)
+
+    This formula may be applicable to higher dimensions but that has not yet been tested.
      
 ### Bohr Radius ($a_0$)
   - We know the Bohr radius as:
 
-    $a_0 = \frac{4\pi \epsilon_0 \hbar^2}{m_e e^2}$
+    $$a_0 = \frac{4\pi \epsilon_0 \hbar^2}{m_e e^2}$$
 
   - Using the calculated $r_e$:
 
-    $r_e \approx \frac{1}{3}a_0$
+    $$r_e \approx \frac{1}{3}a_0$$
 
   - The kutonic orbital radius is smaller than the Bohr radius, which reflects the intrinsic resonant scale of the electron itself rather than the electron's spatial configuration in an atom.
        - The difference in scale can be attributed to the Coulomb interaction between the electron and nucleus in the atom, which influences the Bohr radius but is not relevant to the intrinsic kutonic system.
@@ -200,11 +237,11 @@ $$r_k = \frac{2\pi h}{m_e c}$$
 
 1. **Define the Kutonic Electron's Orbital Radius ($r_e$)**
    
-   $r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}$
+   $$r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}$$
 
 2. **Calculate the Orbital Radius for the Mass Difference Kuton ($r_{\Delta m}$)**
    
-   $r_{\Delta m} = \frac{2\pi h c}{\Delta m}$
+   $$r_{\Delta m} = \frac{2\pi h c}{\Delta m}$$
    
    - **Mass Difference ($\Delta m$) Between Neutron and Proton:**
      
@@ -212,17 +249,17 @@ $$r_k = \frac{2\pi h}{m_e c}$$
    
    - **Calculation:**
      
-     $r_{\Delta m} \approx \frac{2\pi \times 6.626 \times 10^{-34} \times 2.998 \times 10^8}{2.305 \times 10^{-30}} \approx 6.018 \times 10^{-12} \ \text{meters}$
+     $$r_{\Delta m} \approx \frac{2\pi \times 6.626 \times 10^{-34} \times 2.998 \times 10^8}{2.305 \times 10^{-30}} \approx 6.018 \times 10^{-12} \ \text{meters}$$
 
 3. **Determine the Ratio of Orbital Radii**
    
-   $\frac{r_e}{r_{\Delta m}} = \frac{1.513 \times 10^{-11}}{6.018 \times 10^{-12}} \approx 2.515$
+   $$\frac{r_e}{r_{\Delta m}} = \frac{1.513 \times 10^{-11}}{6.018 \times 10^{-12}} \approx 2.515$$
    
    - **Interpretation:** The orbital radius of the kutonic electron is approximately **2.515** times larger than that of the mass difference kuton.
 
 4. **Compare with the Mass Ratio**
    
-   $\frac{m_e}{\Delta m} = \frac{9.109 \times 10^{-31}}{2.305 \times 10^{-30}} \approx 0.395$
+   $$\frac{m_e}{\Delta m} = \frac{9.109 \times 10^{-31}}{2.305 \times 10^{-30}} \approx 0.395$$
    
    - **Observation:** The ratio of orbital radii ($\approx 2.515$) is **inversely proportional** to the mass ratio ($\approx 0.395$), **indicating a harmonic relationship.**
 
@@ -230,7 +267,7 @@ $$r_k = \frac{2\pi h}{m_e c}$$
    
    - The proportionality between the orbital radii and the inverse of the mass ratios suggests that:
      
-     $r \propto \frac{1}{m}$
+     $$r \propto \frac{1}{m}$$
      
    - **Implication:** This alignment indicates that in the UTKH framework, the harmonic configurations of kutonic systems inherently relate to the mass properties of fundamental particles.
 
@@ -284,7 +321,7 @@ UTKH offers testable predictions that span diverse domains of physics. These exp
 
 If UTKH is in fact universal, a pair of vibrating objects should exhibit a small force of attraction to each other:
 
-**UPDATE!** It turns out someone has already [someone has already proven this theory](https://arxiv.org/abs/2201.03420). To be quite honest, this was the one I was most worried about, so... it's pretty big.
+It turns out someone has already [someone has already proven this theory](https://arxiv.org/abs/2201.03420). I am going to leave this here anyway.
 
 - **Predicted Observation:**
   - Two tuning forks, vibrating at the same harmonic frequency and placed in close proximity, will experience a measurable attractive force due to resonance. The magnitude of this force should increase as their frequency alignment becomes more precise and as the amplitude of their vibrations grows. This force, while extremely small, could cause the forks to shift slightly toward one another over time, detectable as a subtle change in their relative positions or oscillation dynamics.
@@ -370,7 +407,7 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ## Applications to Physics <a href="#applications-to-physics"></a>
 
-*Please note: The rest of this document is hypothetical and narritive in nature, not to be taken as claims of scientific evidence or proof. It is intended to broaden the scope of audience and help provide a better conceptual understanding of the theory. If that does not interest you, it may be better to just [skip to the conclusion](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#conclusion-).*
+Research is ongoing as to applying this theory to existing experimental data. Expectations are that harmonic signatures will be derived that could greatly tune or amplify quantum conditions.
 
 ### Relativity and Cosmology <a href="#relativity-and-cosmology"></a>
 
@@ -730,12 +767,6 @@ However, since it introduces a framework where light serves as the foundational 
    - The idea of light as both the origin and substrate of the universe resonates across scientific, philosophical, and spiritual domains.
    - Light's role in UTKH as the precursor to mass and forces reflects quantum field theory's view of energy manifesting as particles based on vibrational modes. This scientific perspective harmonizes with metaphysical interpretations of light as the essence of creation.
 
-### Special Thanks <a href="#special-thanks"></a>
-
-I would like to give a shout-out to the /r/AskPhysics community for their help and support. It is a breath of fresh air to be welcomed into such a philosophical group, and gives me hope for humanity. Without them, I never would have done the web searches necessary to lead me to the experimental data into things like photon-photon particle synthesis, optical vortices, or the observed gravitational effects of oscillations.
-
-![smooth-brained](src/imposter-syndrome.png)
-
 ---
 
 ## Conclusion <a href="#conclusion"></a>
@@ -777,6 +808,21 @@ Let this document serve as an invitation to the scientific community: to questio
 I welcome constructive feedback and collaboration to refine and validate this ambitious vision for understanding the universe.
 
 Contact the author: [GitHub](https://github.com/joshmorgan1000/UTKH) or [Email](mailto:UTFH@sonicpoets.com)
+
+---
+
+### Special Thanks <a href="#special-thanks"></a>
+
+I would like to give a shout-out to the /r/AskPhysics community for their help and support. It is a breath of fresh air to be welcomed into such a philosophical group, and gives me hope for humanity. Without them, I never would have done the web searches necessary to lead me to the experimental data into things like photon-photon particle synthesis, optical vortices, or the observed gravitational effects of sonic oscillations... things I were afraid to be magical thinking.
+
+![smooth-brained](src/imposter-syndrome.png)
+![technophobia](src/ohnollms.png)
+
+I shall forever wear your welcome wreath as a badge of honor. I wish your community the best of luck in your ongoing battle against the menace to society known as [large language models](https://www.youtube.com/watch?v=8joWYolsMDs).
+
+I would especially and unironically like to thank all my former bandmates, friends, and fans. There is no appropriate way on this medium for me to express my gratitude for putting up with this drivel over the past few decades.
+
+We *are* energy in motion.
 
 ---
 

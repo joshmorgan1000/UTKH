@@ -4,9 +4,7 @@ You can find this hosted [here](http://sonicpoets.com/).
 
 The **Universal Theory of Kinetic Harmonics (UTKH)** is a unified field theory of physics that ties all phenomena of the known universe into a single framework. Its principles connect with and expand upon several established ideas in classical and modern physics, bridging the gap between general relativity, quantum mechanics, and other emergent theories. It fundamendally both redefines and aligns with current models, providing new insights and reshaping our understanding of the universe.
 
-Even though it remains speculative, foundational theoretical math seems to confirm its validity. While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, and most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
-
-**Note to the physics community:** *While some basic equations have been demonstrated and proposed, this is a continuous work in progress. I am not a physics professor, and the target audience for this extends beyond the domain of post-graduate reading levels. If you happen to be physics professor, you may want to skip the sections ***Parallels with Well Known Physical Properties***, ***Applications to Physics***, ***Applications to Technology***, and ***Philosophical and Metaphysical Implications*** to save yourself some time. If you happened to miss it, there is a [table of contents in the README.md file](https://github.com/joshmorgan1000/UTKH/blob/main/README.md) so you can skip to the mathematical foundations or proposed experiments/predicted observations. **Pointing out inconsistencies/mistakes in the math, or providing examples of existing observational data that contradicts this theory would be most helpful.** Additionally, I understand that many facets of General Relativity and Quantum Mechanics provide predictions and frameworks for these types of things. UTKH intends to enhance these models with a deeper understanding, not compete with them (with perhaps one or two exceptions). **The implications of this theory are far too vast to cover everything in a single publication**, so do not expect to find all the "answers" here.*
+While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, and most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
 
 ## Table of Contents
 - [Introduction](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#introduction-)
@@ -18,8 +16,9 @@ Even though it remains speculative, foundational theoretical math seems to confi
   - [Kutons and Kutonic Systems](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#kutonic-systems-a-href-)
   - [Kutonic Systems and the Emergence of Particles](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#co-orbital-systems-and-the-emergence-of-mass-)
 - [Mathematical Formulation](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#mathematical-formulation-)
-  - [Deriving the Kutonic Electron's Orbital Radius](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#deriving-the-kutonic-electron-)
+  - [Deriving the Hypothetical Kuton's Properties](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#deriving-the-kutonic-electron-)
   - [Confirmation of Theory by Compton Wavelength](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#confirmation-of-theory-by-compton-wavelength-a-href-)
+  - [Determining Multi-Dimensional Vertices in Uniform Polyhedrons](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#polyhedrons-)
   - [Deriving Harmonic Relationships Between Orbital Radius Ratios and Mass Ratios](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#deriving-harmonic-relationships-between-orbital-radius-ratios-and-mass-ratios-a-href-)
 - [Proposed Mathematical Frameworks](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#mathematical-theory-)
   - [Kinetic Harmonic Resonance](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#kinetic-harmonic-resonance-)
@@ -78,3 +77,4 @@ Even though it remains speculative, foundational theoretical math seems to confi
   - [Call to Action: Experimental Validation and Collaboration](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#call-to-action-experimental-validation-and-collaboration-)
   - [Final Thoughts](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#final-thoughts-)
   - [Questions, Comments, Suggestions, and Criticisms Welcome](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#questions-comments-suggestions-and-criticisms-welcome-)
+  - [Special Thanks](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#special-thanks-)
