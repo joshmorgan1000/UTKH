@@ -6,7 +6,7 @@ While the implications and scope are vast, my goal is to present the theory topo
 
 ## Introduction <a href="#introduction"></a>
 
-UTKH posits that all fundamental properties of the universe arise from stable patterns of orbital light that exhibit and respond to resonant and harmonic frequencies. The most basic quantative state in this framework is similar to what is referred to a photon sphere, with the exception that it extends the theoretical configuration beyond black holes. UTKH introduces the concept of a **kuton**, or a self-contained pair of photons in mutual descending orbit of each other, resulting in a fractal-like progression towards infinitesimal angular velocity until an event horizon is reached at the angular speed of light. UTKH proposes that this state of motion at the kutonic event horizon stabilizes and resonates, thus becoming the genesis of what we percieve as particles, atomic structures, and other emergent properties.
+UTKH posits that all fundamental properties of the universe arise from stable patterns of orbital light that exhibit and respond to resonant and harmonic frequencies. The most basic quantative state in this framework is similar to what is referred to a photon sphere, with the exception that it extends the theoretical configuration beyond black holes. UTKH introduces the concept of a **kuton**, or a self-contained pair of photons in mutual descending orbit of each other, resulting in a fractal-like progression towards infinitesimal angular velocity until an event horizon is reached at the angular speed of light. UTKH proposes that this state of angular momentum at the kutonic event horizon stabilizes and resonates, thus becoming the genesis of what we percieve as particles, atomic structures, and other emergent properties.
 
 UTKH generally rejects the classical notion of particles, and instead considers the most primordial substance to be a flow of kinetic energy (momentum), manifesting in its most basic form as light. However, it is useful to describe a co-orbiting pair of photons as a kuton for conceptual and mathematical reasons. Since kutons are essentially a stable condition of photons in co-orbit, they fundamentally have a oscillation frequency, resulting in resonant and harmonic interactions with surrounding systems, which result in emergent properties such as electron orbitals, unique behaviors of different elements, and forces such as magnetism and gravity.
 
@@ -321,7 +321,7 @@ UTKH offers testable predictions that span diverse domains of physics. These exp
 
 If UTKH is in fact universal, a pair of vibrating objects should exhibit a small force of attraction to each other:
 
-It turns out someone has already [someone has already proven this theory](https://arxiv.org/abs/2201.03420). I am going to leave this here anyway.
+It turns out someone has already [experimented with this](https://arxiv.org/abs/2201.03420). The results seem to support UTKH.
 
 - **Predicted Observation:**
   - Two tuning forks, vibrating at the same harmonic frequency and placed in close proximity, will experience a measurable attractive force due to resonance. The magnitude of this force should increase as their frequency alignment becomes more precise and as the amplitude of their vibrations grows. This force, while extremely small, could cause the forks to shift slightly toward one another over time, detectable as a subtle change in their relative positions or oscillation dynamics.
@@ -815,12 +815,14 @@ Contact the author: [GitHub](https://github.com/joshmorgan1000/UTKH) or [Email](
 
 I would like to give a shout-out to the /r/AskPhysics community for their help and support. It is a breath of fresh air to be welcomed into such a philosophical group, and gives me hope for humanity. Without them, I never would have done the web searches necessary to lead me to the experimental data into things like photon-photon particle synthesis, optical vortices, or the observed gravitational effects of sonic oscillations... things I were afraid to be magical thinking.
 
-![smooth-brained](src/imposter-syndrome.png)
-![technophobia](src/ohnollms.png)
+<div style="width:100%; height:auto; text-align:center;">
+  <img src="src/imposter-syndrome.png" style="max-width:100%; height:auto;" alt="smooth-brained">
+  <img src="src/ohnollms.png" style="max-width:100%; height:auto;" alt="technophobia">
+</div>
 
-I shall forever wear your welcome wreath as a badge of honor. I wish your community the best of luck in your ongoing battle against the menace to society known as [large language models](https://www.youtube.com/watch?v=8joWYolsMDs).
+### I shall forever wear your welcome wreath as a badge of honor. I wish your community the best of luck in your ongoing battle against the menace to society known as [large language models](https://www.youtube.com/watch?v=8joWYolsMDs).
 
-I would especially and unironically like to thank all my former bandmates, friends, and fans. There is no appropriate way on this medium for me to express my gratitude for putting up with this drivel over the past few decades.
+I would especiall, and unironically, like to thank all my former bandmates, friends, and fans. There is no appropriate way on this medium for me to express my gratitude for putting up with this drivel over the past few decades.
 
 We *are* energy in motion.
 
