@@ -2,9 +2,7 @@
 
 The **Universal Theory of Kinetic Harmonics (UTKH)** is a unified field theory of physics that ties all phenomena of the known universe into a single framework. Its principles connect with and expand upon several established ideas in classical and modern physics, bridging the gap between general relativity, quantum mechanics, and other emergent theories. It fundamendally both redefines and aligns with current models, providing new insights and reshaping our understanding of the universe.
 
-Even though it remains speculative, foundational theoretical math seems to confirm its validity. While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, and most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
-
-**Note to the physics community:** *While some basic equations have been demonstrated and proposed, this is a continuous work in progress. I am not a physics professor, and the target audience for this extends beyond the domain of post-graduate reading levels. If you happen to be physics professor, you may want to skip the sections ***Parallels with Well Known Physical Properties***, ***Applications to Physics***, ***Applications to Technology***, and ***Philosophical and Metaphysical Implications*** to save yourself some time. If you happened to miss it, there is a [table of contents in the README.md file](https://github.com/joshmorgan1000/UTKH/blob/main/README.md) so you can skip to the mathematical foundations or proposed experiments/predicted observations. **Pointing out inconsistencies/mistakes in the math, or providing examples of existing observational data that contradicts this theory would be most helpful.** Additionally, I understand that many facets of General Relativity and Quantum Mechanics provide predictions and frameworks for these types of things. UTKH intends to enhance these models with a deeper understanding, not compete with them (with perhaps one or two exceptions). **The implications of this theory are far too vast to cover everything in a single publication**, so do not expect to find all the "answers" here.*
+While the implications and scope are vast, my goal is to present the theory topologically with various levels of detail. I also aim to provide foundational mathematical models, aligning patterns in nature at different scales, and most importantly ***unique testable predictions***. I will also provide anecdotal hypotheses within the framework that give potential explanations to many long-standing questions our current frameworks leave unanswered.
 
 ## Introduction <a href="#introduction"></a>
 
@@ -51,28 +49,29 @@ Light is traditionally understood as both a particle and a wave, exhibiting beha
 A **kuton** is described as two photons in perpetual descending orbit of each other, resulting in an infinitesimal equation that reaches stability at a constant oscillation frequency. This can be described mathematically:
 1. **Angular Velocity:**
    
-   $\lambda = \frac{c}{r}$
+   $w_c = \frac{c}{r}$
 
-   Where $\lambda$ is the angular velocity (frequency of orbital motion), $c$ is the speed of light ($\approx 3 \times 10^8 \, \text{m/s}$), and $r$ is the infinitesimal orbital radius.
+   Where $w_c$ is the angular velocity (frequency of orbital motion), $c$ is the speed of light ($\approx 3 \times 10^8 \, \text{m/s}$), and $r$ is the infinitesimal orbital radius.
 
 2. **Frequency in Light-Speed Orbit:**
    
-   $\nu_\lambda = \frac{2\pi c}{r}$
+   $\nu_c = \frac{2\pi c}{r}$
    
-   Where $\nu_\lambda$ is the orbital frequency (in radians per second), and $r$ is the infinitesimal orbital radius.
+   Where $\nu_c$ is the orbital frequency (in radians per second), and $r$ is the infinitesimal orbital radius.
 
 3. **Energy Relation (Quantum Context):**
    
-   $E \propto \hbar \lambda$
+   $E \propto \hbar w_c$
 
-   Where $E$ is the energy of the system, $\hbar$ is the reduced Planck constant ($\approx 1.054 \times 10^{-34} \, \text{Js}$), and $\lambda$ is the angular velocity.
+   Where $E$ is the energy of the system, $\hbar$ is the reduced Planck constant ($\approx 1.054 \times 10^{-34} \, \text{Js}$), and $w_c$ is the angular velocity.
 
-- $r \to 0$: As the orbital radius approaches zero, $\lambda$ and $\nu_\lambda$ approach infinity.
-- $r$: Can be expressed as a scaled infinitesimal $r = \epsilon \cdot r_0$, where $r_0$ is a characteristic scale (e.g., Planck length $\ell_p$) and $\epsilon \to 0$.
+4. **Event Horizon Condition:**
 
-Mathematically through general relativity, this shows that two photons can create a "mass-like" curvature of spacetime, even though the system is entirely energetic. A **Kutonic System** describes a similar situation that is applied to multiple photons of orbit, e.g. Lagrangian points.
+   $r \to 0$: As the orbital radius approaches zero, $w_c$ and $\nu_c$ approach infinity.
 
-The novelty of UTKH is that is proposes that these systems of light/kinetic motion occur, they "transform" into what we percieve as particles and other various states. Or, perhaps it is better stated that what we observe to be particles, are actually these patterns of stable configurations of kinetic energy, which UTKH refers to as a kuton or a kutonic system.
+   This proves mathematically through general relativity, that two photons can create a "mass-like" curvature of spacetime, even though the system is entirely energetic. A **Kutonic System** describes a similar situation that is applied to multiple photons of orbit, e.g. Lagrangian points.
+
+The novelty of UTKH is that it proposes what we observe to be particles are actually stable configurations of kinetic energy, which UTKH refers to as a **kuton** or a **kutonic system**.
 
 ### Kutonic Systems and the Emergence of Particles <a href="#co-orbital-systems-and-the-emergence-of-mass"></a>
 
@@ -94,26 +93,28 @@ The novelty of UTKH is that is proposes that these systems of light/kinetic moti
 
 To provide mathematical rigor, I've attempted to model fundamental particles as kutonic systems — dynamic configurations of co-orbital photons, and introduce hypothetical relativities. These attempt to provide an alternative perspective to traditional particle physics and delve deeper into potential mathematical connections, particularly focusing on multi-body dynamics and mass differences between protons and neutrons.
 
-### Deriving the Kutonic Electron's Orbital Radius <a href="#deriving-the-kutonic-electron"></a>
+### Deriving the Hypothetical Kuton's Properties <a href="#deriving-the-kutonic-electron"></a>
+
+*Note: This is hypothetical, not intended to match any known particle.*
 
 1. **Objective**
    
-   - **Determine the orbital radius ($r_e$)** of a kutonic electron such that the energy associated with its harmonic frequency equals the electron's rest mass energy.
+   - **Define the Orbital Radius ($r_k$)** of a kuton, such that it represents a photon oscillating at the speed of light.
 
 2. **Key Equations and Concepts**
    
-    - **Frequency in Light-Speed Orbit ($\nu_\lambda$)**
+    - **Frequency in Light-Speed Orbit ($\lambda_c$)**
      
-      $$\nu_\lambda = \frac{2\pi c}{r_e}$$
+      $$\lambda_c = \frac{2\pi c}{r_k}$$
      
       - Where:
-        - $\nu_\lambda$: Frequency of the kuton in full orbit.
+        - $\lambda_c$: Frequency of the orbit at the speed of light
         - $c$: Speed of light ($\approx 2.998 \times 10^8 \ \text{m/s}$).
-        - $r_e$: Orbital radius of the kutonic electron.
+        - $r_k$: Orbital radius of the kutonic particle.
    
     - **Energy-Frequency Relationship**
      
-      $$E = h \nu_\lambda$$
+      $$E = h \lambda_c$$
      
       - Where:
         - $E$: Energy of the kutonic system.
@@ -121,39 +122,49 @@ To provide mathematical rigor, I've attempted to model fundamental particles as 
    
    - **Mass-Energy Equivalence**
      
-      $$E = m_e c^2$$
+      $$E = m_k c^2$$
      
      - Where:
-       - $m_e$: Rest mass of the electron ($9.109 \times 10^{-31} \ \text{kg}$).
+       - $m_k$: Rest mass of the kutonic particle.
        - $c$: Speed of light.
 
 3. **Derivation Steps**
    
-   - **Step 1: Equate Kuton Energy to Electron Rest Mass Energy**
+   - **Step 1: Equate Kutonic System Energy to Rest Mass Energy**
      
-     $h \nu_\lambda = m_e c^2$
+     $h \nu_\lambda = m_k c^2$
    
    - **Step 2: Substitute Frequency Expression**
      
-     $h \left( \frac{2\pi c}{r_e} \right) = m_e c^2$
+     $h \left( \frac{2\pi c}{r_k} \right) = m_k c^2$
    
-   - **Step 3: Solve for Orbital Radius ($r_e$)**
+   - **Step 3: Solve for Orbital Radius ($r_k$)**
      
-     $\frac{2\pi h c}{r_e} = m_e c^2$
+     $\frac{2\pi h c}{r_k} = m_k c^2$
+
+   - **Orbital Light Speed Radius:**
      
-     $r_e = \frac{2\pi h}{m_e c}$
+$$r_k = \frac{2\pi h}{m_k c}$$
    
-4. **Numerical Calculation**
+4. **Numerical Calculations for Known Particles**
    
    - **Constants Used:**
      
      - Planck's Constant ($h$): $6.626 \times 10^{-34} \ \text{J} \cdot \text{s}$
-     - Electron Mass ($m_e$): $9.109 \times 10^{-31} \ \text{kg}$
      - Speed of Light ($c$): $2.998 \times 10^8 \ \text{m/s}$
    
-   - **Compute $r_e$:**
-     
-     $r_e = \frac{2\pi \times 6.626 \times 10^{-34}}{9.109 \times 10^{-31} \times 2.998 \times 10^8} \approx 1.513 \times 10^{-11} \ \text{meters}$
+   - **Kutonic Electron ($r_e$):**
+      
+     - Resting mass ($m_e$): $9.109×10^{31}$ kilograms.
+
+   - **Kutonic Proton ($r_p$):**
+
+     - Resting mass ($m_p$): $1.67262192×10^{27}$ kilograms.
+
+   - **Kutonic Neutron ($r_k$):**
+
+    - Resting mass ($m_n$):** $1.6724927×10^{27}$ kilograms.
+
    
 5. **Interpretation**
    

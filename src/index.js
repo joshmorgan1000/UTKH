@@ -3,6 +3,7 @@ import backgroundImage from './background.jpg';
 import { marked } from 'marked';
 import katex from 'katex';
 
+/*
 // Load Google Fonts
 const fontLink = document.createElement('link');
 fontLink.rel = 'stylesheet';
@@ -13,7 +14,7 @@ const fontLink2 = document.createElement('link');
 fontLink2.rel = 'stylesheet';
 fontLink2.href = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css';
 document.head.appendChild(fontLink2);
-
+*/
 // Set body styles
 document.body.style.margin = '0';
 document.body.style.padding = '0';
@@ -49,6 +50,7 @@ Object.assign(canvas.style, {
 canvas.id = 'renderCanvas';
 document.body.appendChild(canvas);
 
+/*
 // Markdown Div
 const markdownDiv = document.createElement('div');
 Object.assign(markdownDiv.style, {
@@ -85,7 +87,7 @@ fetch('https://raw.githubusercontent.com/joshmorgan1000/UTKH/refs/heads/main/THE
         markdownDiv.innerHTML = htmlContent;
     })
     .catch((error) => console.error('Error loading README.md:', error));
-
+*/
 // Babylon.js Scene with Gravitationally Attracted Spheres
 const engine = new BABYLON.Engine(canvas, true);
 const scene = new BABYLON.Scene(engine);
@@ -110,6 +112,8 @@ const light = new BABYLON.HemisphericLight(
 );
 
 const spheres = [];
+
+/*
 const explosions = [];
 let explosionCounter = 0;
 const numSpheres = 20;
@@ -188,6 +192,37 @@ scene.registerBeforeRender(() => {
         explosions[toRemove[i]].mesh.dispose();
         explosions.splice(explosions.indexOf(explosions[toRemove[i]]), 1);
     }
+});
+*/
+
+let num = 3;
+
+// Every 1 second, send a request to localhost:5000 to get the sphere positions
+scene.registerBeforeRender(() => {
+    fetch(`http://localhost:5010/sphere`)
+        .then((response) => response.json())
+        .then((data) => {
+            // Create new spheres
+            for (let i = 0; i < data.length; i++) {
+                if (spheres[i]) {
+                    spheres[i].position = new BABYLON.Vector3(data[i][0], data[i][1], data[i][2]);
+                } else {
+                    const sphere = BABYLON.MeshBuilder.CreateSphere(`sphere${i}`, { diameter: 0.4 }, scene);
+                    sphere.material = new BABYLON.StandardMaterial(`material${i}`, scene);
+                    const r = Math.random() * 0.7;
+                    const b = Math.random() * (1.3 - r);
+                    const g = 1.1 - r - b;
+                    sphere.material.diffuseColor = new BABYLON.Color3(r, g, b);
+                    sphere.position = new BABYLON.Vector3(data[i][0], data[i][1], data[i][2]);
+                    spheres.push(sphere);
+                    }
+            }
+            num++;
+            if (num > 10) {
+                num = 3;
+            }
+        })
+        .catch((error) => {});
 });
 
 // Start the engine
