@@ -1,4 +1,4 @@
-# Universal Theory of Kinetic Harmonics (UTKH)
+# Universal Theory of Kinetic Harmonics
 
 ## Abstract
 
@@ -6,7 +6,7 @@ Building upon previous work and experimental data spanning from De Broglie, to E
 
 ## Introduction
 
-The hypothesis that orbital light patterns is a universal property underpinning the universe is not new<sup>[1][2][3][4][16]</sup>. General Relativity's energy-mass equivalence has been observed well enough at this point to call it a law of nature<sup>[5][6]</sup>. Relationships between the hypothetical angular speed of light and Planck's Constant have been well established<sup>[7][8]</sup>, hinting at a possible connection that could unite GR with Quantum Mechanics. There are many indications that gravity is an emergent property<sup>[10][11]</sup>. The spacial geometry of the effects of sonic resonance align with the curvature of spacetime just due to the inverse-square law, and recent experimental observations have indicated a direct, itegral relationship between resonance and gravitational forces<sup>[9][12][13][14][15]</sup>. We know that light can used to directly sythensize massive particles<sup>[33][34]</sup>. Additionally, with the recent discovery of orbital light vortices<sup>[20][21][25]</sup> experimentations that have explored the photon-mass relationships between high-energy orbital vortex phenomena. This experimental data has opened up new avenues of proofs and speculations, such as light having angular momentum<sup>[24][23]</sup>, exhibiting harmonic properties<sup>[22][26][27][30][31][32]</sup>, effecting electric conductivity<sup>[28]</sup>, and even synthesizing particles of their own<sup>[35]</sup>.
+The hypothesis that orbital light patterns is a universal property underpinning the universe is not new<sup>[1][2][3][4][16]</sup>. General Relativity's energy-mass equivalence has been observed well enough at this point to call it a law of nature<sup>[5][6]</sup>. Relationships between the hypothetical angular speed of light and Planck's Constant have been well established<sup>[7][8]</sup>, hinting at a possible connection that could unite GR with Quantum Mechanics. There are many indications that gravity is an emergent property<sup>[10][11]</sup>. The spacial geometry of the effects of sonic resonance align with the curvature of spacetime just due to the inverse-square law, and recent experimental observations have indicated a direct, itegral relationship between resonance and gravitational forces<sup>[9][12][13][14][15]</sup>. We know that light can used to directly sythensize massive particles<sup>[33][34]</sup>. Additionally, with the recent discovery of orbital light vortices experimentations that have explored the photon-mass relationships between high-energy orbital vortex phenomena<sup>[20][21][25]</sup>. This experimental data has opened up new avenues of proofs and speculations, such as light having angular momentum<sup>[24][23]</sup>, exhibiting harmonic properties<sup>[22][26][27][30][31][32]</sup>, effecting electric conductivity<sup>[28]</sup>, and even synthesizing particles of their own<sup>[35]</sup>.
 
 To say that the implications and scope of this theory are vast may be an understatement. Applying the theory and proposed geometry functions in conjunction with Newtonian mechanics, the motion of linear and dynamic systems, waveform analysis, harmonic principles, and other well-established domains multiply into a number of combined potential applications far too numerous for a single publication. The goal is to present the concepts topologically, yet rigorously, while presenting the derived mathematical and physically observed evidential support. If correct, it has the potential for unique testable predictions to arise, new advancements in technology, and give new explanations to many long-standing questions our current frameworks leave unanswered.
 
@@ -159,17 +159,17 @@ $$
 
 This process maintains the symmetry of the distribution while reducing the dimensionality.
 
-*Figure 1*
-![figure1](src/Figure_1.png)
+*Figure 1*<br/>
+<center><img src="src/Figure_1.png" width=80%></center>
 
-*Figure 2*
-![figure2](src/Figure_2.png)
+*Figure 2*<br/>
+<center><img src="src/Figure_2.png" width=80%></center>
 
-*Figure 3*
-![figure3](src/Figure_3.png)
+*Figure 3*<br/>
+<center><img src="src/Figure_3.png" width=80%></center>
 
-*Figure 4*
-![figure4](src/Figure_4.png)
+*Figure 4*<br/>
+<center><img src="src/Figure_4.png" width=80%></center>
 
 ---
 
@@ -225,41 +225,41 @@ It was interesting to note that while the formula produces evenly-distributed ve
 
 ## References
 
-[^1]: L. de Broglie, “Recherches sur la Théorie des Quanta,” PhD Thesis, Masson, Paris, 1924.<br/>
-[^2]: Suh, P. (2015) Unified Theory of Everything and QQD. Open Access Library Journal, 2, 1-17. doi: 10.4236/oalib.1102000.<br/>
-[^3]: Man’kin, I. (2022) About the Nature of De Broglie Wave. Open Access Library Journal, 9, 1-4. doi: 10.4236/oalib.1108655.<br/>
-[^4]: Agrawal, P. (2023) Unified Understanding of Cosmological Energy Fields: Exploring Gravitation, Repulsion, and More. Natural Science, 15, 263-284. doi: 10.4236/ns.2023.1511020.<br/>
-[^5]: Schrödinger, E. Über die Kräftefreie bewegung in der relativistischen Quantenmechanik.<br/>
-[^6]: Einstein, A.B. (2015). Relativity: The Special and the General Theory.<br/>
-[^7]: Rindler, W., & Ohanian, H.C. (1970). Essential Relativity: Special, General, and Cosmological.<br/>
-[^8]: Danenhower, P. (1987). Is there a connection between Planck's constant, Boltzmann's constant and the speed of light?</br>
-[^9]: Bisht, N., Boral, S., Sahoo, T., & Meylan, M.H. (2023). Triad resonance of flexural gravity waves in the presence of shear current with constant vorticity. Physics of Fluids.<br/>
-[^10]: Stacey, F.D., & Tuck, G.J. (1981). Geophysical evidence for non-newtonian gravity. Nature, 292, 230-232.<br/>
-[^11]: Astone, P., Bassan, M., Bizzarri, R., Bonifazi, P., Brocco, L., Carelli, P., Coccia, E., Cosmelli, C., Degasperis, A., Frasca, S., Fafone, V., Majorana, E., Modena, I., Modestino, G., Moleti, A., Pallottino, G.V., Pizzella, G., Puppo, P., Rapagnani, P., Ricci, F., Terenzi, R., & Visco, M. (1998). Experimental study of the dynamic Newtonian field with a cryogenic gravitational wave antenna. The European Physical Journal C - Particles and Fields, 5, 651-664.<br/>
-[^12]: Brack, T., Zybach, B., Balabdaoui, F., Kaufmann, S., Palmegiano, F., Tomasina, J., Blunier, S., Scheiwiller, D., Fankhauser, J., & Dual, J. (2022). Dynamic measurement of gravitational coupling between resonating beams in the hertz regime. Nature Physics, 18, 952 - 957.<br/>
-[^13]: Tobias, B., Jonas, F., Bernhard, Z., Fadoua, B., Stephan, K., Francesco, P., Jean-Claude, T., Stefan, B., Donat, S., & Jürg, D. (2023). Dynamic gravitational excitation of structural resonances in the hertz regime using two rotating bars. Communications Physics, 6, 1-11.<br/>
-[^14]: Lépinay, L.M., Ockeloen-Korppi, C.F., Woolley, M.J., & Sillanpää, M.A. (2020). Gravitational Forces Between Nonclassical Mechanical Oscillators. Physical Review Applied.<br/>
-[^15]: Esposito, A., Krichevsky, R.E., & Nicolis, A. (2018). Gravitational Mass Carried by Sound Waves. Physical review letters, 122 8, 084501.<br/>
-[^16]: Perez, Alejandro and Salvatore Ribisi. “Energy-mass equivalence from Maxwell equations.” (2021).<br/>
-[^17]: Ababekri, M., Wang, Y., Guo, R., Li, Z., & Li, J. (2024). Dynamics of relativistic vortex electrons in external laser fields. Physical Review A.<br/>
-[^18]: Jentschura, Ulrich David, Ulrich David Jentschura, Valery G. Serbo and Valery G. Serbo. “Generation of high-energy photons with large orbital angular momentum by compton backscattering.” Physical review letters 106 1 (2010): 013001.<br/>
-[^19]: Atonga, E., Martineau, K., Aboushelbaya, R., Barrau, A., von der Leyen, M., Howard, S., James, A.A., Lee, J., Lin, C., Martin, H., Ouatu, I., Paddock, R., Ruskov, R., Timmis, R., & Norreys, P. (2023). Gravitational waves from high-power twisted light. Physical Review D.<br/>
-[^20]: Willner, A. E., Pang, K., Song, H., Zou, K., & Zhou, H. (2021). Orbital angular momentum of light for communications. Applied Physics Reviews, 8(4).<br/>
-[^21]: Padgett, M., Arlt, J., Simpson, N., & Allen, L. (1996). An experiment to observe the intensity and phase structure of Laguerre-Gaussian laser modes. American Journal of Physics, 64(1), 77-81.<br/>
-[^22]: Courtial, J., Dholakia, K., Allen, L., & Padgett, M. J. (1997). Second-harmonic generation and the conservation of orbital angular momentum with high-order Laguerre-Gaussian modes. Physical Review A, 56(5), 4193.<br/>
-[^23]: Van Enk, S. J., & Nienhuis, G. (1992). Eigenfunction description of laser beams and orbital angular momentum of light. Optics Communications, 94(1-3), 147-158.<br/>
-[^24]: Barnett, S. M., Allen, L., Cameron, R. P., Gilson, C. R., Padgett, M. J., Speirits, F. C., & Yao, A. M. (2016). On the natures of the spin and orbital parts of optical angular momentum. Journal of Optics, 18(6), 064004.<br/>
-[^25]: Yan, Y., Xie, G., Lavery, M. P., Huang, H., Ahmed, N., Bao, C., ... & Willner, A. E. (2014). High-capacity millimetre-wave communications with orbital angular momentum multiplexing. Nature communications, 5(1), 4876.<br/>
-[^26]: Iqbal, M., Boltaev, G.S., Abbasi, N.A., Ganeev, R.A., & Alnaser, A.S. (2022). Spatial and spectral variations of high-order harmonics generated in noble gases. Journal of Physics B: Atomic, Molecular and Optical Physics, 55.<br/>
-[^27]: Kärcher, V., Kim, V.V., Reddy, A.N., Zacharias, H., & Ganeev, R.A. (2023). Generation of Complex Vector and Vortex Extreme Ultraviolet Beams Using the S-Waveplate and Spiral Phase Plate during High-Order Harmonics Generation in Argon. ACS Photonics.<br/>
-[^28]: Kim, V.V., Konda, S.R., Yu, W., Li, W., & Ganeev, R.A. (2022). Harmonics Generation in the Laser-Induced Plasmas of Metal and Semiconductor Carbide Nanoparticles. Nanomaterials, 12.<br/>
-[^29]: Konda, S.R., Lai, Y.H., & Li, W. (2021). Investigation of high harmonic generation from laser ablated plumes of silver. Journal of Applied Physics.<br/>
-[^30]: Ganeev, R.A., Boltaev, G.S., Kim, V.V., Iqbal, M., Kuroda, H., & Alnaser, A.S. (2021). Distinction in resonance properties of the atomic and molecular contained plasmas used for high-order harmonics generation of ultrafast laser pulses. Journal of Applied Physics, 129, 043103.<br/>
-[^31]: Ganeev, R.A. (2023). High-Order Harmonics Generation in Selenium-Containing Plasmas. Photonics.<br/>
-[^32]: Liu, X., Liu, D.D., Sun, Y., Li, Y., & Zhang, C. (2023). Valley-Selective High Harmonic Generation and Polarization Induced by an Orthogonal Two-Color Laser Field. Photonics.<br/>
-[^33]: Sharma, A., & Kamperidis, C. (2019). High energy proton micro-bunches from a laser plasma accelerator. Scientific Reports, 9.<br/>
-[^34]: Bulanov, S.S., Bychenkov, V.Y., Chvykov, V.V., Kalinchenko, G.A., Litzenberg, D.W., Matsuoka, T., Thomas, A.G., Willingale, L., Yanovsky, V.P., Krushelnick, K., & Maksimchuk, A.M. (2009). Generation of GeV protons from 1 PW laser interaction with near critical density targets. Physics of plasmas, 17 4.<br/>
-[^35]: Bu, Z., Ji, L., Geng, X., Liu, S., Lei, S., Shen, B., ... & Xu, Z. (2024). Generation of quantum vortex electrons with intense laser pulses. Advanced Science, 11(41), 2404564.<br/>
-[^36]: Konopka, T., Markopoulou, F., & Severini, S. (2008). Quantum graphity: A model of emergent locality. Physical Review D, 77, 104029.
+[1]: L. de Broglie, “Recherches sur la Théorie des Quanta,” PhD Thesis, Masson, Paris, 1924.<br/>
+[2]: Suh, P. (2015) Unified Theory of Everything and QQD. Open Access Library Journal, 2, 1-17. doi: 10.4236/oalib.1102000.<br/>
+[3]: Man’kin, I. (2022) About the Nature of De Broglie Wave. Open Access Library Journal, 9, 1-4. doi: 10.4236/oalib.1108655.<br/>
+[4]: Agrawal, P. (2023) Unified Understanding of Cosmological Energy Fields: Exploring Gravitation, Repulsion, and More. Natural Science, 15, 263-284. doi: 10.4236/ns.2023.1511020.<br/>
+[5]: Schrödinger, E. Über die Kräftefreie bewegung in der relativistischen Quantenmechanik.<br/>
+[6]: Einstein, A.B. (2015). Relativity: The Special and the General Theory.<br/>
+[7]: Rindler, W., & Ohanian, H.C. (1970). Essential Relativity: Special, General, and Cosmological.<br/>
+[8]: Danenhower, P. (1987). Is there a connection between Planck's constant, Boltzmann's constant and the speed of light?</br>
+[9]: Bisht, N., Boral, S., Sahoo, T., & Meylan, M.H. (2023). Triad resonance of flexural gravity waves in the presence of shear current with constant vorticity. Physics of Fluids.<br/>
+[10]: Stacey, F.D., & Tuck, G.J. (1981). Geophysical evidence for non-newtonian gravity. Nature, 292, 230-232.<br/>
+[11]: Astone, P., Bassan, M., Bizzarri, R., Bonifazi, P., Brocco, L., Carelli, P., Coccia, E., Cosmelli, C., Degasperis, A., Frasca, S., Fafone, V., Majorana, E., Modena, I., Modestino, G., Moleti, A., Pallottino, G.V., Pizzella, G., Puppo, P., Rapagnani, P., Ricci, F., Terenzi, R., & Visco, M. (1998). Experimental study of the dynamic Newtonian field with a cryogenic gravitational wave antenna. The European Physical Journal C - Particles and Fields, 5, 651-664.<br/>
+[12]: Brack, T., Zybach, B., Balabdaoui, F., Kaufmann, S., Palmegiano, F., Tomasina, J., Blunier, S., Scheiwiller, D., Fankhauser, J., & Dual, J. (2022). Dynamic measurement of gravitational coupling between resonating beams in the hertz regime. Nature Physics, 18, 952 - 957.<br/>
+[13]: Tobias, B., Jonas, F., Bernhard, Z., Fadoua, B., Stephan, K., Francesco, P., Jean-Claude, T., Stefan, B., Donat, S., & Jürg, D. (2023). Dynamic gravitational excitation of structural resonances in the hertz regime using two rotating bars. Communications Physics, 6, 1-11.<br/>
+[14]: Lépinay, L.M., Ockeloen-Korppi, C.F., Woolley, M.J., & Sillanpää, M.A. (2020). Gravitational Forces Between Nonclassical Mechanical Oscillators. Physical Review Applied.<br/>
+[15]: Esposito, A., Krichevsky, R.E., & Nicolis, A. (2018). Gravitational Mass Carried by Sound Waves. Physical review letters, 122 8, 084501.<br/>
+[16]: Perez, Alejandro and Salvatore Ribisi. “Energy-mass equivalence from Maxwell equations.” (2021).<br/>
+[17]: Ababekri, M., Wang, Y., Guo, R., Li, Z., & Li, J. (2024). Dynamics of relativistic vortex electrons in external laser fields. Physical Review A.<br/>
+[18]: Jentschura, Ulrich David, Ulrich David Jentschura, Valery G. Serbo and Valery G. Serbo. “Generation of high-energy photons with large orbital angular momentum by compton backscattering.” Physical review letters 106 1 (2010): 013001.<br/>
+[19]: Atonga, E., Martineau, K., Aboushelbaya, R., Barrau, A., von der Leyen, M., Howard, S., James, A.A., Lee, J., Lin, C., Martin, H., Ouatu, I., Paddock, R., Ruskov, R., Timmis, R., & Norreys, P. (2023). Gravitational waves from high-power twisted light. Physical Review D.<br/>
+[20]: Willner, A. E., Pang, K., Song, H., Zou, K., & Zhou, H. (2021). Orbital angular momentum of light for communications. Applied Physics Reviews, 8(4).<br/>
+[21]: Padgett, M., Arlt, J., Simpson, N., & Allen, L. (1996). An experiment to observe the intensity and phase structure of Laguerre-Gaussian laser modes. American Journal of Physics, 64(1), 77-81.<br/>
+[22]: Courtial, J., Dholakia, K., Allen, L., & Padgett, M. J. (1997). Second-harmonic generation and the conservation of orbital angular momentum with high-order Laguerre-Gaussian modes. Physical Review A, 56(5), 4193.<br/>
+[23]: Van Enk, S. J., & Nienhuis, G. (1992). Eigenfunction description of laser beams and orbital angular momentum of light. Optics Communications, 94(1-3), 147-158.<br/>
+[24]: Barnett, S. M., Allen, L., Cameron, R. P., Gilson, C. R., Padgett, M. J., Speirits, F. C., & Yao, A. M. (2016). On the natures of the spin and orbital parts of optical angular momentum. Journal of Optics, 18(6), 064004.<br/>
+[25]: Yan, Y., Xie, G., Lavery, M. P., Huang, H., Ahmed, N., Bao, C., ... & Willner, A. E. (2014). High-capacity millimetre-wave communications with orbital angular momentum multiplexing. Nature communications, 5(1), 4876.<br/>
+[26]: Iqbal, M., Boltaev, G.S., Abbasi, N.A., Ganeev, R.A., & Alnaser, A.S. (2022). Spatial and spectral variations of high-order harmonics generated in noble gases. Journal of Physics B: Atomic, Molecular and Optical Physics, 55.<br/>
+[27]: Kärcher, V., Kim, V.V., Reddy, A.N., Zacharias, H., & Ganeev, R.A. (2023). Generation of Complex Vector and Vortex Extreme Ultraviolet Beams Using the S-Waveplate and Spiral Phase Plate during High-Order Harmonics Generation in Argon. ACS Photonics.<br/>
+[28]: Kim, V.V., Konda, S.R., Yu, W., Li, W., & Ganeev, R.A. (2022). Harmonics Generation in the Laser-Induced Plasmas of Metal and Semiconductor Carbide Nanoparticles. Nanomaterials, 12.<br/>
+[29]: Konda, S.R., Lai, Y.H., & Li, W. (2021). Investigation of high harmonic generation from laser ablated plumes of silver. Journal of Applied Physics.<br/>
+[30]: Ganeev, R.A., Boltaev, G.S., Kim, V.V., Iqbal, M., Kuroda, H., & Alnaser, A.S. (2021). Distinction in resonance properties of the atomic and molecular contained plasmas used for high-order harmonics generation of ultrafast laser pulses. Journal of Applied Physics, 129, 043103.<br/>
+[31]: Ganeev, R.A. (2023). High-Order Harmonics Generation in Selenium-Containing Plasmas. Photonics.<br/>
+[32]: Liu, X., Liu, D.D., Sun, Y., Li, Y., & Zhang, C. (2023). Valley-Selective High Harmonic Generation and Polarization Induced by an Orthogonal Two-Color Laser Field. Photonics.<br/>
+[33]: Sharma, A., & Kamperidis, C. (2019). High energy proton micro-bunches from a laser plasma accelerator. Scientific Reports, 9.<br/>
+[34]: Bulanov, S.S., Bychenkov, V.Y., Chvykov, V.V., Kalinchenko, G.A., Litzenberg, D.W., Matsuoka, T., Thomas, A.G., Willingale, L., Yanovsky, V.P., Krushelnick, K., & Maksimchuk, A.M. (2009). Generation of GeV protons from 1 PW laser interaction with near critical density targets. Physics of plasmas, 17 4.<br/>
+[35]: Bu, Z., Ji, L., Geng, X., Liu, S., Lei, S., Shen, B., ... & Xu, Z. (2024). Generation of quantum vortex electrons with intense laser pulses. Advanced Science, 11(41), 2404564.<br/>
+[36]: Konopka, T., Markopoulou, F., & Severini, S. (2008). Quantum graphity: A model of emergent locality. Physical Review D, 77, 104029.
 
 ---
