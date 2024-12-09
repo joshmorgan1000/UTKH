@@ -24,7 +24,7 @@ def generate_toc(input_file: str, output_file: str):
                     anchor = match.group(3).strip()  # Anchor link target
                     # Generate a TOC line with indentation based on header level
                     indent = "  " * (level - 2)
-                    toc_lines.append(f"{indent}- [{text}](https://github.com/joshmorgan1000/UTKH/blob/main/THEORY.md#{anchor}-)\n")
+                    toc_lines.append(f"{indent}- [{text}](https://github.com/joshmorgan1000/UTKH/blob/main/NARRATIVE.md#{anchor}-)\n")
 
         # Write the TOC to the output file
         with open(output_file, 'w', encoding='utf-8') as outfile:

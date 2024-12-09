@@ -83,6 +83,7 @@ fetch('https://raw.githubusercontent.com/joshmorgan1000/UTKH/refs/heads/main/THE
         htmlContent = htmlContent.replace(/\$([^$]+)\$/g, (match, math) =>
             katex.renderToString(math, { throwOnError: false, displayMode: false })
         );
+        // Add some special multi-line HTML content at the bottom
         markdownDiv.innerHTML = htmlContent;
     })
     .catch((error) => console.error('Error loading README.md:', error));
@@ -111,10 +112,9 @@ const light = new BABYLON.HemisphericLight(
 );
 
 const spheres = [];
-
 const explosions = [];
-let explosionCounter = 0;
-const numSpheres = 20;
+let explosionCounter = 10;
+const numSpheres = 17;
 
 for (let i = 0; i < numSpheres; i++) {
     const sphere = BABYLON.MeshBuilder.CreateSphere(`sphere${i}`, { diameter: Math.random() * 0.4 + 0.4 }, scene);
@@ -133,96 +133,99 @@ for (let i = 0; i < numSpheres; i++) {
 
 // Gravity simulation
 scene.registerBeforeRender(() => {
-    for (let i = 0; i < spheres.length; i++) {
-        for (let j = 0; j < spheres.length; j++) {
-            if (i !== j) {
-                const dir = spheres[j].position.subtract(spheres[i].position);
-                const distance = Math.max(dir.length(), 0.07); // Prevent division by zero
-                const force = dir.normalize().scale(0.1 / (distance * distance));
-                const originalIPosition = spheres[i].position.clone();
-                if (distance <= 0.07 || force.length() > 20) {
-                    spheres[i].position = new BABYLON.Vector3(
-                        Math.random() * 10 - 5,
-                        Math.random() * 10 - 5,
-                        Math.random() * 10 - 5,
-                    );
-                    spheres[j].position = new BABYLON.Vector3(
-                        Math.random() * 10 - 5,
-                        Math.random() * 10 - 5,
-                        Math.random() * 10 - 5,
-                    );
+    if (explosionCounter < 1 || explosions.length > 0) {
+        for (let i = 0; i < spheres.length; i++) {
+            for (let j = 0; j < spheres.length; j++) {
+                if (i !== j) {
+                    const dir = spheres[j].position.subtract(spheres[i].position);
+                    const distance = Math.max(dir.length(), 0.07); // Prevent division by zero
+                    const force = dir.normalize().scale(0.1 / (distance * distance));
+                    const originalIPosition = spheres[i].position.clone();
+                    if (distance <= 0.07 || force.length() > 20) {
+                        spheres[i].position = new BABYLON.Vector3(
+                            Math.random() * 10 - 5,
+                            Math.random() * 10 - 5,
+                            Math.random() * 10 - 5,
+                        );
+                        spheres[j].position = new BABYLON.Vector3(
+                            Math.random() * 10 - 5,
+                            Math.random() * 10 - 5,
+                            Math.random() * 10 - 5,
+                        );
 
-                    // Create explosion sphere
-                    const explosion = BABYLON.MeshBuilder.CreateSphere(`explosion${explosionCounter}`, { diameter: 0.3, updatable: true }, scene);
-                    explosion.material = new BABYLON.StandardMaterial(`explosionMaterial${explosionCounter}`, scene);
-                    explosion.material.diffuseColor = new BABYLON.Color3(0.5, 0.6, 0.6);
-                    explosion.position = originalIPosition;
-                    explosions.push({ mesh: explosion, material: explosion.material, scale: 0.4, alpha: 1 });
-                    explosionCounter++;
-                }
-                spheres[i].position.addInPlace(force);
-            }
-        }
-    }
-
-    const toRemove = [];
-
-    // Update explosions
-    for (let i = 0; i < explosions.length; i++) {
-        const explosion = explosions[i];
-        // Make the explosion grow in size exponentially
-        explosion.scale *= 1.05;
-        explosion.mesh.scaling = new BABYLON.Vector3(explosion.scale, explosion.scale, explosion.scale);
-
-        explosion.alpha = explosion.alpha * 0.97;
-        explosion.material.alpha = explosion.alpha;
-        explosion.material.opacity = explosion.alpha;
-
-        console.log('Scale: ' + explosion.scale + ' Position: ' + explosion.mesh.position + ' Alpha: ' + explosion.alpha);
-
-        if (explosion.scale > 400) {
-            toRemove.push(i);
-        }
-    }
-
-    // Remove finished explosions
-    for (let i = toRemove.length - 1; i >= 0; i--) {
-        explosions[toRemove[i]].mesh.dispose();
-        explosions.splice(explosions.indexOf(explosions[toRemove[i]]), 1);
-    }
-});
-
-/*
-let num = 3;
-
-// Every 1 second, send a request to localhost:5000 to get the sphere positions
-scene.registerBeforeRender(() => {
-    fetch(`http://localhost:5010/sphere`)
-        .then((response) => response.json())
-        .then((data) => {
-            // Create new spheres
-            for (let i = 0; i < data.length; i++) {
-                if (spheres[i]) {
-                    spheres[i].position = new BABYLON.Vector3(data[i][0], data[i][1], data[i][2]);
-                } else {
-                    const sphere = BABYLON.MeshBuilder.CreateSphere(`sphere${i}`, { diameter: 0.4 }, scene);
-                    sphere.material = new BABYLON.StandardMaterial(`material${i}`, scene);
-                    const r = Math.random() * 0.7;
-                    const b = Math.random() * (1.3 - r);
-                    const g = 1.1 - r - b;
-                    sphere.material.diffuseColor = new BABYLON.Color3(r, g, b);
-                    sphere.position = new BABYLON.Vector3(data[i][0], data[i][1], data[i][2]);
-                    spheres.push(sphere);
+                        // Create explosion sphere
+                        const explosion = BABYLON.MeshBuilder.CreateSphere(`explosion${explosionCounter}`, { diameter: 0.3, updatable: true }, scene);
+                        explosion.material = new BABYLON.StandardMaterial(`explosionMaterial${explosionCounter}`, scene);
+                        explosion.material.diffuseColor = new BABYLON.Color3(0.5, 0.6, 0.6);
+                        explosion.position = originalIPosition;
+                        explosions.push({ mesh: explosion, material: explosion.material, scale: 0.4, alpha: 1 });
+                        explosionCounter++;
                     }
+                    spheres[i].position.addInPlace(force);
+                }
             }
-            num++;
-            if (num > 10) {
-                num = 3;
+        }
+
+        const toRemove = [];
+
+        // Update explosions
+        for (let i = 0; i < explosions.length; i++) {
+            const explosion = explosions[i];
+            // Make the explosion grow in size exponentially
+            explosion.scale *= 1.05;
+            explosion.mesh.scaling = new BABYLON.Vector3(explosion.scale, explosion.scale, explosion.scale);
+
+            explosion.alpha = explosion.alpha * 0.97;
+            explosion.material.alpha = explosion.alpha;
+            explosion.material.opacity = explosion.alpha;
+
+            console.log('Scale: ' + explosion.scale + ' Position: ' + explosion.mesh.position + ' Alpha: ' + explosion.alpha);
+
+            if (explosion.scale > 400) {
+                toRemove.push(i);
             }
-        })
-        .catch((error) => {});
+        }
+
+        // Remove explosions that have grown too large
+        for (let i = toRemove.length - 1; i >= 0; i--) {
+            explosions[toRemove[i]].mesh.dispose();
+            explosions.splice(explosions.indexOf(explosions[toRemove[i]]), 1);
+        }
+    } else {
+        // Orbital mode
+        // Add a strong force towards the center [0, 0, 0]
+        for (let i = 0; i < spheres.length; i++) {
+            const dir = spheres[i].position.normalize();
+            const force = dir.scale(-0.001);
+            if (force.length() > 0.01) {
+                force.scaleInPlace(0.01 / force.length());
+            }
+            spheres[i].position.addInPlace(force);
+        }
+
+        // Add force that wants to keep them 2 pi r squared apart. If they are very close, force them to be at least 0.1 apart
+        for (let i = 0; i < spheres.length; i++) {
+            for (let j = 0; j < spheres.length; j++) {
+                if (i !== j) {
+                    const dir = spheres[j].position.subtract(spheres[i].position);
+                    const distance = Math.max(dir.length(), 0.000001); // Prevent division by zero
+                    // Move them further apart from each other
+                    const force = dir.normalize().scale(1.05);
+                    spheres[i].position.addInPlace(force);
+                }
+            }
+        }
+        
+        // Make sure they are all at least 3 units away from the center
+        for (let i = 0; i < spheres.length; i++) {
+            const distance = spheres[i].position.length();
+            if (distance < 3) {
+                spheres[i].position.scaleInPlace(3 / distance);
+            }
+        }
+        
+    }
 });
-*/
 
 // Start the engine
 engine.runRenderLoop(() => {
