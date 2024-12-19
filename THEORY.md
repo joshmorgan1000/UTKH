@@ -186,7 +186,7 @@ This process maintains the symmetry of the distribution while reducing the dimen
 To verify the stability and symmetry of the arrangement, the total gravitational force acting on each point is calculated. The gravitational force between two points $P_m$ and $P_n$ is given by:
 
 $$
-\mathbf{F}_{mn}=G\cdot\frac{m_m m_n}{r_{m_n}^2}\cdot\hat{\mathbf{r}}_{m_n}
+F_{mn}=G\cdot\frac{m_m m_n}{r_{m_n}^2}\cdot\hat{{r}}_{m_n}
 $$
 
 where:
@@ -198,7 +198,7 @@ where:
 The net gravitational force acting on point $P_m$ is then:
 
 $$
-\mathbf{F}_m=\sum_{n \neq m}\mathbf{F}_{m_n}
+{F}_m=\sum_{n \neq m}{F}_{m_n}
 $$
 
 To ensure symmetry, the direction of the total gravitational force $\mathbf{F}_m$ is compared with the vector pointing toward the center of the sphere:
@@ -250,7 +250,7 @@ Even in higher dimensions, simulations seem to indicate that these problems repr
     
     Generalizing this pattern, the cosine of the angular separation between adjacent points for any $N \gt 2$ is:
 
-    $$ \cos\theta = -\frac{1}{N - 1}\cdot $$
+    $$\cos\theta = -\frac{1}{N - 1}\cdot $$
 
     Taking the inverse cosine yields the angular separation:
 
@@ -262,15 +262,11 @@ Even in higher dimensions, simulations seem to indicate that these problems repr
 
   - We know the Bohr radius as:
 
-    $$
-    a_0 = \frac{4\pi \epsilon_0 \hbar^2}{m_e e^2}
-    $$
+$$a_0 = \frac{4\pi \epsilon_0 \hbar^2}{m_e e^2}$$
 
   - Using the calculated $r_e$:
 
-    $$
-    r_e \approx \frac{1}{3}a_0
-    $$
+$$r_e \approx \frac{1}{3}a_0$$
 
   - The kutonic orbital radius is smaller than the Bohr radius, which reflects the intrinsic resonant scale of the electron itself rather than the electron's spatial configuration in an atom.
        - The difference in scale can be attributed to the Coulomb interaction between the electron and nucleus in the atom, which influences the Bohr radius but is not relevant to the intrinsic kutonic system.
@@ -281,53 +277,39 @@ Since protons have a positive charge and exhibit electromagnetic attraction, her
 
 1. **Define the Kutonic Electron's Orbital Radius ($r_e$)**
    
-   $$
-   r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}
-   $$
+   $$r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}$$
 
    (where $m_e \approx 9.109^{-31}$ kg) 
 
 2. **Calculate the Orbital Radius for the Mass Difference Kuton ($r_{\Delta m}$)**
    
-   $$
-   r_{\Delta m} = \frac{2\pi h c}{\Delta m}
-   $$
+   $$r_{\Delta m} = \frac{2\pi h c}{\Delta m}$$
    
    - **Mass Difference ($\Delta m$) Between Neutron and Proton:**
      
-     $$
-     \Delta m = m_n - m_p \approx 2.305 \times 10^{-30} \ \text{kg}
-     $$
+   $$\Delta m = m_n - m_p \approx 2.305 \times 10^{-30} \ \text{kg}$$
 
      (where $m_n \approx 1.674927^{-27}$ kg and $m_p \approx 1.672621^{-27}$ kg)
    
    - **Calculation:**
      
-     $$
-     r_{\Delta m} \approx \frac{2\pi \times 6.626 \times 10^{-34} \times 2.998 \times 10^8}{2.305 \times 10^{-30}} \approx 6.018 \times 10^{-12} \ \text{kg}
-     $$
+   $$r_{\Delta m} \approx \frac{2\pi \times 6.626 \times 10^{-34} \times 2.998 \times 10^8}{2.305 \times 10^{-30}} \approx 6.018 \times 10^{-12} \ \text{kg}$$
 
 3. **Determine the Ratio of Orbital Radii**
    
-   $$
-   \frac{r_e}{r_{\Delta m}} = \frac{1.513 \times 10^{-11}}{6.018 \times 10^{-12}} \approx 2.515
-   $$
+$$\frac{r_e}{r_{\Delta m}} = \frac{1.513 \times 10^{-11}}{6.018 \times 10^{-12}} \approx 2.515$$
    
    - **Interpretation:** The orbital radius of the kutonic electron (meters/kg) is approximately **2.515** times larger than that of the mass difference kuton.
 
 4. **Compare with the Mass Ratio**
    
-   $$
-   \frac{m_e}{\Delta m} = \frac{9.109 \times 10^{-31}}{2.305 \times 10^{-30}} \approx 0.395
-   $$
+$$\frac{m_e}{\Delta m} = \frac{9.109 \times 10^{-31}}{2.305 \times 10^{-30}} \approx 0.395$$
    
    - **Observation:** The ratio of orbital radii ($\approx 2.515$) is **inversely proportional** to the mass ratio ($\approx 0.395$), **indicating a harmonic relationship.**
    
    - The proportionality between the orbital radii and the inverse of the mass ratios suggests that:
      
-     $$
-     r \propto \frac{1}{m}
-     $$
+     $$r \propto \frac{1}{m}$$
 
 5. **Now Hold On a Second.**
 
@@ -351,9 +333,7 @@ In theory, when two or more systems interact, their frequencies may not match ex
 
 Let's define the kinetic harmonic resonance (KHR) as:
 
-$$
-\Psi = \frac{\Omega}{\omega} = \frac{2\pi f}{\omega_0}
-$$
+$$\Psi = \frac{\Omega}{\omega} = \frac{2\pi f}{\omega_0}$$
 
 where $\Psi$ is the KHR ratio, $\Omega$ is the angular frequency of the system, $f$ is the frequency, and $\omega_0$ is the fundamental frequency.
 
