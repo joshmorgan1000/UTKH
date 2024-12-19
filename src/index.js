@@ -72,7 +72,7 @@ Object.assign(markdownDiv.style, {
 document.body.appendChild(markdownDiv);
 
 // Dynamically Load README.md
-fetch('https://raw.githubusercontent.com/joshmorgan1000/UTKH/refs/heads/main/NARRATIVE.md')
+fetch('https://raw.githubusercontent.com/joshmorgan1000/UTKH/refs/heads/main/THEORY.md')
     .then((response) => response.text())
     .then((markdown) => {
         // Process Markdown with marked and render math with KaTeX

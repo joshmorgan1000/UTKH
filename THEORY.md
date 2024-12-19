@@ -63,20 +63,27 @@ Hyper-dimensional computer simulations seem to confirm this equation.
 ### Alternate Symmetrical from Euler Derivative
 
 Using Euler angles, the placement of points is parameterized by:
-$$\begin{align*} \alpha_i &= \frac{2\pi i}{N}, \quad i = 0, 1, \dots, N-1, \\ \beta &= \arccos\left(1 - \frac{2}{N}\right). \end{align*}$$
+
+$$
+\begin{align*} \alpha_i &= \frac{2\pi i}{N}, \quad i = 0, 1, \dots, N-1, \\ \beta &= \arccos\left(1 - \frac{2}{N}\right). \end{align*}
+$$
 
 **Relating $\theta$ and $\beta$**
 
 The polar angle $\beta$ ensures uniform distribution in latitude based on the solid angle per point:
+
 $$
-\Omega = \int_0^\beta 2\pi \sin\theta \, d\theta = \frac{4\pi}{N},
+\omega = \int_0^\beta 2\pi \sin\theta \, d\theta = \frac{4\pi}{N},
 $$
+
 yielding:
+
 $$
 \beta = \arccos\left(1 - \frac{2}{N}\right).
 $$
 
 The pairwise cosine relationship for two points on a sphere, parameterized by $(\alpha, \beta)$, is:
+
 $$
 \cos \theta_{ij} = \cos\beta_1 \cos\beta_2 + \sin\beta_1 \sin\beta_2 \cos(\alpha_1 - \alpha_2).
 $$
@@ -133,12 +140,16 @@ By rearranging points to minimize deviations from $-\frac{1}{N-1}$, the points a
 
 For $N\gt3$, perfect symmetry requires embedding the points into a Hilbert space, so that the simplicial complex of the higher-dimensional qubit is that of a Bloch SIC-POVM regular tetrahedron.
 
-$$\mathbf{v}_k=\begin{cases}1&\text{if}k=\ell,\\
--\frac{1}{N-1}&\text{if}k\neq\ell\end{cases}$$
+$$
+\mathbf{v}_k=\begin{cases}1&\text{if}k=\ell,\\
+-\frac{1}{N-1}&\text{if}k\neq\ell\end{cases}
+$$
 
 The vertices are normalized to ensure they lie on the unit $(N-1)$ - dimensional sphere:
 
-$$\mathbf{v}_k=\frac{\mathbf{v}_k}{\|\mathbf{v}_k\|}$$
+$$
+\mathbf{v}_k=\frac{\mathbf{v}_k}{\|\mathbf{v}_k\|}
+$$
 
 After constructing the higher-dimensional simplex, the points are projected onto the 3D sphere. The projection is defined as taking the first three components of each vector:
 
@@ -174,7 +185,9 @@ This process maintains the symmetry of the distribution while reducing the dimen
 
 To verify the stability and symmetry of the arrangement, the total gravitational force acting on each point is calculated. The gravitational force between two points $P_m$ and $P_n$ is given by:
 
-$$\mathbf{F}_{mn}=G\cdot\frac{m_m m_n}{r_{m_n}^2}\cdot\hat{\mathbf{r}}_{m_n}$$
+$$
+\mathbf{F}_{mn}=G\cdot\frac{m_m m_n}{r_{m_n}^2}\cdot\hat{\mathbf{r}}_{m_n}
+$$
 
 where:
 - $G$ is the gravitational constant (normalized to $1$),
@@ -184,11 +197,15 @@ where:
 
 The net gravitational force acting on point $P_m$ is then:
 
-$$\mathbf{F}_m=\sum_{n \neq m}\mathbf{F}_{m_n}$$
+$$
+\mathbf{F}_m=\sum_{n \neq m}\mathbf{F}_{m_n}
+$$
 
 To ensure symmetry, the direction of the total gravitational force $\mathbf{F}_m$ is compared with the vector pointing toward the center of the sphere:
 
-$$\hat{\mathbf{F}}_m = \frac{\mathbf{F}_m}{\|\mathbf{F}_m\|}$$
+$$
+\hat{\mathbf{F}}_m = \frac{\mathbf{F}_m}{\|\mathbf{F}_m\|}
+$$
 
 Ideally, $\hat{\mathbf{F}}_m$ should align with the vector pointing to the origin, confirming that the system is gravitationally stable and symmetric. All tests with the polyhedral forumula pass this test, even in complex systems.
 
@@ -198,7 +215,9 @@ Ideally, $\hat{\mathbf{F}}_m$ should align with the vector pointing to the origi
 
 The final configuration of points minimizes the potential energy function, which penalizes deviations from the ideal angular separation:
 
-$$E = \sum_{m \neq n} \left( \cos\theta_{mn} - \cos\theta_{\text{ideal}} \right)^2$$
+$$
+E = \sum_{m \neq n} \left( \cos\theta_{mn} - \cos\theta_{\text{ideal}} \right)^2
+$$
 
 where:
 - $\cos\theta_{m_n} = \mathbf{P}_m \cdot \mathbf{P}_n$ is the cosine of the angular separation between points $P_m$ and $P_n$,
@@ -243,11 +262,15 @@ Even in higher dimensions, simulations seem to indicate that these problems repr
 
   - We know the Bohr radius as:
 
-    $$a_0 = \frac{4\pi \epsilon_0 \hbar^2}{m_e e^2}$$
+    $$
+    a_0 = \frac{4\pi \epsilon_0 \hbar^2}{m_e e^2}
+    $$
 
   - Using the calculated $r_e$:
 
-    $$r_e \approx \frac{1}{3}a_0$$
+    $$
+    r_e \approx \frac{1}{3}a_0
+    $$
 
   - The kutonic orbital radius is smaller than the Bohr radius, which reflects the intrinsic resonant scale of the electron itself rather than the electron's spatial configuration in an atom.
        - The difference in scale can be attributed to the Coulomb interaction between the electron and nucleus in the atom, which influences the Bohr radius but is not relevant to the intrinsic kutonic system.
@@ -258,37 +281,53 @@ Since protons have a positive charge and exhibit electromagnetic attraction, her
 
 1. **Define the Kutonic Electron's Orbital Radius ($r_e$)**
    
-   $$r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}$$
+   $$
+   r_e = \frac{2\pi h}{m_e c} \approx 1.513 \times 10^{-11} \ \text{meters}
+   $$
+
    (where $m_e \approx 9.109^{-31}$ kg) 
 
 2. **Calculate the Orbital Radius for the Mass Difference Kuton ($r_{\Delta m}$)**
    
-   $$r_{\Delta m} = \frac{2\pi h c}{\Delta m}$$
+   $$
+   r_{\Delta m} = \frac{2\pi h c}{\Delta m}
+   $$
    
    - **Mass Difference ($\Delta m$) Between Neutron and Proton:**
      
-     $$\Delta m = m_n - m_p \approx 2.305 \times 10^{-30} \ \text{kg}$$
+     $$
+     \Delta m = m_n - m_p \approx 2.305 \times 10^{-30} \ \text{kg}
+     $$
+
      (where $m_n \approx 1.674927^{-27}$ kg and $m_p \approx 1.672621^{-27}$ kg)
    
    - **Calculation:**
      
-     $$r_{\Delta m} \approx \frac{2\pi \times 6.626 \times 10^{-34} \times 2.998 \times 10^8}{2.305 \times 10^{-30}} \approx 6.018 \times 10^{-12} \ \text{kg}$$
+     $$
+     r_{\Delta m} \approx \frac{2\pi \times 6.626 \times 10^{-34} \times 2.998 \times 10^8}{2.305 \times 10^{-30}} \approx 6.018 \times 10^{-12} \ \text{kg}
+     $$
 
 3. **Determine the Ratio of Orbital Radii**
    
-   $$\frac{r_e}{r_{\Delta m}} = \frac{1.513 \times 10^{-11}}{6.018 \times 10^{-12}} \approx 2.515$$
+   $$
+   \frac{r_e}{r_{\Delta m}} = \frac{1.513 \times 10^{-11}}{6.018 \times 10^{-12}} \approx 2.515
+   $$
    
    - **Interpretation:** The orbital radius of the kutonic electron (meters/kg) is approximately **2.515** times larger than that of the mass difference kuton.
 
 4. **Compare with the Mass Ratio**
    
-   $$\frac{m_e}{\Delta m} = \frac{9.109 \times 10^{-31}}{2.305 \times 10^{-30}} \approx 0.395$$
+   $$
+   \frac{m_e}{\Delta m} = \frac{9.109 \times 10^{-31}}{2.305 \times 10^{-30}} \approx 0.395
+   $$
    
    - **Observation:** The ratio of orbital radii ($\approx 2.515$) is **inversely proportional** to the mass ratio ($\approx 0.395$), **indicating a harmonic relationship.**
    
    - The proportionality between the orbital radii and the inverse of the mass ratios suggests that:
      
-     $$r \propto \frac{1}{m}$$
+     $$
+     r \propto \frac{1}{m}
+     $$
 
 5. **Now Hold On a Second.**
 
@@ -312,7 +351,9 @@ In theory, when two or more systems interact, their frequencies may not match ex
 
 Let's define the kinetic harmonic resonance (KHR) as:
 
-$$\Psi = \frac{\Omega}{\omega} = \frac{2\pi f}{\omega_0}$$
+$$
+\Psi = \frac{\Omega}{\omega} = \frac{2\pi f}{\omega_0}
+$$
 
 where $\Psi$ is the KHR ratio, $\Omega$ is the angular frequency of the system, $f$ is the frequency, and $\omega_0$ is the fundamental frequency.
 
@@ -324,7 +365,9 @@ In theory, when $\Upsilon = 1$, the systems are perfectly entangled, and energy 
 
 The harmonic entanglement (HE) can be described by:
 
-$$\Upsilon = \frac{\Psi}{\sqrt{1 - \Psi^2}}$$
+$$
+\Upsilon = \frac{\Psi}{\sqrt{1 - \Psi^2}}
+$$
 
 where $\Upsilon$ represents the degree of harmonic entanglement between two or more systems.
 
@@ -336,7 +379,9 @@ In theory, when $\Theta = 0$, the energy flow is perfectly aligned with the harm
 
 The energy flow alignment (EFA) can be calculated using:
 
-$$\Theta = \arctan\left(\frac{\Upsilon}{\Psi}\right)$$
+$$
+\Theta = \arctan\left(\frac{\Upsilon}{\Psi}\right)
+$$
 
 where $\Theta$ is the angle of energy flow alignment.
 
