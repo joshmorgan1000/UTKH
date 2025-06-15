@@ -391,17 +391,17 @@ $$
 centre‑of‑mass energy $W=\sqrt{s}$.
 
 * **Prediction** – Breit–Wigner excess at $W_* = m_0c^{2}$.
-* LHC ultra‑peripheral Pb‑Pb (2024) 95% CL:
-  $$
-  \Delta\sigma_{\gamma\gamma\!\to\!\gamma\gamma}(1\,\text{GeV}) < 1.0\times10^{-36}\,\text{cm}^2
-  $$
-  [ATLAS‑γγ 2024].
+* LHC ultra‑peripheral Pb‑Pb (2024) 95% CL [ATLAS‑γγ 2024]:
 
-* **UTKH prediction (with $\kappa=5\times10^{-3}$):**
-  $$
-  \Delta\sigma_{\text{UTKH}}\!\approx\!1.6\times10^{-38}\,\text{cm}^2
-  $$
-  — reachable with a $\sim$10× luminosity upgrade.
+$$
+\Delta\sigma_{\gamma\gamma\!\to\!\gamma\gamma}(1\,\text{GeV}) < 1.0\times10^{-36}\,\text{cm}^2
+$$
+
+* **UTKH prediction** (with $\kappa=5\times10^{-3}$, reachable with a $\sim$10× luminosity upgrade):
+
+$$
+\Delta\sigma_{\text{UTKH}}\!\approx\!1.6\times10^{-38}\,\text{cm}^2
+$$
 
 ---
 
@@ -1126,10 +1126,9 @@ OTHER DEALINGS IN THE THEORY.</sub>
 [33] Sharma, A., & Kamperidis, C. (2019). High energy proton micro-bunches from a laser plasma accelerator. Scientific Reports, 9.  
 [34] Bulanov, S.S., Bychenkov, V.Y., Chvykov, V.V., Kalinchenko, G.A., Litzenberg, D.W., Matsuoka, T., Thomas, A.G., Willingale, L., Yanovsky, V.P., Krushelnick, K., & Maksimchuk, A.M. (2009). Generation of GeV protons from 1 PW laser interaction with near critical density targets. Physics of plasmas, 17 4.  
 [35] Bu, Z., Ji, L., Geng, X., Liu, S., Lei, S., Shen, B., ... & Xu, Z. (2024). Generation of quantum vortex electrons with intense laser pulses. Advanced Science, 11(41), 2404564.  
-[36] Konopka, T., Markopoulou, F., & Severini, S. (2008). Quantum graphity: A model of emergent locality. Physical Review D, 77, 104029.  
-[37] Morgan, J. Tammes-Thomson Polyhedra Simulations  
-
+[36] Konopka, T., Markopoulou, F., & Severini, S. (2008). Quantum graphity: A model of emergent locality. Physical Review D, 77, 104029.
 </font>
+
 ---
 
 <font size="1">
