@@ -394,7 +394,7 @@ centre‑of‑mass energy $W=\sqrt{s}$.
 * LHC ultra‑peripheral Pb‑Pb (2024) 95% CL [ATLAS‑γγ 2024]:
 
 $$
-\Delta\sigma_{\gamma\gamma\!\to\!\gamma\gamma}(1\,\text{GeV}) < 1.0\times10^{-36}\,\text{cm}^2
+\Delta\sigma_{\gamma\gamma\!\to\!\gamma\gamma}(1\,\text{GeV}) \lt 1.0\times10^{-36}\,\text{cm}^2
 $$
 
 * **UTKH prediction** (with $\kappa=5\times10^{-3}$, reachable with a $\sim$10× luminosity upgrade):
@@ -411,12 +411,12 @@ A radial Klein–Gordon equation with point‑like self‑source admits a bound 
 when
 
 $$
-gE > \frac{\pi\hbar c}{2}
+gE \gt \frac{\pi\hbar c}{2}
 $$
 
 Plugging $g=\kappa\sqrt{4\pi G\hbar c}$ gives:  
 $$
-E_{\text{min}} \simeq \frac{\pi\hbar c}{2g}\approx \frac{7.6\,\text{MeV}}{\kappa}\;
+E_{\text{min}} \simeq \frac{\pi\hbar c}{2g}\approx \frac{7.6\,\text{MeV}}{\kappa}
 $$
 
 With $\kappa=5\times10^{-3}$, bound kutons appear

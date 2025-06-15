@@ -11,7 +11,7 @@ document.head.appendChild(fontLink);
 
 const fontLink2 = document.createElement('link');
 fontLink2.rel = 'stylesheet';
-fontLink2.href = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css';
+fontLink2.href = 'https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css';
 document.head.appendChild(fontLink2);
 
 // Set body styles
