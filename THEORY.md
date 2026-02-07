@@ -1,14 +1,4 @@
 # Universal Theory of Kinetic Harmonics
-<font size="1">
-
-> **Executive Summary:**  
-> UTKH treats light as a multi‑mode field whose self‑resonances (“kutons”) form effective mass; gravity appears as the long‑wavelength limit of kuton exchange. We supply:
-> - (i) a minimal Lagrangian with one new coupling $\kappa$,  
-> - (ii) geometric heuristics for multi‑photon orbits,  
-> - (iii) three laboratory predictions - light-light resonance, acoustic-gravity coupling, and optical-vortex pair‑creation.
->
-> All claims scale with $\kappa$ and are falsifiable with near‑future technology.
-</font>
 
 ---
 
@@ -19,11 +9,6 @@ Building upon previous work and scientific studies spanning from De Broglie, to 
 ---
 
 ## 2. Introduction <a href="#introduction"></a>
-<font size="1">
-
-> **Section 2 Takeaway:**
-> * *Key idea:* The universe's fundamental properties arise from the interaction of light in stable orbital patterns, which can be described mathematically and geometrically.
-</font>
 
 The hypothesis that orbital light patterns is a universal property underpinning the universe is not new<sup>[1](https://www.scirp.org/reference/referencespapers?referenceid=3245741),[2](https://www.scirp.org/journal/paperinformation?paperid=68794),[3](https://www.scirp.org/journal/paperinformation?paperid=116775),[4](https://www.scirp.org/journal/paperinformation?paperid=129567),[16](https://arxiv.org/abs/2101.11923)</sup>. General Relativity's energy-mass equivalence has been observed well enough at this point to call it a law of nature<sup>[5](https://www.scirp.org/reference/referencespapers?referenceid=2264162),[6](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory)</sup>. Relationships between the hypothetical angular speed of light and Planck's Constant have been well established<sup>[7](https://www.sciengine.com/EPJH/doi/10.1140/epjh/e2017-80002-5;JSESSIONID=80c7a6d3-30cc-433f-b6c2-7d3ec322466b),[8](https://www.semanticscholar.org/paper/Is-there-a-connection-between-Planck%27s-constant%2C-of-Danenhower/9d1b4fe755abe75dde2d7388b632446e5b028717)</sup>, hinting at a possible connection that could unite GR with Quantum Mechanics. There are many indications that gravity is an emergent property<sup>[10](https://espace.library.uq.edu.au/view/UQ:395220),[11](https://ui.adsabs.harvard.edu/abs/1998EPJC....5..651A/abstract)</sup>. The spacial geometry of the effects of sonic resonance align with the curvature of spacetime just due to the inverse-square law, and recent experimental observations have indicated a direct, integral relationship between resonance and gravitational forces<sup>[9](https://ui.adsabs.harvard.edu/abs/2023PhFl...35k6605B/abstract),[12](https://arxiv.org/abs/2201.03420),[13](https://arxiv.org/abs/2301.01644),[14](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034004),[15](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.084501)</sup>. We know that light can used to directly sythensize massive particles<sup>[33](https://www.nature.com/articles/s41598-019-50348-0),[34](https://arxiv.org/abs/0911.4952)</sup>. Additionally, with the recent discovery of orbital light vortex experimentations it has been shown that there are clear, yet unexplained photonic properties<sup>[17](https://arxiv.org/html/2408.02390v1),[20](https://pubs.aip.org/aip/apr/article-abstract/8/4/041312/979966/Orbital-angular-momentum-of-light-for?redirectedFrom=fulltext),[21](https://www.researchgate.net/publication/220029943_An_experiment_to_observe_the_intensity_and_phase_structure_of_Laguerre-Gaussian_laser_modes),[25](https://pubmed.ncbi.nlm.nih.gov/25224763/)</sup>. This experimental data has opened up new avenues of proofs and speculations, such as light having angular momentum<sup>[24](https://www.researchgate.net/publication/301577086_On_the_natures_of_the_spin_and_orbital_parts_of_optical_angular_momentum),[23](https://www.sciencedirect.com/science/article/abs/pii/003040189290424P)</sup>, exhibiting harmonic properties<sup>[22](https://www.researchgate.net/publication/235512551_Second-harmonic_generation_and_the_conservation_of_orbital_angular_momentum_with_high-order_Laguerre-Gaussian_modes),[26](https://www.researchgate.net/publication/360163135_Spatial_and_spectral_variations_of_high-order_harmonics_generated_in_noble_gases),[27](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.3c01417),[30](https://pubs.aip.org/aip/jap/article-abstract/129/4/043103/1064753/Distinction-in-resonance-properties-of-the-atomic?redirectedFrom=fulltext),[31](https://www.mdpi.com/2304-6732/10/7/854),[32](https://www.mdpi.com/2304-6732/10/10/1126)</sup>, effecting electric conductivity<sup>[28](https://www.mdpi.com/2079-4991/12/23/4228)</sup>, and even resulting in particle synthesisis<sup>[35](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404564)</sup>. Without assuming that light is what makes up larger particles, one must use have a strong imagination.
 
@@ -120,11 +105,6 @@ For uniform distributions:
 ---
 
 ## 3. Higher-Dimensional Projection and Gravitational Analysis <a href="#higher-dimensional-projection-and-gravitational-analysis"></a>
-<font size="1">
-
-> **Section 3 Takeaway:**
-> * *Key idea:* The kutonic system's stability and symmetry can be analyzed through higher-dimensional projections, gravitational force analysis, and energy optimization, leading to a deeper understanding of the geometric properties of light.
-</font>
 
 Knowing the optimum angle between each point on the polyhedral sphere and the center of the sphere is not enough in order to graph the Euclidean coordinates of each point. More derivation was necessary to explore. To do so, I imagined a circle that had all the points along it's edges distributed in a normalized pattern, and then imagined that circle travelling perpendicular into a plane. This results in a 3-dimensional "shadow", and as the points came in contact with the plane, they could be graphed onto a 3-dimensional sphere.
 
@@ -301,146 +281,11 @@ For the purposes of this theory, we must dismiss the assumption that vertices (o
 
 ---
 
-## 4. Minimal Lagrangian Core of UTKH <a href="#utkh-core"></a>
-<font size="1">
-
-> **Section 4 Takeaway:**
-> * *Key idea:* The minimal Lagrangian of UTKH describes the interaction between the electromagnetic four-potential and a kutonic carrier field, leading to predictions of light–light resonance and self-bound kutons.
-</font>
-
-### 4.1. Postulate and Field Content <a href="#postulate-and-field-content"></a>
-
-> **P** – *All energy–momentum resides in the electromagnetic four‑potential $A_\mu$ and in a real scalar $\phi$ that represents the **long‑wavelength kutonic carrier field** (locked‑in angular momentum). A universal coupling $g$ governs their interaction.*
-
-
-| Field | DoF | Gauge? |
-|-------|-----|--------|
-| $A_\mu$ | 2 transverse | local U(1) |
-| $\phi$  | 1 real      | gauge‑singlet |
-
-Lorentz and U(1) symmetries are retained.
+## 4. Proposed Theoretical Mathematical Frameworks <a href="#mathematical-theory"></a>
 
 ---
 
-### 4.2. Minimal Lagrangian <a href="#minimal-lagrangian"></a>
-
-$$
-\boxed{%
-\mathcal L =
--\tfrac14\,F_{\mu\nu}F^{\mu\nu}
-+\tfrac12\,\partial_\mu\phi\,\partial^{\mu}\phi
--\tfrac12\,m_0^{2}\phi^{2}
--g\,\phi\,F_{\mu\nu}\tilde F^{\mu\nu}}
-\tag{1}
-$$
-
-*Definitions*  
-
-$F_{\mu\nu}=\partial_\mu A_\nu-\partial_\nu A_\mu$
-
-$\tilde F^{\mu\nu}=\tfrac12\epsilon^{\mu\nu\alpha\beta}F_{\alpha\beta}$
-
-> **Parameter patch**    
-> Carrier‑field scale $m_0\!\approx\!0$ (coherence length $\gg$ kpc)    
-> Coupling $g = \kappa\sqrt{4\pi G\hbar c}$    
-> Recommended draft value $\kappa = 5\times10^{-3}$    
-> *All cross‑sections below scale as $\kappa^4$.*
-
----
-
-### 4.3. Classical Limits <a href="#classical-limits"></a>
-
-#### 4.3.1. Recovery of Maxwell <a href="#recovery-of-maxwell"></a>
-
-For $|\phi|\ll m_0/g$ or $g\to0$,
-
-$$
-\partial_\nu F^{\nu\mu}=0,
-$$
-
-so standard electrodynamics returns at $\mathcal O(g^{2})$
-
-#### 4.3.2. Inverse-Square Attraction <a href="#inverse-square-attraction"></a>
-
-Tree‑level carrier‑field exchange between two static energy blobs $E_{1,2}$:
-
-$$
-V(r)= -\frac{g^{2}}{4\pi}\,
-      \frac{e^{-m_0 r}}{r}\,
-      \frac{E_1E_2}{c^{4}}.
-$$
-
-Long‑range limit $r\gg m_0^{-1}$:
-
-$$
-G_{\text{eff}}=\frac{g^{2}}{4\pi\hbar c}.
-$$
-
----
-
-### 4.4. Quantum Signature - Photon-Photon Bump <a href="#quantum-signature-photon-photon-bump"></a>
-
-One‑loop amplitude  
-
-$$
-\mathcal M_{\text{UTKH}}
-=\frac{g^{2}s^{2}}{m_0^{2}-s-i\varepsilon}
-\bigl[1+\mathcal O(s/m_0^{2})\bigr],
-$$
-
-centre‑of‑mass energy $W=\sqrt{s}$.
-
-* **Prediction** – Breit–Wigner excess at $W_* = m_0c^{2}$.
-* LHC ultra‑peripheral Pb‑Pb (2024) 95% CL [ATLAS‑γγ 2024]:
-
-$$
-\Delta\sigma_{\gamma\gamma\!\to\!\gamma\gamma}(1\,\text{GeV}) \lt 1.0\times10^{-36}\,\text{cm}^2
-$$
-
-* **UTKH prediction** (with $\kappa=5\times10^{-3}$, reachable with a $\sim$10× luminosity upgrade):
-
-$$
-\Delta\sigma_{\text{UTKH}}\!\approx\!1.6\times10^{-38}\,\text{cm}^2
-$$
-
----
-
-### 4.5. Bound Kuton Solution <a href="#bound-kuton-solution"></a>
-
-A radial Klein–Gordon equation with point‑like self‑source admits a bound state
-when
-
-$$
-gE \gt \frac{\pi\hbar c}{2}
-$$
-
-Plugging $g=\kappa\sqrt{4\pi G\hbar c}$ gives:  
-$$
-E_{\text{min}} \simeq \frac{\pi\hbar c}{2g}\approx \frac{7.6\,\text{MeV}}{\kappa}
-$$
-
-With $\kappa=5\times10^{-3}$, bound kutons appear
-for $E\gtrsim 1.5\,\text{GeV}$, well above atomic scales but
-below current LHC energies.
-
----
-
-### 4.6. 50-Word Capsule
-
-> Starting from (1), Maxwell and Newton re‑emerge as limits; a narrow **light–light resonance** at laboratory energy $E = m_0 c^{2}$ offers a decisive test. The same parameters admit self‑bound kutonic excitations of the carrier field. One high‑luminosity resonance search can falsify—or vindicate—the model.
-
----
-
-## 5. Proposed Theoretical Mathematical Frameworks <a href="#mathematical-theory"></a>
-<font size="1">
-
-> **Section 5 Takeaway:**
-> * *Key idea:* The proposed mathematical frameworks extend the kutonic theory to include harmonic resonance, entanglement, and energy flow alignment, providing a comprehensive model for understanding the interactions between kutonic systems.
-</font>
-
----
-
-### 5.1. Kinetic Harmonic Resonance <a href="#kinetic-harmonic-resonance"></a>
+### 4.1. Kinetic Harmonic Resonance <a href="#kinetic-harmonic-resonance"></a>
 
 In theory, when two or more systems interact, their frequencies may not match exactly. However, if they share a common harmonic relationship (i.e., their frequencies are related by simple ratios), energy transfer between them becomes more efficient. This is reflected in the *kinetic harmonic resonance* (KHR) ratio, which can be used to predict the degree of resonance and energy exchange.
 
@@ -454,7 +299,7 @@ The KHR ratio, $\Psi$, is introduced as a measure of the alignment between the a
 
 ---
 
-### 5.2. Harmonic Entanglement <a href="#harmonic-entanglement"></a>
+### 4.2. Harmonic Entanglement <a href="#harmonic-entanglement"></a>
 
 In theory, when $\Upsilon = 1$, the systems are perfectly entangled, and energy transfer becomes highly efficient. Conversely, as $\Upsilon$ approaches zero, the systems become less correlated, and energy transfer decreases.
 
@@ -470,7 +315,7 @@ The HE equation introduces the concept of entanglement between systems, where $\
 
 ---
 
-### 5.3. Energy Flow Alignment <a href="#energy-flow-alignment"></a>
+### 4.3. Energy Flow Alignment <a href="#energy-flow-alignment"></a>
 
 In theory, when $\Theta = 0$, the energy flow is perfectly aligned with the harmonic structure, allowing for maximum energy transfer efficiency. As $\Theta$ increases, the alignment decreases, and energy transfer becomes less efficient.
 
@@ -486,16 +331,11 @@ The EFA equation describes the alignment of energy flow between interacting syst
 
 ---
 
-## 6. Experimental Predictions <a href="#experimental-predictions"></a>
-<font size="1">
-
-> **Section 6 Takeaway:**
-> * *Key idea:* The experimental predictions derived from UTKH and its mathematical frameworks provide a roadmap for testing the theory through various physical phenomena, including gravitational effects, light-matter interactions, and resonance in atomic systems.
-</font>
+## 5. Experimental Predictions <a href="#experimental-predictions"></a>
 
 ---
 
-### 6.1. Gravitational Effects of Resonating Tuning Forks <a href="#gravitational-effects-of-resonating-tuning-forks-a-href"></a>
+### 5.1. Gravitational Effects of Resonating Tuning Forks <a href="#gravitational-effects-of-resonating-tuning-forks-a-href"></a>
 
 **If UTKH is in fact universal, a pair of vibrating objects should exhibit a small force of attraction to each other:**
 
@@ -513,7 +353,7 @@ The EFA equation describes the alignment of energy flow between interacting syst
 
 ---
 
-### 6.2. Observing Resonance in Prism-Based Light Experiments <a href="#observing-resonance-in-prism-based-light-experiments"></a>
+### 5.2. Observing Resonance in Prism-Based Light Experiments <a href="#observing-resonance-in-prism-based-light-experiments"></a>
 
 Prisms provide a unique opportunity to study the resonance effects of light:
 
@@ -529,7 +369,7 @@ Prisms provide a unique opportunity to study the resonance effects of light:
 
 ---
 
-### 6.3. Polarization and Higher-Dimensional Effects <a href="#polarization-and-higher-dimensional-effects"></a>
+### 5.3. Polarization and Higher-Dimensional Effects <a href="#polarization-and-higher-dimensional-effects"></a>
 
 Polarization studies can reveal the presence of higher-dimensional oscillations:
 
@@ -543,7 +383,7 @@ Polarization studies can reveal the presence of higher-dimensional oscillations:
 
 ---
 
-### 6.4. Light and Conductors <a href="#electricity-experiment-light-and-conductors"></a>
+### 5.4. Light and Conductors <a href="#electricity-experiment-light-and-conductors"></a>
 
 - Use polarized light to illuminate a conductor and measure:
   - Whether the light induces or disrupts current flow.
@@ -551,7 +391,7 @@ Polarization studies can reveal the presence of higher-dimensional oscillations:
 
 ---
 
-### 6.5. Extreme Light-Matter Interactions <a href="#extreme-light-matter-interactions"></a>
+### 5.5. Extreme Light-Matter Interactions <a href="#extreme-light-matter-interactions"></a>
 
 High-intensity laser experiments, or current data from existing experiments can probe the resonance-driven behaviors of light and matter:
 
@@ -568,7 +408,7 @@ High-intensity laser experiments, or current data from existing experiments can 
 
 ---
 
-### 6.6. High-Intensity Optical Vortex-Matter Interactions <a href="#high-intensity-optical-vortex-matter-interactions"></a>
+### 5.6. High-Intensity Optical Vortex-Matter Interactions <a href="#high-intensity-optical-vortex-matter-interactions"></a>
 
 Ongoing experiments with high-intensity optical vortices could probe the possibility/validity of UTKH:
 
@@ -580,7 +420,7 @@ Ongoing experiments with high-intensity optical vortices could probe the possibi
 
 ---
 
-### 6.7. Resonance in Atomic Systems <a href="#chemistry-experiment-resonance-in-atomic-systems"></a>
+### 5.7. Resonance in Atomic Systems <a href="#chemistry-experiment-resonance-in-atomic-systems"></a>
 
 - Shine specific frequencies of light (e.g., lasers) onto molecules or atomic gases and observe:
   - Changes in chemical bonds (e.g., breaking or strengthening).
@@ -588,7 +428,7 @@ Ongoing experiments with high-intensity optical vortices could probe the possibi
 
 ---
 
-### 6.8. Fusion and Fission Harmonic Analysis <a href="#fusion-and-fission-harmonic-analysis"></a>
+### 5.8. Fusion and Fission Harmonic Analysis <a href="#fusion-and-fission-harmonic-analysis"></a>
 
 Nuclear reactions provide a window into the role of harmonic resonance in energy redistribution:
 - **Fusion Predictions:**
@@ -601,20 +441,15 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ---
 
-## 7. Applications to Physics <a href="#applications-to-physics"></a>
-<font size="1">
-
-> **Section 7 Takeaway:**
-> * *Key idea:* The Universal Kutonic Harmonic (UTKH) theory provides a comprehensive framework for understanding fundamental physical phenomena, including relativity, particle interactions, atomic structures, and cosmological observations, through the lens of harmonic resonance and kutonic energy flows.
-</font>
+## 6. Applications to Physics <a href="#applications-to-physics"></a>
 
 ---
 
-### 7.1. Relativity and Cosmology <a href="#relativity-and-cosmology"></a>
+### 6.1. Relativity and Cosmology <a href="#relativity-and-cosmology"></a>
 
 ---
 
-#### 7.1.1. Revisiting the Speed of Light <a href="#revisiting-the-speed-of-light"></a>
+#### 6.1.1. Revisiting the Speed of Light <a href="#revisiting-the-speed-of-light"></a>
 
 - UTKH reinterprets the speed of light as the maximum resonance velocity of energy flows. This explains:
   - Light's invariant speed in a vacuum.
@@ -623,20 +458,20 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ---
 
-### 7.2. Particles and Anti-Particles <a href="#particles-and-anti-particles"></a>
+### 6.2. Particles and Anti-Particles <a href="#particles-and-anti-particles"></a>
 
 - UTKH does not see these as "different" other than the fact that their oscillations are the inverse of each other. This explains both entanglement, and why when combined they simply cease to exist - they are inherently mutually destructive interference patterns of each others' orbital frequencies.
 
 ---
 
-#### 7.2.1. A Unified Explanation for Dark Matter and Dark Energy <a href="#a-unified-explanation-for-dark-matter-and-dark-energy"></a>
+#### 6.2.1. A Unified Explanation for Dark Matter and Dark Energy <a href="#a-unified-explanation-for-dark-matter-and-dark-energy"></a>
 
 - **Dark Matter:** Resonant energy flows that do not emit detectable radiation may account for the gravitational effects attributed to dark matter.
 - **Dark Energy:** The universe's accelerating expansion could reflect the outward projection of large-scale harmonic energy flows.
 
 ---
 
-#### 7.2.2. A New Understanding of Black Holes <a href="#a-new-understanding-of-black-holes"></a>
+#### 6.2.2. A New Understanding of Black Holes <a href="#a-new-understanding-of-black-holes"></a>
 
 - UTKH does not see black holes as singularities, but rather complex co-orbital systems whose outer layer consists of lower-frequency harmonics.
   - An outer layer of co-orbitals of lower-frequency harmonics would absorb energy emitted from the core, resulting in the lack of emitted light
@@ -644,7 +479,7 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ---
 
-#### 7.2.3. Implications for Redshift <a href="#implications-for-redshift"></a>
+#### 6.2.3. Implications for Redshift <a href="#implications-for-redshift"></a>
 
 - UTKH offers an alternative explanation for redshift:
   - As light travels across vast distances, it interacts with the resonance fields of cosmic structures, causing a gradual energy loss and wavelength elongation.
@@ -652,11 +487,11 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ---
 
-### 7.3. Atomic Elements and Resonance <a href="#atomic-elements-and-resonance"></a>
+### 6.3. Atomic Elements and Resonance <a href="#atomic-elements-and-resonance"></a>
 
 ---
 
-#### 7.3.1. How Resonance Creates Atomic Elements <a href="#how-resonance-creates-atomic-elements"></a>
+#### 6.3.1. How Resonance Creates Atomic Elements <a href="#how-resonance-creates-atomic-elements"></a>
 
 - **Mass and Particles as Resonances:**
   - Mass and particles emerge from stable kutonic energy systems.
@@ -664,14 +499,14 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ---
 
-#### 7.3.2. Light Resonance and Atomic Structure <a href="#light-resonance-and-atomic-structure"></a>
+#### 6.3.2. Light Resonance and Atomic Structure <a href="#light-resonance-and-atomic-structure"></a>
 
 - Each atomic element corresponds to a unique resonance state of co-orbital energy flows.
 - The number of protons, neutrons, and electrons in an atom reflects the harmonic stability of these energy patterns.
 
 ---
 
-#### 7.3.3. Key Features of Atomic Resonance <a href="#key-features-of-atomic-resonance"></a>
+#### 6.3.3. Key Features of Atomic Resonance <a href="#key-features-of-atomic-resonance"></a>
 
 1. **Protons and Neutrons:**
    - Protons and neutrons are stable co-orbital systems of light flows in tightly bound resonances.
@@ -686,11 +521,11 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ---
 
-### 7.4. Molecules and Chemical Bonds <a href="#molecules-and-chemical-bonds"></a>
+### 6.4. Molecules and Chemical Bonds <a href="#molecules-and-chemical-bonds"></a>
 
 ---
 
-#### 7.4.1. Chemical Bonds as Resonance Alignments <a href="#chemical-bonds-as-resonance-alignments"></a>
+#### 6.4.1. Chemical Bonds as Resonance Alignments <a href="#chemical-bonds-as-resonance-alignments"></a>
 
 1. **Covalent Bonds:**
    - Covalent bonds form when two atomic systems align their outer electron resonance patterns, creating a shared, stable energy flow.
@@ -705,13 +540,13 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 
 ---
 
-### 7.5. Electricity <a href="#electricity"></a>
+### 6.5. Electricity <a href="#electricity"></a>
 
 Electricity is traditionally defined as the flow of electrons through a conductor. UTKH reframes this as the organized movement of co-orbital energy systems (electrons) through a system of harmonically resonant co-orbital systems.
 
 ---
 
-#### 7.5.1. Key Features of Electricity
+#### 6.5.1. Key Features of Electricity
 
 1. **Electric Current as Directed Energy Flow:**
    - In UTKH, electrons flow as guided energy packets, maintaining their co-orbital structure while transferring their resonance through the atomic lattice of a conductor.
@@ -733,11 +568,11 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ---
 
-### 7.6. Nuclear Reactions: Fission and Fusion <a href="#nuclear-reactions-fission-and-fusion"></a>
+### 6.6. Nuclear Reactions: Fission and Fusion <a href="#nuclear-reactions-fission-and-fusion"></a>
 
 ---
 
-#### 7.6.1. Energy Redistribution and Resonance Shifts <a href="#energy-redistribution-and-resonance-shifts"></a>
+#### 6.6.1. Energy Redistribution and Resonance Shifts <a href="#energy-redistribution-and-resonance-shifts"></a>
 
 - In UTKH, nuclear reactions involve the reorganization of co-orbital systems:
   - **Fission:** The splitting of a stable co-orbital system, such as a heavy nucleus, disrupts its harmonic state, releasing the stored resonance energy.
@@ -745,7 +580,7 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ---
 
-#### 7.6.2. Implications for Nuclear Stability <a href="#implications-for-nuclear-stability"></a>
+#### 6.6.2. Implications for Nuclear Stability <a href="#implications-for-nuclear-stability"></a>
 
 - The stability of an atomic nucleus reflects its internal harmonic balance:
   - Heavy nuclei are resonant but prone to destabilization, leading to fission.
@@ -753,32 +588,27 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ---
 
-#### 7.6.3. The Role of Resonance in Measurement and Collapse <a href="#the-role-of-resonance-in-measurement-and-collapse"></a>
+#### 6.6.3. The Role of Resonance in Measurement and Collapse <a href="#the-role-of-resonance-in-measurement-and-collapse"></a>
 
 - Measurement disrupts a system's resonance, forcing it to stabilize into a specific harmonic state. This explains the collapse of the wavefunction in quantum mechanics as a natural outcome of resonance stabilization.
 
 ---
 
-#### 7.6.4. Impact of High-Energy Directional Light with Stable Orbital Systems (Atoms) <a href="#impact-of-high-energy-directional-light-with-stable-orbital-systems-atoms-a-href"></a>
+#### 6.6.4. Impact of High-Energy Directional Light with Stable Orbital Systems (Atoms) <a href="#impact-of-high-energy-directional-light-with-stable-orbital-systems-atoms-a-href"></a>
 
 - When high-energy directional photons strike or approach the core of an atom, that energy is then instantly transferred into angular momentum in equal-but-opposite directions, resulting in electron-positron pair observations.
 
 ---
 
-## 8. Applications to Technology <a href="#applications-to-technology"></a>
-<font size="1">
-
-> **Section 8 Takeaway:**
-> * *Key idea:* The Universal Theory of Kutonic Harmonics (UTKH) has the potential to revolutionize technology across various fields, including energy generation, materials science, medicine, and quantum computing.
-</font>
+## 7. Applications to Technology <a href="#applications-to-technology"></a>
 
 ---
 
-### 8.1. Resonance-Based Materials Science <a href="#resonance-based-materials-science"></a>
+### 7.1. Resonance-Based Materials Science <a href="#resonance-based-materials-science"></a>
 
 ---
 
-#### 8.1.1. Designing Superconductors and Resonant Structures <a href="#designing-superconductors-and-resonant-structures"></a>
+#### 7.1.1. Designing Superconductors and Resonant Structures <a href="#designing-superconductors-and-resonant-structures"></a>
 
 - **Superconductivity:** UTKH suggests that superconductors achieve their properties by aligning electron energy flows into stable harmonic resonances, minimizing resistance.
   - **Implication:** By tuning materials to enhance resonance alignment, we could design superconductors with higher critical temperatures and improved efficiency.
@@ -789,11 +619,11 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ---
 
-### 8.2. Medical Implications <a href="#medical-implications"></a>
+### 7.2. Medical Implications <a href="#medical-implications"></a>
 
 ---
 
-#### 8.2.1. Understanding Molecular Resonance in Biological Systems <a href="#understanding-molecular-resonance-in-biological-systems"></a>
+#### 7.2.1. Understanding Molecular Resonance in Biological Systems <a href="#understanding-molecular-resonance-in-biological-systems"></a>
 
 - **Biological Resonance:**
   - UTKH redefines molecular interactions as resonance-driven phenomena, suggesting that:
@@ -804,7 +634,7 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ---
 
-#### 8.2.2. Impacts on Protein Folding and Cellular Communication <a href="#impacts-on-protein-folding-and-cellular-communication"></a>
+#### 7.2.2. Impacts on Protein Folding and Cellular Communication <a href="#impacts-on-protein-folding-and-cellular-communication"></a>
 
 - **Protein Folding:**
   - Misfolded proteins (associated with diseases like Alzheimer's) could be understood as disruptions in harmonic alignment. Correcting these disruptions might restore proper function.
@@ -815,11 +645,11 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ---
 
-### 8.3. Quantum Computing <a href="#quantum-computing"></a>
+### 7.3. Quantum Computing <a href="#quantum-computing"></a>
 
 ---
 
-#### 8.3.1. Resonance as the Basis for Qubit Stability <a href="#resonance-as-the-basis-for-qubit-stability"></a>
+#### 7.3.1. Resonance as the Basis for Qubit Stability <a href="#resonance-as-the-basis-for-qubit-stability"></a>
 
 - **Qubits and Harmonics:**
   - Quantum computing relies on the stability of qubits, which are highly sensitive to environmental disturbances. UTKH suggests that:
@@ -830,7 +660,7 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ---
 
-### 8.4. Addressing Criticisms <a href="#addressing-criticisms"></a>
+### 7.4. Addressing Criticisms <a href="#addressing-criticisms"></a>
 
 UTKH expects to face questions and challenges, particularly around three key areas:
 
@@ -845,12 +675,9 @@ UTKH expects to face questions and challenges, particularly around three key are
 
 ---
 
-## 9. Observable Parallels in Nature <a href="#minimizing-energy-instability"></a>
-<font size="1">
+## 8. Observable Parallels in Nature <a href="#minimizing-energy-instability"></a>
 
-> **Section 9 Takeaway:**
-> * *Key idea:* The Universal Theory of Kutonic Harmonics (UTKH) draws parallels with natural phenomena, suggesting that resonance-driven dynamics govern stability across various systems, from atomic structures to celestial mechanics.
-</font>
+---
 
 While less of a theory and more of a poetic parallel, Nature favors configurations that minimize instability, a principle reflected in phenomena ranging from atomic orbitals to planetary systems. Resonance achieves this by:
 - Aligning energy flows into harmonic patterns.
@@ -859,7 +686,7 @@ UTKH extends this principle universally, proposing that all stable systems — f
 
 ---
 
-### 9.1. Symmetry and Harmonic Structures <a href="#symmetry-and-harmonic-structures"></a>
+### 8.1. Symmetry and Harmonic Structures <a href="#symmetry-and-harmonic-structures"></a>
 
 Symmetry plays a critical role in resonance:
 - Harmonic systems naturally align with the symmetries of their environment, leading to the formation of predictable patterns (e.g., atomic structures, crystalline lattices).
@@ -867,13 +694,13 @@ Symmetry plays a critical role in resonance:
 
 ---
 
-### 9.2. Parallels with Well Known Physical Properties <a href="#applications-to-well-known-properties"></a>
+### 8.2. Parallels with Well Known Physical Properties <a href="#applications-to-well-known-properties"></a>
 
 UTKH proposes that resonance-based attraction underpins phenomena traditionally attributed to mass and gravity. Several natural systems demonstrate behaviors that align with this principle, suggesting that kuton resonance plays a universal role in stabilizing dynamic systems.
 
 ---
 
-#### 9.2.1. Vortex Behavior in Fluid Dynamics <a href="#vortex-behavior-in-fluid-dynamics"></a>
+#### 8.2.1. Vortex Behavior in Fluid Dynamics <a href="#vortex-behavior-in-fluid-dynamics"></a>
 
 In fluid dynamics, vortices exhibit behaviors that resemble the co-orbital attraction described in UTKH:
 - **Mutual Attraction and Merging:**
@@ -884,7 +711,7 @@ In fluid dynamics, vortices exhibit behaviors that resemble the co-orbital attra
 
 ---
 
-#### 9.2.2. Orbital Resonances in Celestial Systems <a href="#orbital-resonances-in-celestial-systems"></a>
+#### 8.2.2. Orbital Resonances in Celestial Systems <a href="#orbital-resonances-in-celestial-systems"></a>
 
 Celestial mechanics provides clear examples of resonance-driven attraction:
 
@@ -909,7 +736,7 @@ Celestial mechanics provides clear examples of resonance-driven attraction:
 
 ---
 
-#### 9.2.3. Electromagnetic Dipole Interactions <a href="#electromagnetic-dipole-interactions"></a>
+#### 8.2.3. Electromagnetic Dipole Interactions <a href="#electromagnetic-dipole-interactions"></a>
 
 Electromagnetic systems exhibit behaviors consistent with harmonic resonance:
 
@@ -921,7 +748,7 @@ Electromagnetic systems exhibit behaviors consistent with harmonic resonance:
 
 ---
 
-#### 9.2.4. Biological Swarming and Collective Behaviors <a href="#biological-swarming-and-collective-behaviors"></a>
+#### 8.2.4. Biological Swarming and Collective Behaviors <a href="#biological-swarming-and-collective-behaviors"></a>
 
 Resonance-like behaviors also appear in biological systems:
 
@@ -942,7 +769,7 @@ These natural phenomena illustrate how systems in motion naturally stabilize thr
 
 ---
 
-### 9.3. Parallels with Emergent Theories <a href="#parallels-with-emergent-theories"></a>
+### 8.2.5. Parallels with Emergent Theories <a href="#parallels-with-emergent-theories"></a>
 
 UTKH redefines gravity as a harmonic interaction between kinetic systems, giving a predictable and/or measurable framework for gravitons, and lends to new theories from the subatomic to deep space. It provides new theories to questions previously unanswered, it simultaneously coincides with existing known phenomena and emergent theories, some of which UTKH gives new hypotheses:
 
@@ -976,7 +803,7 @@ UTKH redefines gravity as a harmonic interaction between kinetic systems, giving
 
 ---
 
-### 9.4. Bridging Microscopic and Macroscopic Physics <a href="#bridging-microscopic-and-macroscopic-physics"></a>
+### 8.4. Bridging Microscopic and Macroscopic Physics <a href="#bridging-microscopic-and-macroscopic-physics"></a>
 
 The principles of UTKH bridge the divide between quantum mechanics and classical physics:
 
@@ -986,16 +813,11 @@ The principles of UTKH bridge the divide between quantum mechanics and classical
 
 ---
 
-## 10. Philosophical and Metaphysical Implications <a href="#philosophical-and-metaphysical-implications"></a>
-<font size="1">
-
-> **Section 10 Takeaway:**
-> * *Key idea:* The Universal Theory of Kutonic Harmonics (UTKH) offers profound philosophical implications, suggesting that resonance is the fundamental organizing principle of the universe, bridging classical and quantum physics, and redefining our understanding of reality.
-</font>
+## 9. Philosophical and Metaphysical Implications <a href="#philosophical-and-metaphysical-implications"></a>
 
 ---
 
-### 10.1. Resonance as the Universe's Organizing Principle <a href="#resonance-as-the-universes-organizing-principle"></a>
+### 9.1. Resonance as the Universe's Organizing Principle <a href="#resonance-as-the-universes-organizing-principle"></a>
 
 UTKH proposes that resonance is the primary organizing principle of the universe:
 - **From Chaos to Order:**
@@ -1007,7 +829,7 @@ UTKH proposes that resonance is the primary organizing principle of the universe
 
 ---
 
-### 10.2. Bridging Classical Physics and Quantum Mechanics <a href="#bridging-classical-physics-and-quantum-mechanics"></a>
+### 9.2. Bridging Classical Physics and Quantum Mechanics <a href="#bridging-classical-physics-and-quantum-mechanics"></a>
 
 UTKH bridges the divide between classical and quantum physics:
 - **Classical Scale:**
@@ -1019,7 +841,7 @@ UTKH bridges the divide between classical and quantum physics:
 
 ---
 
-### 10.3. Implications for Understanding the Nature of Reality <a href="#implications-for-understanding-the-nature-of-reality"></a>
+### 9.3. Implications for Understanding the Nature of Reality <a href="#implications-for-understanding-the-nature-of-reality"></a>
 
 UTKH redefines fundamental concepts such as light, mass, and energy:
 - **Dynamic Existence:**
@@ -1031,7 +853,7 @@ UTKH redefines fundamental concepts such as light, mass, and energy:
 
 ---
 
-### 10.4. Creation Narratives <a href="#let-there-be-light"></a>
+### 9.4. Creation Narratives <a href="#let-there-be-light"></a>
 
 **UTKH stands independently as a scientific theory.**
 
@@ -1073,7 +895,7 @@ However, since it introduces a framework where light serves as the foundational 
 
 ---
 
-#### 10.4.1. **Philosophical Reflection**
+#### 9.4.1. **Philosophical Reflection**
 
 1. **Universal Metaphor:**
    - The idea of light as both the origin and substrate of the universe resonates across scientific, philosophical, and spiritual domains.
@@ -1081,7 +903,7 @@ However, since it introduces a framework where light serves as the foundational 
 
 ---
 
-## 11. Conclusion <a href="#conclusion"></a>
+## 10. Conclusion <a href="#conclusion"></a>
 
 UTKH is built on two core principles:
 1. **Kinetic Motion:** Everything in the universe arises from light, which is the primordial form of kinetic energy. All other phenomena in the universe are manifestations of this energy in different patterns of motion.
@@ -1095,7 +917,7 @@ The theory's key contributions include:
 
 ---
 
-### 11.1. Call to Action: Experimental Validation and Collaboration <a href="#call-to-action-experimental-validation-and-collaboration"></a>
+### 10.1. Call to Action: Experimental Validation and Collaboration <a href="#call-to-action-experimental-validation-and-collaboration"></a>
 
 The path forward for UTKH lies in rigorous testing, collaboration, and refinement:
 1. **Experimental Validation:**
@@ -1113,7 +935,7 @@ The path forward for UTKH lies in rigorous testing, collaboration, and refinemen
 
 ---
 
-### 11.2. Final Thoughts <a href="#final-thoughts"></a>
+### 10.2. Final Thoughts <a href="#final-thoughts"></a>
 
 While UTKH is in its infancy, its potential to transform our understanding of the universe is vast. Through collaboration, experimentation, and exploration, we can potentially validate and refine this theory, unlocking new possibilities for science, technology, and humanity.
 
@@ -1121,7 +943,7 @@ Let this document serve as an invitation to the scientific community: to questio
 
 ---
 
-### 11.3. Questions, Comments, Suggestions, and Criticisms Welcome <a href="#questions-comments-suggestions-and-criticisms-welcome"></a>
+### 10.3. Questions, Comments, Suggestions, and Criticisms Welcome <a href="#questions-comments-suggestions-and-criticisms-welcome"></a>
 
 I welcome constructive feedback and collaboration to refine and validate this ambitious vision for understanding the universe.
 
@@ -1129,7 +951,7 @@ Contact the author: [GitHub](https://github.com/joshmorgan1000/UTKH) or [Email](
 
 ---
 
-### 11.4. Special Thanks <a href="#special-thanks"></a>
+### 10.4. Special Thanks <a href="#special-thanks"></a>
 
 I would like to give a shout-out to the /r/AskPhysics community for their help and support. It is a breath of fresh air to be welcomed into such a philosophical group, and gives me hope for humanity. Without them, I never would have done the web searches necessary to lead me to the experimental data into things like photon-photon particle synthesis, optical vortices, or the observed gravitational effects of sonic oscillations... things I were afraid to be magical thinking.
 
@@ -1158,7 +980,7 @@ As far as prophecies go, I suppose we shall see which predictions are correct as
 
 ---
 
-## 12. Extra Special Thanks
+## 11. Extra Special Thanks
 
 **I would especially, and unironically, like to thank all my former bandmates, friends, and fans. There is no appropriate way on this medium for me to express my gratitude for putting up with this drivel over the past few decades.**
 
@@ -1166,9 +988,9 @@ We *are* energy in motion.
 
 ---
 
-### 12.1. Shared under the MIT License (MIT)
+### 11.1. Shared under the MIT License (MIT)
 
-<sub>Copyright © 2024-2025 Josh Morgan</sub>
+<sub>Copyright © 2024-2026 Josh Morgan</sub>
 
 <sub>Permission is hereby granted, free of charge, to any person obtaining a copy of this document and associated artifacts (the "Theory"), to deal in the Theory without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Theory, and to permit persons to whom the Theory is furnished to do so, subject to the following conditions:</sub>
 
@@ -1186,7 +1008,7 @@ OTHER DEALINGS IN THE THEORY.</sub>
 
 ---
 
-## 13. References <a href="#references"></a>
+## 12. References <a href="#references"></a>
 <font size="1">
 
 [1] L. de Broglie, “Recherches sur la Théorie des Quanta,” PhD Thesis, Masson, Paris, 1924.  
