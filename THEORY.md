@@ -4,23 +4,23 @@
 
 ## 1. Abstract <a href="#abstract"></a>
 
-Building upon previous work and scientific studies spanning from De Broglie, to Einstein, to modern day theories and experimental data, this article presents contributions within the framework of existing unified light-field theories. First, it hypothesizes that harmonic resonation is the fundamental cause of emergent properties and forces, supported by sonic wave experiments and observations of gravity and photon-mass interactions. Second, it attempts to present a novel and derivable geometric formula which can serve as a foundational mathematical framework to predict future conditions of these potential photon co-orbital patterns. When subsequently applied to existing known priciples, applicable phenomena range in scale from the subquantum to the cosmic. Finally, it provides references to observed and recorded data to provide evidence that photons in subquantum orbital patterns are consistent with the known observable properties of quantum particles and behaviors.
+Building upon previous work and scientific studies spanning from De Broglie, to Einstein, to modern day theories and experimental data, this article presents contributions within the framework of existing unified light-field theories. First, it hypothesizes that harmonic resonation is the fundamental cause of emergent properties and forces, supported by sonic wave experiments and observations of gravity and photon-mass interactions. Second, it attempts to present a novel and derivable geometric formula which can serve as a foundational mathematical framework to predict future conditions of these potential photon co-orbital patterns. When subsequently applied to existing known principles, applicable phenomena range in scale from the subquantum to the cosmic. Finally, it provides references to observed and recorded data to provide evidence that photons in subquantum orbital patterns are consistent with the known observable properties of quantum particles and behaviors.
 
 ---
 
 ## 2. Introduction <a href="#introduction"></a>
 
-The hypothesis that orbital light patterns is a universal property underpinning the universe is not new<sup>[1](https://www.scirp.org/reference/referencespapers?referenceid=3245741),[2](https://www.scirp.org/journal/paperinformation?paperid=68794),[3](https://www.scirp.org/journal/paperinformation?paperid=116775),[4](https://www.scirp.org/journal/paperinformation?paperid=129567),[16](https://arxiv.org/abs/2101.11923)</sup>. General Relativity's energy-mass equivalence has been observed well enough at this point to call it a law of nature<sup>[5](https://www.scirp.org/reference/referencespapers?referenceid=2264162),[6](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory)</sup>. Relationships between the hypothetical angular speed of light and Planck's Constant have been well established<sup>[7](https://www.sciengine.com/EPJH/doi/10.1140/epjh/e2017-80002-5;JSESSIONID=80c7a6d3-30cc-433f-b6c2-7d3ec322466b),[8](https://www.semanticscholar.org/paper/Is-there-a-connection-between-Planck%27s-constant%2C-of-Danenhower/9d1b4fe755abe75dde2d7388b632446e5b028717)</sup>, hinting at a possible connection that could unite GR with Quantum Mechanics. There are many indications that gravity is an emergent property<sup>[10](https://espace.library.uq.edu.au/view/UQ:395220),[11](https://ui.adsabs.harvard.edu/abs/1998EPJC....5..651A/abstract)</sup>. The spacial geometry of the effects of sonic resonance align with the curvature of spacetime just due to the inverse-square law, and recent experimental observations have indicated a direct, integral relationship between resonance and gravitational forces<sup>[9](https://ui.adsabs.harvard.edu/abs/2023PhFl...35k6605B/abstract),[12](https://arxiv.org/abs/2201.03420),[13](https://arxiv.org/abs/2301.01644),[14](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034004),[15](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.084501)</sup>. We know that light can used to directly sythensize massive particles<sup>[33](https://www.nature.com/articles/s41598-019-50348-0),[34](https://arxiv.org/abs/0911.4952)</sup>. Additionally, with the recent discovery of orbital light vortex experimentations it has been shown that there are clear, yet unexplained photonic properties<sup>[17](https://arxiv.org/html/2408.02390v1),[20](https://pubs.aip.org/aip/apr/article-abstract/8/4/041312/979966/Orbital-angular-momentum-of-light-for?redirectedFrom=fulltext),[21](https://www.researchgate.net/publication/220029943_An_experiment_to_observe_the_intensity_and_phase_structure_of_Laguerre-Gaussian_laser_modes),[25](https://pubmed.ncbi.nlm.nih.gov/25224763/)</sup>. This experimental data has opened up new avenues of proofs and speculations, such as light having angular momentum<sup>[24](https://www.researchgate.net/publication/301577086_On_the_natures_of_the_spin_and_orbital_parts_of_optical_angular_momentum),[23](https://www.sciencedirect.com/science/article/abs/pii/003040189290424P)</sup>, exhibiting harmonic properties<sup>[22](https://www.researchgate.net/publication/235512551_Second-harmonic_generation_and_the_conservation_of_orbital_angular_momentum_with_high-order_Laguerre-Gaussian_modes),[26](https://www.researchgate.net/publication/360163135_Spatial_and_spectral_variations_of_high-order_harmonics_generated_in_noble_gases),[27](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.3c01417),[30](https://pubs.aip.org/aip/jap/article-abstract/129/4/043103/1064753/Distinction-in-resonance-properties-of-the-atomic?redirectedFrom=fulltext),[31](https://www.mdpi.com/2304-6732/10/7/854),[32](https://www.mdpi.com/2304-6732/10/10/1126)</sup>, effecting electric conductivity<sup>[28](https://www.mdpi.com/2079-4991/12/23/4228)</sup>, and even resulting in particle synthesisis<sup>[35](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404564)</sup>. Without assuming that light is what makes up larger particles, one must use have a strong imagination.
+The hypothesis that orbital light patterns is a universal property underpinning the universe is not new<sup>[1](https://www.scirp.org/reference/referencespapers?referenceid=3245741),[2](https://www.scirp.org/journal/paperinformation?paperid=68794),[3](https://www.scirp.org/journal/paperinformation?paperid=116775),[4](https://www.scirp.org/journal/paperinformation?paperid=129567),[16](https://arxiv.org/abs/2101.11923)</sup>. General Relativity's energy-mass equivalence has been observed well enough at this point to call it a law of nature<sup>[5](https://www.scirp.org/reference/referencespapers?referenceid=2264162),[6](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory)</sup>. Relationships between the hypothetical angular speed of light and Planck's Constant have been well established<sup>[7](https://www.sciengine.com/EPJH/doi/10.1140/epjh/e2017-80002-5;JSESSIONID=80c7a6d3-30cc-433f-b6c2-7d3ec322466b),[8](https://www.semanticscholar.org/paper/Is-there-a-connection-between-Planck%27s-constant%2C-of-Danenhower/9d1b4fe755abe75dde2d7388b632446e5b028717)</sup>, hinting at a possible connection that could unite GR with Quantum Mechanics. There are many indications that gravity is an emergent property<sup>[10](https://espace.library.uq.edu.au/view/UQ:395220),[11](https://ui.adsabs.harvard.edu/abs/1998EPJC....5..651A/abstract)</sup>. The spacial geometry of the effects of sonic resonance align with the curvature of spacetime just due to the inverse-square law, and recent experimental observations have indicated a direct, integral relationship between resonance and gravitational forces<sup>[9](https://ui.adsabs.harvard.edu/abs/2023PhFl...35k6605B/abstract),[12](https://arxiv.org/abs/2201.03420),[13](https://arxiv.org/abs/2301.01644),[14](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034004),[15](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.084501)</sup>. We know that light can used to directly synthesize massive particles<sup>[33](https://www.nature.com/articles/s41598-019-50348-0),[34](https://arxiv.org/abs/0911.4952)</sup>. Additionally, with the recent discovery of orbital light vortex experimentations it has been shown that there are clear, yet unexplained photonic properties<sup>[17](https://arxiv.org/html/2408.02390v1),[20](https://pubs.aip.org/aip/apr/article-abstract/8/4/041312/979966/Orbital-angular-momentum-of-light-for?redirectedFrom=fulltext),[21](https://www.researchgate.net/publication/220029943_An_experiment_to_observe_the_intensity_and_phase_structure_of_Laguerre-Gaussian_laser_modes),[25](https://pubmed.ncbi.nlm.nih.gov/25224763/)</sup>. This experimental data has opened up new avenues of proofs and speculations, such as light having angular momentum<sup>[24](https://www.researchgate.net/publication/301577086_On_the_natures_of_the_spin_and_orbital_parts_of_optical_angular_momentum),[23](https://www.sciencedirect.com/science/article/abs/pii/003040189290424P)</sup>, exhibiting harmonic properties<sup>[22](https://www.researchgate.net/publication/235512551_Second-harmonic_generation_and_the_conservation_of_orbital_angular_momentum_with_high-order_Laguerre-Gaussian_modes),[26](https://www.researchgate.net/publication/360163135_Spatial_and_spectral_variations_of_high-order_harmonics_generated_in_noble_gases),[27](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.3c01417),[30](https://pubs.aip.org/aip/jap/article-abstract/129/4/043103/1064753/Distinction-in-resonance-properties-of-the-atomic?redirectedFrom=fulltext),[31](https://www.mdpi.com/2304-6732/10/7/854),[32](https://www.mdpi.com/2304-6732/10/10/1126)</sup>, effecting electric conductivity<sup>[28](https://www.mdpi.com/2079-4991/12/23/4228)</sup>, and even resulting in particle synthesisis<sup>[35](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404564)</sup>. Without assuming that light is what makes up larger particles, one must use have a strong imagination.
 
-To say that the implications and scope of this theory are vast may be an understatement. Applying the theory and proposed functions and equations, in conjunction with Newtonian mechanics, the motion of linear and dynamic systems, waveform analysis, harmonic principles, and other well-established domains - multiply into a number of combined potential applications far too numerous for a single publication. The goal is to present the concepts topologically, yet rigorously, while presenting the derived mathematical and physically observed evidential support. The paper also, although unconventual in a scientific context, finishes with some philosophical and natural parallels. If correct, it has the potential for unique testable predictions to arise, new advancements in technology, and give new explanations to many long-standing questions our current frameworks leave unanswered.
+To say that the implications and scope of this theory are vast may be an understatement. Applying the theory and proposed functions and equations, in conjunction with Newtonian mechanics, the motion of linear and dynamic systems, waveform analysis, harmonic principles, and other well-established domains - multiply into a number of combined potential applications far too numerous for a single publication. The goal is to present the concepts topologically, yet rigorously, while presenting the derived mathematical and physically observed evidential support. The paper also, although unconventional in a scientific context, finishes with some philosophical and natural parallels. If correct, it has the potential for unique testable predictions to arise, new advancements in technology, and give new explanations to many long-standing questions our current frameworks leave unanswered.
 
-The universal theory proposed in this paper begins with the assumption that all foundational properties of the universe arise from specific patterns formed from the transformation of the directional momentum of light into angular velocity, e.g. kinetic energy, into levels consistent with mass-energy equivalence. Sythesis of massive particles from light is a well observed phenomena, yet one that is interpreted differently by the mainstream. UTKH posits that emergent properties are founded on systems of different orbital light patterns. These systems are described as stable patterns of orbital photons that exhibit and respond to resonant and harmonic<sup>[29](https://pubs.aip.org/aip/jap/article-abstract/130/1/013101/158518/Investigation-of-high-harmonic-generation-from?redirectedFrom=fulltext)</sup> frequencies from surrounding systems. The theory of these configurations is no more speculative than photon spheres, with the exception that it extends the theoretical configuration beyond black holes, applies it at all scales of physical nature from the subquantum to cosmic, and an elegent and consistent explanation for many of the mysteries of our universe.
+The universal theory proposed in this paper begins with the assumption that all foundational properties of the universe arise from specific patterns formed from the transformation of the directional momentum of light into angular velocity, e.g. kinetic energy, into levels consistent with mass-energy equivalence. Synthesis of massive particles from light is a well observed phenomena, yet one that is interpreted differently by the mainstream. UTKH posits that emergent properties are founded on systems of different orbital light patterns. These systems are described as stable patterns of orbital photons that exhibit and respond to resonant and harmonic<sup>[29](https://pubs.aip.org/aip/jap/article-abstract/130/1/013101/158518/Investigation-of-high-harmonic-generation-from?redirectedFrom=fulltext)</sup> frequencies from surrounding systems. The theory of these configurations is no more speculative than photon spheres, with the exception that it extends the theoretical configuration beyond black holes, applies it at all scales of physical nature from the subquantum to cosmic, and an elegant and consistent explanation for many of the mysteries of our universe.
 
-While the theory may not necessarily assert that photons are a particle, it is useful for conceptual, mathematical, and geometric reasons to quantize these most basic states of the described systems (or a kuton) as a set of photons in mutual co-orbit - while not necessarily quantizing said configuration specifically. It assumes that light's gravitational effects equal the energy of its momentum, but even then such a hypothetical system is subquantum in scale. However, since this theory makes the assumption that resonant harmonics are what give rise to gravitational and other such forces, it is necessary to assume that photons exhibit a higher-dimensional oscillatory property, so that such a condition can exist. This is a concept common, albeit differently interpreted by quantum mechanics. It is also echoed by the hyperdimensional simplicial set geometry used to derive the equations proposed. To state in a different way, photons must exhibit a force of attraction to each other in order to be in a hypothetical state of co-orbit. If we assume that the properties of resonance are the genesis of such forces based on GR-scale experiments, light must also have this property. That is in and of itself also not a novel idea, but by extending it to the relation between light, matter, and the underpinnings of quantum mechanics, it explains why we can observe partical-wave duality in quantum-level electron-positron pair experiments and entanglement. While the hypothetical scale of kutonic systems are sub-quantum, the hypothetical energy levels are not, and in fact are confirmed by general relativity. Since UTKH views mass, gravity, and other forces as emergent phenomena, the assumed scale of this condition is not as important as much as its geometrical configurations of momentum and potential effects of those forces on nearby systems, as well as the amplification of the forces of these systems in ensemble, resulting in cosmic-level forces that all fundamentally originate from subquantum events, and all following the consistent and intuitive laws of our observable universe.
+While the theory may not necessarily assert that photons are a particle, it is useful for conceptual, mathematical, and geometric reasons to quantize these most basic states of the described systems (or a kuton) as a set of photons in mutual co-orbit - while not necessarily quantizing said configuration specifically. It assumes that light's gravitational effects equal the energy of its momentum, but even then such a hypothetical system is subquantum in scale. However, since this theory makes the assumption that resonant harmonics are what give rise to gravitational and other such forces, it is necessary to assume that photons exhibit a higher-dimensional oscillatory property, so that such a condition can exist. This is a concept common, albeit differently interpreted by quantum mechanics. It is also echoed by the hyperdimensional simplicial set geometry used to derive the equations proposed. To state in a different way, photons must exhibit a force of attraction to each other in order to be in a hypothetical state of co-orbit. If we assume that the properties of resonance are the genesis of such forces based on GR-scale experiments, light must also have this property. That is in and of itself also not a novel idea, but by extending it to the relation between light, matter, and the underpinnings of quantum mechanics, it explains why we can observe particle-wave duality in quantum-level electron-positron pair experiments and entanglement. While the hypothetical scale of kutonic systems are sub-quantum, the hypothetical energy levels are not, and in fact are confirmed by general relativity. Since UTKH views mass, gravity, and other forces as emergent phenomena, the assumed scale of this condition is not as important as much as its geometrical configurations of momentum and potential effects of those forces on nearby systems, as well as the amplification of the forces of these systems in ensemble, resulting in cosmic-level forces that all fundamentally originate from subquantum events, and all following the consistent and intuitive laws of our observable universe.
 
 ### 2.1. Foundational Theories and Observations <a href="#foundational-theories-and-observations"></a>
 
-Existing emergent theories suggest gravity to be an emergent property<sup>[19](https://arxiv.org/pdf/2309.04191),[36](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.104029)</sup>. Experimental data has been published that confirms the relationship between mechanical motion and gravitional forces. The geometric mechanics of resonant fields follow the Gravitational Constant due to the inverse-square nature of it. Resonant patterns can be observed in nature scaling from quantum principles, electron orbital patterns and thus chemical reactions, to fluid dynamics, planetary systems, and even biological behaviors - all lending to the idea that this theory may very well be a universal law of nature.
+Existing emergent theories suggest gravity to be an emergent property<sup>[19](https://arxiv.org/pdf/2309.04191),[36](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.104029)</sup>. Experimental data has been published that confirms the relationship between mechanical motion and gravitational forces. The geometric mechanics of resonant fields follow the Gravitational Constant due to the inverse-square nature of it. Resonant patterns can be observed in nature scaling from quantum principles, electron orbital patterns and thus chemical reactions, to fluid dynamics, planetary systems, and even biological behaviors - all lending to the idea that this theory may very well be a universal law of nature.
 
 Optical vortex systems, which have been studied at various scales<sup>[18](https://www.semanticscholar.org/paper/Generation-of-high-energy-photons-with-large-by-Jentschura-Jentschura/86829bf8678f887e4845bb9797d40ef76e3f4e94)</sup>, indicate that our understanding of photon mechanics leaves profound opportunities for further exploration. While researchers currently explain observational data to be particles in a "twisted state", the results could also be interpreted as harmonically driven via Runge-Kutta methods or unbound orbital dynamics, since the experiment setup's fundamentally conical nature may not accurately be synthesizing the bound state described by kutonics. If the theory presented is correct, it could be applied to allow researchers to produce more consistent results in future experiments. For example, if we can determine the resonant frequencies of an electron $w_e$ and a proton $w_p$, we could align the experimental setup in a harmonic ratio where as:
 
@@ -43,28 +43,28 @@ Utilizing computer simulations<sup>[37](https://www.mdpi.com/2304-6732/10/10/112
 
    - All points were attracted to the center of the system.
    - All points repelled each other.
-   - All points were constrained by a set proximity to the center of the system, as to result in a set of verices with a shared, consistent radius, and an even distribution along the surface of the polyhedral sphere.
+   - All points were constrained by a set proximity to the center of the system, as to result in a set of vertices with a shared, consistent radius, and an even distribution along the surface of the polyhedral sphere.
 
-Keep in mind that while these equations and thought experiments assume a quantized number of points, the algorithm does not inherentily assume that the points are quantized, and thus can be applied to any number of points, including non-integer values. The algorithm was designed to converge on a stable configuration of points that would represent the vertices of a polyhedron.
+Keep in mind that while these equations and thought experiments assume a quantized number of points, the algorithm does not inherently assume that the points are quantized, and thus can be applied to any number of points, including non-integer values. The algorithm was designed to converge on a stable configuration of points that would represent the vertices of a polyhedron.
 
-After initialization and subsequent iterations of the algorithm, the system stabilized into configurations where each point settled on a spherical plane in a manner that was equidistent from its neighbors. Subsequently, the following pattern was observed:
+After initialization and subsequent iterations of the algorithm, the system stabilized into configurations where each point settled on a spherical plane in a manner that was equidistant from its neighbors. Subsequently, the following pattern was observed:
 
- - For $N = 2$ the vertices are diametrically opposite, so $\cos\theta=-1$ and $\theta=\pi$ radians (thus forming a line passing throught he center of the sphere).
- - For $N = 3$ the vertices form an equilateral triangle on the bisectional equator, with $\cos\theta=-\frac{1}{2}$ and $\theta=\frac{2\pi}{3}$ radians, where the geometric center of the trinagle was the center of the sphere.
+ - For $N = 2$ the vertices are diametrically opposite, so $\cos\theta=-1$ and $\theta=\pi$ radians (thus forming a line passing through the center of the sphere).
+ - For $N = 3$ the vertices form an equilateral triangle on the bisectional equator, with $\cos\theta=-\frac{1}{2}$ and $\theta=\frac{2\pi}{3}$ radians, where the geometric center of the triangle was the center of the sphere.
  - For $N = 4$ the vertices form a tetrahedron, with $\cos\theta=-\frac{1}{3}$ and $\cos\theta=\frac{\pi}{2}$
 
-Generalizing this pattern, intuiviely the optimal angle of separation between adjacent points on a spherical polyhedron for any given $N \ge 3$ is:
+Generalizing this pattern, intuitively the optimal angle of separation between adjacent points on a spherical polyhedron for any given $N \ge 3$ is:
     
-$$\cos\theta=-\frac{1}{N-1}\cdot$$
+$$\cos\theta=-\frac{1}{N-1}$$
 
-Intiutively, this relationship arises because for $N$ points distributed uniformly on the sphere:
+Intuitively, this relationship arises because for $N$ points distributed uniformly on the sphere:
 
  - The angular separation decreases as $N$ increases.
  - The denominator $N-1$ ensures that the total angular coverage of the sphere is preserved while accounting for the increasing number of adjacent points.
 
 Taking the inverse cosine yields the angular separation:
 
-  $$\theta=\arccos\left(-\frac{1}{N-1}\right)\cdot$$
+  $$\theta=\arccos\left(-\frac{1}{N-1}\right)$$
 
 Hyper-dimensional computer simulations seem to confirm this equation.
 
@@ -114,7 +114,7 @@ Unfortunately, this was not adequate enough for even, normal distribution. To ac
  - A line has a simplicial complex of 1.
  - A plane has a simplicial complex of 2
 
-And so on. By utilizing the previously derived forumula for optimal angular difference between vertices, graphing the points onto 4-dimensional space, projecting the points into 3-dimensional space, and then adding the following energy equation:
+And so on. By utilizing the previously derived formula for optimal angular difference between vertices, graphing the points onto 4-dimensional space, projecting the points into 3-dimensional space, and then adding the following energy equation:
 
 $$
 E = \sum_{m \neq n} \left( \cos\theta_{mn} - \cos\theta_{\text{ideal}} \right)^2
@@ -179,18 +179,18 @@ $$
 
 This process maintains the symmetry of the distribution while reducing the dimensionality.
 
-<div style="width: 80%; margin: auto; opacity 0.3;">
+<div style="width: 80%; margin: auto; opacity: 0.3;">
   *Figure 1*     
-  <img src="src/Figure_1.png" style="width: 100%; opacity 0.5;" />
+  <img src="src/Figure_1.png" style="width: 100%; opacity: 0.5;" />
 
   *Figure 2*     
-  <img src="src/Figure_2.png" style="width: 100%; opacity 0.5;" />
+  <img src="src/Figure_2.png" style="width: 100%; opacity: 0.5;" />
 
   *Figure 3*     
-  <img src="src/Figure_3.png" style="width: 100%; opacity 0.5;" />
+  <img src="src/Figure_3.png" style="width: 100%; opacity: 0.5;" />
 
   *Figure 4*     
-  <img src="src/Figure_4.png" style="width: 100%; opacity 0.5;" />
+  <img src="src/Figure_4.png" style="width: 100%; opacity: 0.5;" />
 </div>
 
 ---
@@ -221,7 +221,7 @@ $$
 \hat{\mathbf{F}}_m = \frac{\mathbf{F}_m}{\|\mathbf{F}_m\|}
 $$
 
-Ideally, $\hat{\mathbf{F}}_m$ should align with the vector pointing to the origin, confirming that the system is gravitationally stable and symmetric. All tests with the polyhedral forumula pass this test, even in complex systems.
+Ideally, $\hat{\mathbf{F}}_m$ should align with the vector pointing to the origin, confirming that the system is gravitationally stable and symmetric. All tests with the polyhedral formula pass this test, even in complex systems.
 
 ---
 
@@ -271,7 +271,7 @@ For the purposes of this theory, we must dismiss the assumption that vertices (o
     
     Generalizing this pattern, the cosine of the angular separation between adjacent points for any $N \gt 2$ is:
 
-    $$\cos\theta = -\frac{1}{N - 1}\cdot $$
+    $$\cos\theta = -\frac{1}{N - 1} $$
 
     Taking the inverse cosine yields the angular separation:
 
@@ -358,7 +358,7 @@ The EFA equation describes the alignment of energy flow between interacting syst
 Prisms provide a unique opportunity to study the resonance effects of light:
 
 - **Predicted Observation:**
-  - Light passing through a prism should exhibit subtle frequency shifts or polarization patterns as it interacts with the resonant structure of the material. Such anomolies could have been subtle enough to have been overlooked in past experiments.
+  - Light passing through a prism should exhibit subtle frequency shifts or polarization patterns as it interacts with the resonant structure of the material. Such anomalies could have been subtle enough to have been overlooked in past experiments.
   - These shifts may include:
     - A deviation from classical dispersion models.
     - Evidence of hyperdimensional oscillations in the form of unaccounted-for spectral lines, gravitational waves, or other kutonic signatures.
@@ -511,8 +511,8 @@ Nuclear reactions provide a window into the role of harmonic resonance in energy
 1. **Protons and Neutrons:**
    - Protons and neutrons are stable co-orbital systems of light flows in tightly bound resonances.
    - The strong nuclear force arises from the resonance harmonics that bind these systems together.
-   - The true difference between a proton and a neutron is merely the differences in periapsis and apoasis of the "electron's" addition to the proton to become a neutron. This would lend to believe that a neutron, if perturbed with sub-quantum precision, could realign into a hydrogen atom.
-   - Naturally, the number of protons defines the element because it determines the periapsis and apoasis of the free-orbital kutonic electrons, effecting the resonance frequency of the entire system, and defining chemical behaviors.
+   - The true difference between a proton and a neutron is merely the differences in periapsis and apoapsis of the "electron's" addition to the proton to become a neutron. This would lend to believe that a neutron, if perturbed with sub-quantum precision, could realign into a hydrogen atom.
+   - Naturally, the number of protons defines the element because it determines the periapsis and apoapsis of the free-orbital kutonic electrons, effecting the resonance frequency of the entire system, and defining chemical behaviors.
    
 2. **Electrons:**
    - Electrons are smaller, less tightly bound co-orbital energy systems that interact with the proton-neutron core (the nucleus).
@@ -546,7 +546,7 @@ Electricity is traditionally defined as the flow of electrons through a conducto
 
 ---
 
-#### 6.5.1. Key Features of Electricity
+#### 6.5.1. Key Features of Electricity <a href="#key-features-of-electricity"></a>
 
 1. **Electric Current as Directed Energy Flow:**
    - In UTKH, electrons flow as guided energy packets, maintaining their co-orbital structure while transferring their resonance through the atomic lattice of a conductor.
@@ -682,7 +682,7 @@ UTKH expects to face questions and challenges, particularly around three key are
 While less of a theory and more of a poetic parallel, Nature favors configurations that minimize instability, a principle reflected in phenomena ranging from atomic orbitals to planetary systems. Resonance achieves this by:
 - Aligning energy flows into harmonic patterns.
 - Reducing destructive interference and energy dissipation.
-UTKH extends this principle universally, proposing that all stable systems — from atoms to galaxies — arise from resonance-driven minimization of instability. Even low-energy, focused, and harmonically targeted energy could produce profoundly precise results on specific chemical interactions while leaving other biological functions seemlessly unaffected.
+UTKH extends this principle universally, proposing that all stable systems — from atoms to galaxies — arise from resonance-driven minimization of instability. Even low-energy, focused, and harmonically targeted energy could produce profoundly precise results on specific chemical interactions while leaving other biological functions seamlessly unaffected.
 
 ---
 
@@ -783,7 +783,7 @@ UTKH redefines gravity as a harmonic interaction between kinetic systems, giving
 
 - **Quantum Electrodynamics:** Photons interact via virtual particles (e.g., electron-positron pairs), which can create transient effective mass.
 
-- **Loop Quantum Gravity (LQG):** In LQG, spacetime is quantized into discrete loops of energy. Photons in a coesiting photon sphere might localize energy into a quantized "node" or form a stable configuration forming mass.
+- **Loop Quantum Gravity (LQG):** In LQG, spacetime is quantized into discrete loops of energy. Photons in a coexisting photon sphere might localize energy into a quantized "node" or form a stable configuration forming mass.
 
 - **String Theory:** A kutonic system could create resonance conditions for certain vibrational states, or manifest mass as an emergent property of confined energy.
 
@@ -799,7 +799,7 @@ UTKH redefines gravity as a harmonic interaction between kinetic systems, giving
 
 - **Superposition:** UTKH posits that particles exist in superposition because their resonances span multiple harmonic states until observed.
 
-- **Zero-Point Energy:** Ever-present resonances maintaining a baseline "vibrational state" seemlessly link the Casimir Effect and quantum fluctuations to the kutonic framework. This perspective suggests that zero-point energy is not merely a quantum artifact but a manifestation of underlying harmonic dynamics inherent to the universe.
+- **Zero-Point Energy:** Ever-present resonances maintaining a baseline "vibrational state" seamlessly link the Casimir Effect and quantum fluctuations to the kutonic framework. This perspective suggests that zero-point energy is not merely a quantum artifact but a manifestation of underlying harmonic dynamics inherent to the universe.
 
 ---
 
@@ -947,7 +947,7 @@ Let this document serve as an invitation to the scientific community: to questio
 
 I welcome constructive feedback and collaboration to refine and validate this ambitious vision for understanding the universe.
 
-Contact the author: [GitHub](https://github.com/joshmorgan1000/UTKH) or [Email](mailto:UTFH@sonicpoets.com)
+Contact the author: [GitHub](https://github.com/joshmorgan1000/UTKH) or [Email](mailto:UTKH@sonicpoets.com)
 
 ---
 
@@ -960,13 +960,13 @@ I would like to give a shout-out to the /r/AskPhysics community for their help a
   <img src="src/ohnollms.png" style="max-width:100%; height:auto;" alt="technophobia">
 </div>
 
-The irony is, a language model did not (nor could it, in their current state) write such a publication. Several were used for brainstorming, proofreading, and thouroughly fact-checked. I only merely tried to contribute my expertise into how to channel and utilize this unstoppable revolution to your field of study. I'm not sure why you would imagine that I would go out of my way to help you any further than I already have... but I suppose it does follow the rest of the irriationallities.
+The irony is, a language model did not (nor could it, in their current state) write such a publication. Several were used for brainstorming, proofreading, and thoroughly fact-checked. I only merely tried to contribute my expertise into how to channel and utilize this unstoppable revolution to your field of study. I'm not sure why you would imagine that I would go out of my way to help you any further than I already have... but I suppose it does follow the rest of the irrationalities.
 
 <div style="width:100%; height:auto; text-align:center;">
   <img src="src/techno-phobia.png" style="max-width:100%; height:auto;" alt="help-me-help-you">
 </div>
 
-I'm sure that for at least the next 6 months or so, you'll be engaged by more psychphants pining at the opportunity to assist you in your obligations. I would really like to help more if it wouldn't be detrimental to me at this point.
+I'm sure that for at least the next 6 months or so, you'll be engaged by more sycophants pining at the opportunity to assist you in your obligations. I would really like to help more if it wouldn't be detrimental to me at this point.
 
 **Overall, I shall forever wear your welcome wreath as a badge of honor.**
 
@@ -1052,15 +1052,14 @@ OTHER DEALINGS IN THE THEORY.</sub>
 ---
 
 <font size="1">
-Author's edit: this theory is decades old. My band, KinetiK (formed circa 2002-ish) got it's namesake from the concepts herein, and we have the music, audio/video documentation, and the tattoos to prove it. Only recently with the assistance if LLM's *gasp* have I been able to construct this into a somewhat formal format. During that research I've found that many aspects of the theory I thought were a "quantum leap" have been verified and confirmed by laboratory research. Please note the references for any doubt.
+Author's edit: this theory is decades old. My band, KinetiK (formed circa 2002-ish) got it's namesake from the concepts herein, and we have the music, audio/video documentation, and the tattoos to prove it. Only recently with the assistance of LLMs *gasp* have I been able to construct this into a somewhat formal format. During that research I've found that many aspects of the theory I thought were a "quantum leap" have been verified and confirmed by laboratory research. Please note the references for any doubt.
 </font>
 
 ---
 
 <div width='100%', height='auto'>
 <iframe width='100%' height='386px' src="https://www.youtube.com/embed/8joWYolsMDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</a>
-<sub>Music Copyright (C) SonicPoet, accompanied by Matt MacMorran (formally KinetiK, currently of Stiched Up, guitars), and Lewis Sanders (also formally KinetiK, human vocals).<br>
+<sub>Music Copyright (C) SonicPoet, accompanied by Matt MacMorran (formerly KinetiK, currently of Stiched Up, guitars), and Lewis Sanders (also formerly KinetiK, human vocals).<br>
 While the subject matter of the song is AI, this music is an original, human production (with AI artwork for the visuals).</sub>
 
 ---

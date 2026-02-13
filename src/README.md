@@ -19,12 +19,12 @@ And view the "magic" locally.
 
 ## Simulations for the Geometry Function
 
-Example code has been provided as the python script `polyhedral_vertices.py`. The numer of vertices is hard-coded, but you can change and test to your heart's desire. Just run:
+Example code has been provided as the python script `tammes_thomson.py`. The number of vertices is hard-coded, but you can change and test to your heart's desire. Just run:
 ```
-python3 polyhedral_vertices.py
+python3 tammes_thomson.py
 ```
 
-The script `simulator_backend.py` is curently under development, but is meant to help visualize the concepts and potential orbital patterns.
+The simulator backend is currently under development, meant to help visualize the concepts and potential orbital patterns.
 
 ## Contribute
 

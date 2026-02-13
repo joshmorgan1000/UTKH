@@ -28,25 +28,36 @@ module.exports = {
                 test: /\.(jpg|gif)$/,
                 type: 'asset/resource',
                 generator: {
-                    filename: '[name][ext]', // Save images in the 'images/' folder in dist
+                    filename: '[name][ext]',
                 },
+            },
+            {
+                test: /\.md$/,
+                type: 'asset/source',
             },
         ],
     },
     plugins: [
         new HtmlWebpackPlugin({
             title: 'Universal Theory of Kinetic Harmonics',
-            meta: { viewport: 'width=device-width, initial-scale=1' },
+            meta: {
+                viewport: 'width=device-width, initial-scale=1',
+                description: 'The Universal Theory of Kinetic Harmonics (UTKH) proposes that all phenomena arise from light in co-orbital resonance patterns, unifying gravity, mass, and quantum behavior under harmonic principles.',
+                'og:title': { property: 'og:title', content: 'Universal Theory of Kinetic Harmonics' },
+                'og:description': { property: 'og:description', content: 'A unified field theory proposing that all phenomena arise from light in co-orbital resonance patterns.' },
+                'og:type': { property: 'og:type', content: 'article' },
+            },
         }),
         new CopyWebpackPlugin({
             patterns: [
-                { from: 'src/README.md', to: 'README.md' }, // Copy README.md
-                { from: 'src/ohnollms.png', to: 'src/ohnollms.png' }, // Copy background image
-                { from: 'src/imposter-syndrome.png', to: 'src/imposter-syndrome.png' }, // Copy background image
-                { from: 'src/Figure_1.png', to: 'src/Figure_1.png' }, // Copy figure 1
-                { from: 'src/Figure_2.png', to: 'src/Figure_2.png' }, // Copy figure 2
-                { from: 'src/Figure_3.png', to: 'src/Figure_3.png' }, // Copy figure 3
-                { from: 'src/Figure_4.png', to: 'src/Figure_4.png' }, // Copy figure 4
+                { from: 'src/README.md', to: 'README.md' },
+                { from: 'src/ohnollms.png', to: 'src/ohnollms.png' },
+                { from: 'src/imposter-syndrome.png', to: 'src/imposter-syndrome.png' },
+                { from: 'src/techno-phobia.png', to: 'src/techno-phobia.png' },
+                { from: 'src/Figure_1.png', to: 'src/Figure_1.png' },
+                { from: 'src/Figure_2.png', to: 'src/Figure_2.png' },
+                { from: 'src/Figure_3.png', to: 'src/Figure_3.png' },
+                { from: 'src/Figure_4.png', to: 'src/Figure_4.png' },
             ],
         }),
     ],

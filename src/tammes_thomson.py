@@ -81,12 +81,12 @@ class PolyhedronGenerator:
         """
         Compute the gravitational force acting on each vertex based on the distance to all other vertice.
         """
-        eucledean_vertices = self._project_to_sphere(vertices)
+        euclidean_vertices = self._project_to_sphere(vertices)
         forces = np.zeros_like(vertices)
         for i in range(self.n_vertices):
             for j in range(self.n_vertices):
                 if i != j:
-                    diff = eucledean_vertices[j] - eucledean_vertices[i]
+                    diff = euclidean_vertices[j] - euclidean_vertices[i]
                     forces[i] += diff / np.linalg.norm(diff) ** 3
         return forces
     
@@ -103,7 +103,7 @@ class PolyhedronGenerator:
                 - pairs is a list of vertex index pairs.
         """
         pairs = self._get_edge_pairs(vertices)
-        # Each vertex is in Cartisian coordinates, so we need to convert to spherical coordinates
+        # Each vertex is in Cartesian coordinates, so we need to convert to spherical coordinates
         vertices = self._project_to_sphere(vertices)
         angles = []
         # Calculate the angle between each pair of vertices, with the center as the origin
@@ -125,7 +125,7 @@ class PolyhedronGenerator:
             numpy.ndarray: Pairwise distances between vertices.
         """
         pairs = self._get_edge_pairs(vertices)
-        # Each vertex is in Cartisian coordinates, so we need to convert to spherical coordinates
+        # Each vertex is in Cartesian coordinates, so we need to convert to spherical coordinates
         vertices = self._project_to_sphere(vertices)
         distances = []
         # Calculate the distance between each pair of vertices
